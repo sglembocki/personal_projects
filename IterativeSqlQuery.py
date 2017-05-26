@@ -5,7 +5,7 @@ import cx_Oracle as ora
 import base64
 import smtplib
 
-#sql for all mapped_course_names, specify courses of interest here
+#sql for list that will be used for parameters
 
 sql = '''
     SELECT DISTINCT NAME
@@ -13,14 +13,14 @@ sql = '''
     WHERE FIELD LIKE '%%'
 '''
 
-#connect and save all course_names to df, input username and password
+#connect and save all list items to df
 
 conn = ora.connect('user/password@connection')
 cursor = conn.cursor()
 names = pd.read_sql(sql, conn)
 names.head()
 
-#course completion, iterating through each course_name
+#sql query that iterates through list items
 
 df = pd.DataFrame()
 
