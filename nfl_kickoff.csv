@@ -1,0 +1,124 @@
+,average,long,number,osk,osr,out_of_bounds,player,return_yards,returns,team,touchbacks,touchdowns,yards
+0,0,2,32,0,0,Lorenzo AlexanderL. Alexander,0,0,0,buffalo-bills,2,0.00,640
+1,3.0,21.0,15,0,3,0,59,0.00,0,buffalo-bills,Colt AndersonC. Anderson,0,74
+2,0.0,Robert BlantonR. Blanton,3,2,1,0,0,0,0.00,buffalo-bills,0,0,0.0
+0,0,34,72,87,"5,472",0,59.9,4,5,miami-dolphins,665,Opponents,28
+1,0,40,72,0,0,0,62.9,0,2,miami-dolphins,827,Walt AikensW. Aikens,45
+2,6,3,0,0,0.00,0.0,0.00,Chase AllenC. Allen,0.0,miami-dolphins,9,0,0
+0,1,3,28,0,0,Danny AmendolaD. Amendola,0,0,0,new-england-patriots,0,0.00,622
+1,0.0,0.0,0,0,24,0,2,0.00,0,new-england-patriots,Johnson BademosiJ. Bademosi,0,2
+2,0.0,Brandon BoldenB. Bolden,29,7,1,0,5,0,0.00,new-england-patriots,0,0,0.0
+0,Jamal AdamsJ. Adams,0,3,20,83,0.00,0,0,0,new-york-jets,0,63,1
+1,0,0,18.0,3,0.0,0,2.0,3,0,new-york-jets,0.00,0,Robby AndersonR. Anderson
+2,0,0.00,David BassD. Bass,3.5,16.5,0,0.0,9,16,new-york-jets,0,25,0
+3,0.00,0,0,0.0,Freddie BishopF. Bishop,1,Kelvin BeachumK. Beachum,1,0,new-york-jets,0,0.0,0
+0,1,27,0.0,11,3.0,27,0.0,9,0,baltimore-ravens,27.00,2,Tyus BowserT. Bowser
+1,0,0.00,Nick BoyleN. Boyle,0.0,0.0,0,13.0,0,1,baltimore-ravens,0,1,0
+2,0.00,0,0,0.0,Maurice CanadyM. Canady,1,Michael CampanaroM. Campanaro,1,0,baltimore-ravens,0,0.0,0
+0,"5,087",63.6,Opponents,0,0,46,0,34,0,cincinnati-bengals,70,670,80
+1,0,0.00,Geno AtkinsG. Atkins,9.0,65.5,0,0,17,29,cincinnati-bengals,0,46,0
+2,0.00,0,0,0.0,Giovani BernardG. Bernard,6,Brandon BellB. Bell,10,4,cincinnati-bengals,0,0.0,0
+3,0,0,0,Andrew BillingsA. Billings,0,0,0,0.0,1,cincinnati-bengals,1,0.0,0.00
+0,71,33,"3,350",0,Opponents,20,57,1,471,cleveland-browns,0,4,58.8
+1,70,49,"5,374",0,Dominique AlexanderD. Alexander,35,86,0,790,cleveland-browns,1,1,62.5
+2,0,0,0,B.J. BelloB. Bello,0,0,0,0.0,1,cleveland-browns,1,0.0,0.00
+3,0,5,0.00,0,0,6,0,0.0,0.0,cleveland-browns,1,Joel BitonioJ. Bitonio,0
+0,43,906,46,"5,681",63.1,0,74,Pittsburgh,0,pittsburgh-steelers,0,90,1
+1,43,906,46,"4,400",62.0,0,74,Opponents,0,pittsburgh-steelers,0,71,1
+2,33,630,37,0,0.00,0,70,Brian AllenB. Allen,0,pittsburgh-steelers,1,0,0
+0,9,0.0,8,0,0,Alfred BlueA. Blue,0,0,0,houston-texans,0.0,0.00,1
+1,0.0,0.0,1,0,1,0,4,0.00,0,houston-texans,Marcus BurleyM. Burley,0,5
+2,0.0,Ibraheim CampbellI. Campbell,1,1,1,0,0,0,0.00,houston-texans,0,0,0.0
+3,Chris ClarkC. Clark,0,0.0,0,1,0.00,2,0,0,houston-texans,0,1,0.0
+0,0,2,28,0,0,Henry AndersonH. Anderson,0,0,0,indianapolis-colts,0,0.00,590
+1,2.0,8.0,7,0,5,0,15,0.00,0,indianapolis-colts,Tarell BashamT. Basham,0,22
+2,22.0,Jonathan BosticJ. Bostic,7,57,40,0,2,0,0.00,indianapolis-colts,0,0,2.0
+0,0.0,0.0,0,0,1,0,3,0.00,0,jacksonville-jaguars,Michael BennettM. Bennett,0,3
+1,0.0,Tommy BohanonT. Bohanon,1,2,0,0,0,0,0.00,jacksonville-jaguars,0,0,0.0
+2,Blake BortlesB. Bortles,0,0.0,0,1,0.00,2,0,0,jacksonville-jaguars,0,1,0.0
+3,6,70,0.0,56,0.0,51,0.0,53,0,jacksonville-jaguars,11.67,3,A.J. BouyeA. Bouye
+0,0,32,76,87,"5,382",0,64.0,0,1,tennessee-titans,750,Opponents,47
+1,0,28,72,0,0,0,61.9,0,3,tennessee-titans,618,Daren BatesD. Bates,56
+2,7,1,0,0,0.00,0.0,0.00,Beau BrinkleyB. Brinkley,0.0,tennessee-titans,8,0,0
+0,0.00,0,0,0.0,Devontae BookerD. Booker,3,Garett BollesG. Bolles,3,0,denver-broncos,0,0.0,0
+1,0,0,0,Jamal CarterJ. Carter,0,0,0,0.0,2,denver-broncos,2,0.0,0.00
+2,0,9,0.00,0,0,11,0,0.0,0.0,denver-broncos,2,Jamaal CharlesJ. Charles,0
+3,1,0,0,0,0.00,0.0,0.00,Todd DavisT. Davis,0.0,denver-broncos,1,0,0
+0,"6,232",64.2,Kansas City,0,0,71,0,25,0,kansas-city-chiefs,74,486,97
+1,"4,537",61.3,Opponents,0,4,24,0,47,0,kansas-city-chiefs,73,"1,051",74
+2,9,9.00,Kenneth AckerK. Acker,0.0,0.0,0,2,2,21,kansas-city-chiefs,9,23,1
+3,0.00,0,0,8.0,Eric BerryE. Berry,21,Allen BaileyA. Bailey,38,17,kansas-city-chiefs,0,2.0,0
+4,0,0,0,Orson CharlesO. Charles,0,3,0,0.0,7,kansas-city-chiefs,4,0.0,0.00
+0,0,1,0/0,6/8,2/8,37/42,0/0,0/0,20/30,los-angeles-chargers,LA Chargers,11/11,0/0
+1,Opponents,23/26,50,4/6,54,0/0,1/3,8/8,5/5,los-angeles-chargers,23/27,6/8,97
+2,"2,023",63.2,Nick NovakN. Novak,0,0,9,92,23,0,los-angeles-chargers,69,564,32
+3,943,62.9,Travis CoonsT. Coons,0,0,4,0,11,0,los-angeles-chargers,65,254,15
+4,922,65.9,Younghoe KooY. Koo,0,0,8,0,6,0,los-angeles-chargers,78,173,14
+5,589,65.4,Nick RoseN. Rose,0,0,8,0,1,0,los-angeles-chargers,69,29,9
+6,449,64.1,Drew KaserD. Kaser,0,0,2,0,5,0,los-angeles-chargers,73,130,7
+0,0,6,34,0,0,Tyrell AdamsT. Adams,0,0,0,oakland-raiders,1,0.00,738
+1,0.0,0.0,7,0,14,0,11,0.00,0,oakland-raiders,David AmersonD. Amerson,0,18
+2,0.0,Denico AutryD. Autry,18,23,13,0,4,0,0.00,oakland-raiders,0,0,0.0
+0,50,86,6/7,32,0,56,7/12,64.4,"3,605",dallas-cowboys,Dan BaileyD. Bailey,71,1/1
+1,0,0,519,11,0,19,24,65.6,"1,246",dallas-cowboys,Mike NugentM. Nugent,72,0
+2,0,0,190,2,0,5,8,61.6,308,dallas-cowboys,Jeff HeathJ. Heath,65,0
+3,0,0,50,45,0,80,3,64.5,"5,159",dallas-cowboys,Dallas,72,0
+4,0,0,759,47,0,73,35,64.6,"4,719",dallas-cowboys,Opponents,74,0
+0,0,0,0.0,4,0.0,0,0.0,3,0,new-york-giants,0.00,1,Jerell AdamsJ. Adams
+1,0,0.00,Eli AppleE. Apple,0.0,0.0,0,0.0,8,41,new-york-giants,0,49,0
+2,0.00,0,0,0.0,Akeem AyersA. Ayers,5,Ray-Ray ArmstrongR. Armstrong,10,5,new-york-giants,0,0.0,0
+0,0,Kamu Grugier-HillK. Grugier-Hill,0,0,3,248,77,65,62.0,philadelphia-eagles,4,1,0
+1,0,Philadelphia,0,1,47,"5,834",81,72,62.1,philadelphia-eagles,94,45,0
+2,1,Opponents,0,0,18,"4,317","1,015",74,62.6,philadelphia-eagles,69,49,1
+3,0,Nelson AgholorN. Agholor,0,2,0,0,354,0,0.00,philadelphia-eagles,0,0,1
+4,Jay AjayiJ. Ajayi,0,0.0,0,1,0.00,2,0,0,philadelphia-eagles,0,1,0.0
+0,0,Tress WayT. Way,0,0,1,61,245,61,61.0,washington-redskins,1,0,2
+1,0,Washington,0,1,24,"4,987",12,73,63.1,washington-redskins,79,53,0
+2,0,Opponents,0,0,34,"5,386",448,67,62.6,washington-redskins,86,50,2
+3,0,Jonathan AllenJ. Allen,0,3,7,0,673,0,0.00,washington-redskins,0,0,2
+4,Ryan AndersonR. Anderson,0,1.0,3,15,0.00,10,0,0,washington-redskins,0,12,7.0
+0,17,"1,016",0,157,0,68,0,0,7,chicago-bears,59.8,10,Mike NugentM. Nugent
+1,4,260,0,54,0,70,0,0,2,chicago-bears,65.0,2,Pat O'DonnellP. O'Donnell
+2,2,130,0,0,0,65,0,0,2,chicago-bears,65.0,0,Cairo SantosC. Santos
+3,60,"3,780",0,699,1,70,0,0,28,chicago-bears,63.0,32,Chicago
+4,80,"4,984",0,969,0,70,0,1,33,chicago-bears,62.3,46,Opponents
+5,0,0,0,45,3.0,0,0,29,0,chicago-bears,0.00,16,Sam AchoS. Acho
+0,0,7,70,17,977,0,64.6,0,0,detroit-lions,180,Matt PraterM. Prater,16
+1,0,10,68,1,65,0,57.5,0,1,detroit-lions,149,Kasey RedfernK. Redfern,6
+2,0,1,65,91,"5,769",0,65.0,0,0,detroit-lions,23,Detroit,0
+3,0,43,71,79,"4,808",0,63.4,0,1,detroit-lions,878,Opponents,47
+4,3,32,73,0,0,0,60.9,1,2,detroit-lions,583,Jared AbbrederisJ. Abbrederis,43
+5,2,1,0,0,0.00,0.0,0.00,Ameer AbdullahA. Abdullah,0.0,detroit-lions,3,0,0
+0,0,0,0.0,2,0.0,0,0.0,2,0,green-bay-packers,0.00,0,Geronimo AllisonG. Allison
+1,0,0.00,Vince BiegelV. Biegel,0.0,0.0,0,0.0,5,11,green-bay-packers,0,16,0
+2,11.00,11,1,0.0,Ahmad BrooksA. Brooks,19,Kentrell BriceK. Brice,23,4,green-bay-packers,0,0.0,11
+0,0,1,51,89,"5,638",0,51.0,0,0,minnesota-vikings,14,Minnesota,0
+1,0,45,72,67,"4,299",0,63.3,0,0,minnesota-vikings,"1,023",Opponents,44
+2,2,25,74,1,10,0,64.2,0,2,minnesota-vikings,619,Mackensie AlexanderM. Alexander,40
+3,13,4,10,0,0.00,0.0,10.00,Anthony BarrA. Barr,0.0,minnesota-vikings,17,0,0
+0,63.5,71,84,2,0,0,Matt BosherM. Bosher,863,33,atlanta-falcons,49,0,"5,332"
+1,63.5,71,84,2,0,0,Atlanta,863,33,atlanta-falcons,49,0,"5,332"
+2,64.2,72,77,0,0,0,Opponents,871,39,atlanta-falcons,38,0,"4,940"
+0,1,1,34,40,0,Mike AdamsM. Adams,0,42,2,carolina-panthers,1,21.00,760
+1,0.0,0.0,21,0,27,0,48,0.00,0,carolina-panthers,Mario AddisonM. Addison,0,69
+2,70.5,Alex ArmahA. Armah,44,0,2,0,17,0,0.00,carolina-panthers,0,0,11.0
+0,0,3,32,72,36,Opponents,2,"4,658",77,new-orleans-saints,0,60.5,788
+1,1,5,36,0,0,Alex AnzaloneA. Anzalone,2,0,0,new-orleans-saints,0,0.00,825
+2,1.0,4.0,5,0,1,0,11,0.00,0,new-orleans-saints,Terron ArmsteadT. Armstead,0,16
+3,0.0,Chris BanjoC. Banjo,1,10,2,0,0,0,0.00,new-orleans-saints,1,0,0.0
+0,"1,074",2,0,61.9,70,0,14,18,Nick FolkN. Folk,tampa-bay-buccaneers,2,"1,114",43
+1,86,0,0,61.1,71,0,13,77,Tampa Bay,tampa-bay-buccaneers,1,"4,704",4
+2,"1,160",2,0,63.8,67,0,27,83,Opponents,tampa-bay-buccaneers,3,"5,294",47
+3,432,0,0,23.33,28,0,62,3,Kwon AlexanderK. Alexander,tampa-bay-buccaneers,1,70,20
+0,1,2,40,70,49,Opponents,1,"4,996",80,arizona-cardinals,0,62.5,880
+1,0,2,29,0,0,Budda BakerB. Baker,0,0,0,arizona-cardinals,0,0.00,592
+2,1.0,7.0,16,0,47,5,58,10.20,51,arizona-cardinals,Antoine BetheaA. Bethea,21,74
+3,8.0,Justin BethelJ. Bethel,57,29,12,82,10,82t,82.00,arizona-cardinals,1,1,1.0
+0,"4,760",61.8,Opponents,1,2,34,0,40,1,los-angeles-rams,74,"1,001",77
+1,0,0.00,Maurice AlexanderM. Alexander,0.0,0.0,0,1,7,13,los-angeles-rams,0,20,0
+2,0.00,0,0,0.0,Mark BarronM. Barron,1,Tavon AustinT. Austin,1,0,los-angeles-rams,0,0.0,0
+3,15,0,29,Connor BarwinC. Barwin,0,13,3,1.0,86,los-angeles-rams,73,2.0,9.67
+0,0,2,40,83,"5,166",0,25.2,1,2,san-francisco-49ers,2,San Francisco,0
+1,1,15,70,86,"5,258",0,62.2,1,2,san-francisco-49ers,302,Opponents,64
+2,3,31,70,0,0,0,61.1,1,3,san-francisco-49ers,570,Arik ArmsteadA. Armstead,50
+3,8,8,0,29,14.50,1.5,0.00,Ray-Ray ArmstrongR. Armstrong,8.5,san-francisco-49ers,16,2,0

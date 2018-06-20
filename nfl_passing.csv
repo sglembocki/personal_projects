@@ -1,0 +1,160 @@
+,compl_percent,completions,int_percentage,interceptions,long,loss,pass_attempts,passer_rating,passing_touchdowns,passing_yards,player,sack,team,touchdown_percentage,yards_per_pass
+0,62.6,263,1.0,4,47,256,420,89.2,14,"2,799",Tyrod TaylorT. Taylor,46,buffalo-bills,3.3,6.7
+1,49.0,24,10.2,5,21,5,49,38.4,2,252,Nathan PetermanN. Peterman,1,buffalo-bills,4.1,5.1
+2,28.6,2,14.3,1,34,0,7,8.3,0,35,Joe WebbJ. Webb,0,buffalo-bills,0.0,5.0
+3,60.7,289,2.1,10,47,261,476,82.1,16,"3,086",Buffalo,47,buffalo-bills,3.4,6.5
+4,64.6,370,3.1,18,77t,156,573,78.9,14,"3,844",Opponents,27,buffalo-bills,2.4,6.7
+0,62.6,263,1.0,4,47,256,420,89.2,14,"2,799",Tyrod TaylorT. Taylor,46,buffalo-bills,3.3,6.7
+1,49.0,24,10.2,5,21,5,49,38.4,2,252,Nathan PetermanN. Peterman,1,buffalo-bills,4.1,5.1
+2,28.6,2,14.3,1,34,0,7,8.3,0,35,Joe WebbJ. Webb,0,buffalo-bills,0.0,5.0
+3,60.7,289,2.1,10,47,261,476,82.1,16,"3,086",Buffalo,47,buffalo-bills,3.4,6.5
+4,64.6,370,3.1,18,77t,156,573,78.9,14,"3,844",Opponents,27,buffalo-bills,2.4,6.7
+0,62.0,266,3.3,14,65t,154,429,80.8,19,"2,666",Jay CutlerJ. Cutler,20,miami-dolphins,4.4,6.2
+1,61.4,78,3.9,5,61t,95,127,75.6,4,861,Matt MooreM. Moore,12,miami-dolphins,3.1,6.8
+2,67.4,29,2.3,1,26,8,43,82.0,1,265,David FalesD. Fales,1,miami-dolphins,2.3,6.2
+3,0.0,0,0.0,0,0,0,1,39.6,0,0,Jarvis LandryJ. Landry,0,miami-dolphins,0.0,0.0
+4,0.0,0,100.0,1,0,0,1,0.0,0,0,Matt HaackM. Haack,0,miami-dolphins,0.0,0.0
+5,0.0,0,0.0,0,0,0,1,39.6,0,0,MarQueis GrayM. Gray,0,miami-dolphins,0.0,0.0
+6,62.0,373,3.5,21,65t,257,602,78.7,24,"3,792",Miami,33,miami-dolphins,4.0,6.3
+7,64.2,339,1.7,9,69t,185,528,94.8,26,"3,788",Opponents,30,miami-dolphins,4.9,7.2
+0,66.3,385,1.4,8,64t,201,581,102.8,32,"4,577",Tom BradyT. Brady,35,new-england-patriots,5.5,7.9
+1,66.7,4,0.0,0,27,0,6,86.8,0,42,Brian HoyerB. Hoyer,0,new-england-patriots,0.0,7.0
+2,66.3,389,1.4,8,64t,201,587,102.6,32,"4,619",New England,35,new-england-patriots,5.5,7.9
+3,62.2,367,2.0,12,78t,299,590,89.5,24,"4,319",Opponents,42,new-england-patriots,4.1,7.3
+0,67.3,267,2.3,9,69t,264,397,94.5,18,"2,926",Josh McCownJ. McCown,39,new-york-jets,4.5,7.4
+1,49.1,55,2.7,3,46,55,112,55.1,1,544,Bryce PettyB. Petty,8,new-york-jets,0.9,4.9
+2,100.0,1,0.0,0,31,0,1,118.8,0,31,Lachlan EdwardsL. Edwards,0,new-york-jets,0.0,31.0
+3,63.3,323,2.4,12,69t,319,510,86.1,19,"3,501",NY Jets,47,new-york-jets,3.7,6.9
+4,59.0,329,2.0,11,79t,155,558,90.1,30,"3,904",Opponents,28,new-york-jets,5.4,7.0
+0,64.1,352,2.4,13,66,205,549,80.4,18,"3,141",Joe FlaccoJ. Flacco,27,baltimore-ravens,3.3,5.7
+1,56.2,9,0.0,0,12,0,16,103.1,2,56,Ryan MallettR. Mallett,0,baltimore-ravens,12.5,3.5
+2,100.0,2,0.0,0,22,0,2,118.8,0,38,Sam KochS. Koch,0,baltimore-ravens,0.0,19.0
+3,64.0,363,2.3,13,66,205,567,81.4,20,"3,235",Baltimore,27,baltimore-ravens,3.5,5.7
+4,58.5,333,3.9,22,57,280,569,72.4,18,"3,701",Opponents,41,baltimore-ravens,3.2,6.5
+0,59.9,297,2.4,12,77t,255,496,86.6,25,"3,320",Andy DaltonA. Dalton,39,cincinnati-bengals,5.0,6.7
+1,50.0,7,0.0,0,27,9,14,63.4,0,66,A.J. McCarronA. McCarron,1,cincinnati-bengals,0.0,4.7
+2,59.6,304,2.4,12,77t,264,510,86.0,25,"3,386",Cincinnati,40,cincinnati-bengals,4.9,6.6
+3,59.9,336,2.0,11,72,278,561,82.9,20,"3,657",Opponents,41,cincinnati-bengals,3.6,6.5
+0,53.6,255,4.6,22,56t,226,476,60.5,11,"2,894",DeShone KizerD. Kizer,38,cleveland-browns,2.3,6.1
+1,61.3,46,6.7,5,49,35,75,71.9,4,517,Kevin HoganK. Hogan,6,cleveland-browns,5.3,6.9
+2,47.8,11,4.3,1,31,48,23,46.6,0,126,Cody KesslerC. Kessler,6,cleveland-browns,0.0,5.5
+3,54.4,312,4.9,28,56t,309,574,61.4,15,"3,537",Cleveland,50,cleveland-browns,2.6,6.2
+4,68.6,360,1.3,7,61t,197,525,102.2,28,"3,881",Opponents,34,cleveland-browns,5.3,7.4
+0,64.2,360,2.5,14,97t,139,561,93.4,28,"4,251",Ben RoethlisbergerB. Roethlisberger,21,pittsburgh-steelers,5.0,7.6
+1,82.1,23,3.6,1,46,15,28,99.3,1,239,Landry JonesL. Jones,3,pittsburgh-steelers,3.6,8.5
+2,100.0,1,0.0,0,44,0,1,118.8,0,44,Robert GoldenR. Golden,0,pittsburgh-steelers,0.0,44.0
+3,65.1,384,2.5,15,97t,154,590,94.1,29,"4,534",Pittsburgh,24,pittsburgh-steelers,4.9,7.7
+4,59.5,297,3.2,16,75t,393,499,81.8,20,"3,610",Opponents,56,pittsburgh-steelers,4.0,7.2
+0,61.8,126,3.9,8,72t,116,204,103.0,19,"1,699",Deshaun WatsonD. Watson,19,houston-texans,9.3,8.3
+1,56.1,125,2.7,6,57,159,223,71.4,5,"1,412",Tom SavageT. Savage,21,houston-texans,2.2,6.3
+2,48.5,47,3.1,3,40,75,97,65.8,4,523,T.J. YatesT. Yates,13,houston-texans,4.1,5.4
+3,100.0,1,0.0,0,10,16,1,108.3,0,10,Taylor HeinickeT. Heinicke,1,houston-texans,0.0,10.0
+4,57.0,299,3.2,17,72t,366,525,82.8,28,"3,644",Houston,54,houston-texans,5.3,6.9
+5,64.1,321,2.2,11,94t,200,501,99.5,30,"3,999",Opponents,32,houston-texans,6.0,8.0
+0,58.8,276,1.5,7,80t,305,469,81.7,13,"3,098",Jacoby BrissettJ. Brissett,52,indianapolis-colts,2.8,6.6
+1,50.0,9,11.1,2,32,29,18,33.8,0,128,Scott TolzienS. Tolzien,4,indianapolis-colts,0.0,7.1
+2,58.5,285,1.8,9,80t,334,487,79.7,13,"3,226",Indianapolis,56,indianapolis-colts,2.7,6.6
+3,62.4,320,2.5,13,67,177,513,91.9,23,"4,123",Opponents,25,indianapolis-colts,4.5,8.0
+0,60.2,315,2.5,13,75t,123,523,84.7,21,"3,687",Blake BortlesB. Bortles,24,jacksonville-jaguars,4.0,7.0
+1,100.0,1,0.0,0,29,0,1,118.8,0,29,Brad NortmanB. Nortman,0,jacksonville-jaguars,0.0,29.0
+2,0.0,0,0.0,0,0,0,1,39.6,0,0,Marqise LeeM. Lee,0,jacksonville-jaguars,0.0,0.0
+3,0.0,0,0.0,0,0,0,2,39.6,0,0,Chad HenneC. Henne,0,jacksonville-jaguars,0.0,0.0
+4,60.0,316,2.5,13,75t,123,527,84.4,21,"3,716",Jacksonville,24,jacksonville-jaguars,4.0,7.1
+5,56.8,289,4.1,21,74t,356,509,68.5,17,"3,074",Opponents,55,jacksonville-jaguars,3.3,6.0
+0,62.0,281,3.3,15,75t,173,453,79.3,13,"3,232",Marcus MariotaM. Mariota,27,tennessee-titans,2.9,7.1
+1,59.5,25,4.8,2,17,30,42,55.9,1,162,Matt CasselM. Cassel,8,tennessee-titans,2.4,3.9
+2,0.0,0,0.0,0,0,0,1,39.6,0,0,Eric DeckerE. Decker,0,tennessee-titans,0.0,0.0
+3,61.7,306,3.4,17,75t,203,496,77.1,14,"3,394",Tennessee,35,tennessee-titans,2.8,6.8
+4,61.0,369,2.0,12,80t,272,605,87.8,27,"4,100",Opponents,43,tennessee-titans,4.5,6.8
+0,59.0,206,4.0,14,44,220,349,73.3,12,"2,285",Trevor SiemianT. Siemian,33,denver-broncos,3.4,6.5
+1,55.8,96,2.9,5,54t,64,172,72.5,5,"1,088",Brock OsweilerB. Osweiler,10,denver-broncos,2.9,6.3
+2,66.7,30,6.7,3,30,51,45,72.0,2,295,Paxton LynchP. Lynch,9,denver-broncos,4.4,6.6
+3,58.7,332,3.9,22,54t,335,566,73.0,19,"3,668",Denver,52,denver-broncos,3.4,6.5
+4,59.9,294,2.0,10,64t,175,491,91.9,29,"3,385",Opponents,33,denver-broncos,5.9,6.9
+0,67.5,341,1.0,5,79t,207,505,104.7,26,"4,042",Alex SmithA. Smith,35,kansas-city-chiefs,5.1,8.0
+1,62.9,22,2.9,1,51,15,35,76.4,0,284,Patrick MahomesP. Mahomes,2,kansas-city-chiefs,0.0,8.1
+2,0.0,0,100.0,1,0,0,1,0.0,0,0,Travis KelceT. Kelce,0,kansas-city-chiefs,0.0,0.0
+3,0.0,0,100.0,1,0,0,1,0.0,0,0,Tyreek HillT. Hill,0,kansas-city-chiefs,0.0,0.0
+4,0.0,0,0.0,0,0,0,1,39.6,0,0,Tyler BrayT. Bray,0,kansas-city-chiefs,0.0,0.0
+5,66.9,363,1.5,8,79t,222,543,100.8,26,"4,326",Kansas City,37,kansas-city-chiefs,4.8,8.0
+6,57.0,325,2.8,16,69,179,570,81.5,23,"4,131",Opponents,31,kansas-city-chiefs,4.0,7.2
+0,62.6,360,1.7,10,75t,120,575,96.0,28,"4,515",Philip RiversP. Rivers,18,los-angeles-chargers,4.9,7.9
+1,75.0,6,12.5,1,10,0,8,43.8,0,36,Kellen ClemensK. Clemens,0,los-angeles-chargers,0.0,4.5
+2,62.8,366,1.9,11,75t,120,583,95.1,28,"4,551",LA Chargers,18,los-angeles-chargers,4.8,7.8
+3,62.8,329,3.4,18,87t,261,524,78.1,17,"3,417",Opponents,43,los-angeles-chargers,3.2,6.5
+0,62.7,323,2.5,13,87t,101,515,86.4,22,"3,496",Derek CarrD. Carr,20,oakland-raiders,4.3,6.8
+1,55.8,24,2.3,1,41t,29,43,72.3,1,265,E.J. ManuelE. Manuel,4,oakland-raiders,2.3,6.2
+2,62.2,347,2.5,14,87t,130,558,85.3,23,"3,761",Oakland,24,oakland-raiders,4.1,6.7
+3,68.1,361,0.9,5,74,188,530,101.8,24,"4,046",Opponents,31,oakland-raiders,4.5,7.6
+0,62.9,308,2.7,13,81t,185,490,86.6,22,"3,324",Dak PrescottD. Prescott,32,dallas-cowboys,4.5,6.8
+1,33.3,1,0.0,0,2,0,3,42.4,0,2,Cooper RushC. Rush,0,dallas-cowboys,0.0,0.7
+2,62.7,309,2.6,13,81t,185,493,86.3,22,"3,326",Dallas,32,dallas-cowboys,4.5,6.7
+3,66.4,371,1.8,10,56t,321,559,94.6,28,"3,746",Opponents,38,dallas-cowboys,5.0,6.7
+0,61.6,352,2.3,13,77t,189,571,80.4,19,"3,468",Eli ManningE. Manning,31,new-york-giants,3.3,6.1
+1,58.3,21,0.0,0,47,12,36,84.5,1,212,Geno SmithG. Smith,3,new-york-giants,2.8,5.9
+2,0.0,0,100.0,1,0,0,1,0.0,0,0,Shane VereenS. Vereen,0,new-york-giants,0.0,0.0
+3,61.3,373,2.3,14,77t,201,608,79.8,20,"3,680",NY Giants,34,new-york-giants,3.3,6.1
+4,61.9,347,2.3,13,83t,161,561,94.2,32,"4,199",Opponents,27,new-york-giants,5.7,7.5
+0,60.2,265,1.6,7,72t,162,440,101.9,33,"3,296",Carson WentzC. Wentz,28,philadelphia-eagles,7.5,7.5
+1,56.4,57,2.0,2,35,44,101,79.5,5,537,Nick FolesN. Foles,5,philadelphia-eagles,5.0,5.3
+2,82.6,19,0.0,0,16,24,23,90.9,0,134,Nate SudfeldN. Sudfeld,3,philadelphia-eagles,0.0,5.8
+3,60.5,341,1.6,9,72t,230,564,97.6,38,"3,967",Philadelphia,36,philadelphia-eagles,6.7,7.0
+4,60.4,363,3.2,19,77t,246,601,79.5,24,"3,883",Opponents,38,philadelphia-eagles,4.0,6.5
+0,64.3,347,2.4,13,74,342,540,93.9,27,"4,093",Kirk CousinsK. Cousins,41,washington-redskins,5.0,7.6
+1,64.3,347,2.4,13,74,342,540,93.9,27,"4,093",Washington,41,washington-redskins,5.0,7.6
+2,57.6,306,3.0,16,75t,272,531,81.0,23,"3,692",Opponents,42,washington-redskins,4.3,7.0
+0,59.4,196,2.1,7,70,196,330,77.5,7,"2,193",Mitchell TrubiskyM. Trubisky,31,chicago-bears,2.1,6.6
+1,66.4,93,3.6,5,29,78,140,76.9,4,833,Mike GlennonM. Glennon,8,chicago-bears,2.9,6.0
+2,100.0,1,0.0,0,38t,0,1,158.3,1,38,Pat O'DonnellP. O'Donnell,0,chicago-bears,100.0,38.0
+3,50.0,1,0.0,0,21t,0,2,127.1,1,21,Tarik CohenT. Cohen,0,chicago-bears,50.0,10.5
+4,61.5,291,2.5,12,70,274,473,79.1,13,"3,085",Chicago,39,chicago-bears,2.7,6.5
+5,64.8,343,1.5,8,88t,277,529,89.9,18,"3,653",Opponents,42,chicago-bears,3.4,6.9
+0,65.7,371,1.8,10,71t,287,565,99.3,29,"4,446",Matthew StaffordM. Stafford,47,detroit-lions,5.1,7.9
+1,60.0,3,20.0,1,13,0,5,32.5,0,24,Jake RudockJ. Rudock,0,detroit-lions,0.0,4.8
+2,65.6,374,1.9,11,71t,287,570,98.4,29,"4,470",Detroit,47,detroit-lions,5.1,7.8
+3,64.2,366,3.3,19,97t,228,570,84.1,21,"4,120",Opponents,35,detroit-lions,3.7,7.2
+0,60.8,192,3.8,12,55t,197,316,70.6,9,"1,836",Brett HundleyB. Hundley,29,green-bay-packers,2.8,5.8
+1,64.7,154,2.5,6,72,168,238,97.2,16,"1,675",Aaron RodgersA. Rodgers,22,green-bay-packers,6.7,7.0
+2,71.4,5,0.0,0,9,0,7,74.1,0,11,Joe CallahanJ. Callahan,0,green-bay-packers,0.0,1.6
+3,100.0,1,0.0,0,10,0,1,108.3,0,10,Randall CobbR. Cobb,0,green-bay-packers,0.0,10.0
+4,62.6,352,3.2,18,72,365,562,81.9,25,"3,532",Green Bay,51,green-bay-packers,4.4,6.3
+5,67.8,348,2.1,11,71t,252,513,102.0,30,"4,041",Opponents,37,green-bay-packers,5.8,7.9
+0,67.6,325,1.5,7,65t,136,481,98.3,22,"3,547",Case KeenumC. Keenum,22,minnesota-vikings,4.6,7.4
+1,74.4,32,0.0,0,44,40,43,124.4,3,382,Sam BradfordS. Bradford,5,minnesota-vikings,7.0,8.9
+2,0.0,0,0.0,0,0,0,1,39.6,0,0,Ryan QuigleyR. Quigley,0,minnesota-vikings,0.0,0.0
+3,0.0,0,50.0,1,0,0,2,0.0,0,0,Teddy BridgewaterT. Bridgewater,0,minnesota-vikings,0.0,0.0
+4,67.7,357,1.5,8,65t,176,527,99.1,25,"3,929",Minnesota,27,minnesota-vikings,4.7,7.5
+5,58.4,324,2.5,14,52,251,555,73.0,13,"3,329",Opponents,37,minnesota-vikings,2.3,6.0
+0,64.7,342,2.3,12,88t,156,529,91.4,20,"4,095",Matt RyanM. Ryan,24,atlanta-falcons,3.8,7.7
+1,100.0,1,0.0,0,51t,0,1,158.3,1,51,Mohamed SanuM. Sanu,0,atlanta-falcons,100.0,51.0
+2,64.7,343,2.3,12,88t,156,530,92.4,21,"4,146",Atlanta,24,atlanta-falcons,4.0,7.8
+3,65.5,362,1.4,8,54t,296,553,91.9,22,"3,725",Opponents,39,atlanta-falcons,4.0,6.7
+0,59.1,291,3.3,16,64,242,492,80.7,22,"3,302",Cam NewtonC. Newton,35,carolina-panthers,4.5,6.7
+1,25.0,2,0.0,0,9,0,8,39.6,0,17,Derek AndersonD. Anderson,0,carolina-panthers,0.0,2.1
+2,0.0,0,0.0,0,0,0,1,39.6,0,0,Michael PalardyM. Palardy,0,carolina-panthers,0.0,0.0
+3,58.5,293,3.2,16,64,242,501,79.8,22,"3,319",Carolina,35,carolina-panthers,4.4,6.6
+4,63.8,351,1.8,10,70,304,550,92.9,25,"3,969",Opponents,50,carolina-panthers,4.5,7.2
+0,72.0,386,1.5,8,54t,145,536,103.9,23,"4,334",Drew BreesD. Brees,20,new-orleans-saints,4.3,8.1
+1,72.0,386,1.5,8,54t,145,536,103.9,23,"4,334",New Orleans,20,new-orleans-saints,4.3,8.1
+2,59.4,329,3.6,20,53t,287,554,79.0,22,"3,884",Opponents,42,new-orleans-saints,4.0,7.0
+0,63.8,282,2.5,11,70,207,442,92.2,19,"3,504",Jameis WinstonJ. Winston,33,tampa-bay-buccaneers,4.3,7.9
+1,58.9,96,1.8,3,41,34,163,86.0,7,"1,103",Ryan FitzpatrickR. Fitzpatrick,7,tampa-bay-buccaneers,4.3,6.8
+2,62.5,378,2.3,14,70,241,605,90.6,26,"4,607",Tampa Bay,40,tampa-bay-buccaneers,4.3,7.6
+3,67.6,371,2.4,13,61t,137,549,94.6,22,"4,306",Opponents,22,tampa-bay-buccaneers,4.0,7.8
+0,61.4,164,2.6,7,46,150,267,84.4,9,"1,978",Carson PalmerC. Palmer,22,arizona-cardinals,3.4,7.4
+1,55.6,95,3.5,6,52t,149,171,71.9,6,"1,086",Blaine GabbertB. Gabbert,23,arizona-cardinals,3.5,6.4
+2,49.7,79,3.1,5,52,40,159,66.4,6,894,Drew StantonD. Stanton,7,arizona-cardinals,3.8,5.6
+3,100.0,1,0.0,0,21,0,1,118.8,0,21,Larry FitzgeraldL. Fitzgerald,0,arizona-cardinals,0.0,21.0
+4,56.7,339,3.0,18,52t,339,598,76.2,21,"3,979",Arizona,52,arizona-cardinals,3.5,6.7
+5,60.8,343,2.7,15,72t,255,564,83.9,24,"3,796",Opponents,37,arizona-cardinals,4.3,6.7
+0,62.1,296,1.5,7,94t,172,477,100.5,28,"3,804",Jared GoffJ. Goff,25,los-angeles-rams,5.9,8.0
+1,59.5,22,0.0,0,50,20,37,72.5,0,185,Sean MannionS. Mannion,3,los-angeles-rams,0.0,5.0
+2,66.7,2,0.0,0,28,0,3,104.9,0,34,Johnny HekkerJ. Hekker,0,los-angeles-rams,0.0,11.3
+3,0.0,0,0.0,0,0,0,1,39.6,0,0,Cooper KuppC. Kupp,0,los-angeles-rams,0.0,0.0
+4,61.8,320,1.4,7,94t,192,518,98.3,28,"4,023",LA Rams,28,los-angeles-rams,5.4,7.8
+5,58.4,324,3.2,18,65t,324,555,78.4,21,"3,799",Opponents,48,los-angeles-rams,3.8,6.8
+0,67.4,120,2.8,5,61,57,178,96.2,7,"1,560",Jimmy GaroppoloJ. Garoppolo,8,san-francisco-49ers,3.9,8.8
+1,54.9,123,2.7,6,83t,141,224,69.2,4,"1,430",C.J. BeathardC. Beathard,19,san-francisco-49ers,1.8,6.4
+2,58.0,119,2.0,4,59,112,205,74.1,4,"1,245",Brian HoyerB. Hoyer,16,san-francisco-49ers,2.0,6.1
+3,59.6,362,2.5,15,83t,310,607,78.8,15,"4,235",San Francisco,43,san-francisco-49ers,2.5,7.0
+4,63.2,344,1.8,10,72t,179,544,93.9,27,"3,943",Opponents,30,san-francisco-49ers,5.0,7.2

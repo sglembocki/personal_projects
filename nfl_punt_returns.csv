@@ -1,0 +1,162 @@
+,fair_catches,long,player,punt_return_average,punt_return_yards,punt_returns,team,touchdowns
+0,6,40,Brandon TateB. Tate,9.65,193,20,buffalo-bills,0
+1,6,12,Micah HydeM. Hyde,9.00,18,2,buffalo-bills,0
+2,1,2,Kaelin ClayK. Clay,1.00,2,2,buffalo-bills,0
+3,13,40,Buffalo,8.88,213,24,buffalo-bills,0
+4,16,26,Opponents,5.53,210,38,buffalo-bills,0
+0,11,27,Jakeem GrantJ. Grant,7.60,190,25,miami-dolphins,0
+1,3,16,Jarvis LandryJ. Landry,6.75,81,12,miami-dolphins,0
+2,14,27,Miami,7.32,271,37,miami-dolphins,0
+3,20,23,Opponents,6.29,220,35,miami-dolphins,0
+0,18,40,Danny AmendolaD. Amendola,8.56,231,27,new-england-patriots,0
+1,0,13,Bernard ReedyB. Reedy,8.00,32,4,new-england-patriots,0
+2,3,0,Patrick ChungP. Chung,0.00,0,1,new-england-patriots,0
+3,21,40,New England,8.22,263,32,new-england-patriots,0
+4,14,16,Opponents,4.57,105,23,new-england-patriots,0
+0,9,15,Jeremy KerleyJ. Kerley,5.31,85,16,new-york-jets,0
+1,3,25,Khalif RaymondK. Raymond,7.60,38,5,new-york-jets,0
+2,8,17,JoJo NatsonJ. Natson,2.38,38,16,new-york-jets,0
+3,2,10,Elijah McGuireE. McGuire,10.00,10,1,new-york-jets,0
+4,22,25,NY Jets,4.50,171,38,new-york-jets,0
+5,23,60t,Opponents,10.02,491,49,new-york-jets,1
+0,18,77t,Michael CampanaroM. Campanaro,10.78,291,27,baltimore-ravens,1
+1,0,13,Bobby RaineyB. Rainey,11.00,22,2,baltimore-ravens,0
+2,8,7,Lardarius WebbL. Webb,3.50,7,2,baltimore-ravens,0
+3,1,2,Griff WhalenG. Whalen,2.00,2,1,baltimore-ravens,0
+4,27,77t,Baltimore,10.06,322,32,baltimore-ravens,1
+5,18,46,Opponents,8.15,277,34,baltimore-ravens,0
+0,19,29,Alex EricksonA. Erickson,7.13,278,39,cincinnati-bengals,0
+1,0,40,Adam JonesA. Jones,21.83,131,6,cincinnati-bengals,0
+2,0,0,William JacksonW. Jackson,0.00,0,1,cincinnati-bengals,0
+3,0,0,Darqueze DennardD. Dennard,0.00,0,1,cincinnati-bengals,0
+4,19,40,Cincinnati,8.70,409,47,cincinnati-bengals,0
+5,23,63t,Opponents,9.53,410,43,cincinnati-bengals,1
+0,15,25,Jabrill PeppersJ. Peppers,6.00,180,30,cleveland-browns,0
+1,3,11,Bryce TreggsB. Treggs,4.80,24,5,cleveland-browns,0
+2,1,12,Duke JohnsonD. Johnson,5.67,17,3,cleveland-browns,0
+3,19,25,Cleveland,5.82,221,38,cleveland-browns,0
+4,13,65,Opponents,10.71,482,45,cleveland-browns,0
+0,Opponents,43,19.09,1,96t,0,pittsburgh-steelers,906
+1,Eli RogersE. Rogers,19,21.07,0,40,0,pittsburgh-steelers,146
+2,Antonio BrownA. Brown,11,7.68,0,27,10,pittsburgh-steelers,61
+3,Pittsburgh,30,5.55,0,16,10,pittsburgh-steelers,207
+0,6,49,Will FullerW. Fuller,15.00,135,9,houston-texans,0
+1,4,21,Tyler ErvinT. Ervin,7.50,60,8,houston-texans,0
+2,4,21,Bruce EllingtonB. Ellington,9.40,47,5,houston-texans,0
+3,0,15,Chris ThompsonC. Thompson,6.50,39,6,houston-texans,0
+4,5,8,Braxton MillerB. Miller,4.00,12,3,houston-texans,0
+5,1,3,DeAndrew WhiteD. White,0.75,3,4,houston-texans,0
+6,20,49,Houston,8.46,296,35,houston-texans,0
+7,22,82t,Opponents,12.41,608,49,houston-texans,1
+0,8,20,Quan BrayQ. Bray,5.29,90,17,indianapolis-colts,0
+1,5,30,Chester RogersC. Rogers,8.00,80,10,indianapolis-colts,0
+2,0,-8,Krishawn HoganK. Hogan,0.00,-8,0,indianapolis-colts,0
+3,13,30,Indianapolis,6.00,162,27,indianapolis-colts,0
+4,27,29,Opponents,4.21,80,19,indianapolis-colts,0
+0,19,72,Jaydon MickensJ. Mickens,10.63,287,27,jacksonville-jaguars,1
+1,0,19,Dede WestbrookD. Westbrook,19.00,19,1,jacksonville-jaguars,0
+2,6,7,Marqise LeeM. Lee,2.60,13,5,jacksonville-jaguars,0
+3,0,6,Corey GrantC. Grant,0.00,6,0,jacksonville-jaguars,0
+4,4,0,Max McCaffreyM. McCaffrey,0.00,0,1,jacksonville-jaguars,0
+5,1,0,Keelan ColeK. Cole,0.00,0,0,jacksonville-jaguars,0
+6,30,72,Jacksonville,9.56,325,34,jacksonville-jaguars,1
+7,25,46,Opponents,7.60,228,30,jacksonville-jaguars,0
+0,9,46,Adoree' JacksonA. Jackson,8.53,290,34,tennessee-titans,0
+1,0,13,Eric WeemsE. Weems,7.50,15,2,tennessee-titans,0
+2,9,46,Tennessee,8.47,305,36,tennessee-titans,0
+3,9,23,Opponents,7.15,286,40,tennessee-titans,0
+0,7,44,Isaiah McKenzieI. McKenzie,8.71,183,21,denver-broncos,0
+1,14,24,Jordan TaylorJ. Taylor,9.36,103,11,denver-broncos,0
+2,1,16,Hunter SharpH. Sharp,11.00,55,5,denver-broncos,0
+3,0,6,Brendan LangleyB. Langley,6.00,6,1,denver-broncos,0
+4,0,6,Bennie FowlerB. Fowler,6.00,6,1,denver-broncos,0
+5,0,3,Emmanuel SandersE. Sanders,-1.00,-2,2,denver-broncos,0
+6,22,44,Denver,8.56,351,41,denver-broncos,0
+7,23,65t,Opponents,8.60,258,30,denver-broncos,1
+0,9,82t,Tyreek HillT. Hill,8.16,204,25,kansas-city-chiefs,1
+1,0,8,De'Anthony ThomasD. Thomas,2.50,20,8,kansas-city-chiefs,0
+2,0,0,Daniel SorensenD. Sorensen,0.00,0,1,kansas-city-chiefs,0
+3,1,-4,Demarcus RobinsonD. Robinson,-4.00,-4,1,kansas-city-chiefs,0
+4,10,82t,Kansas City,6.29,220,35,kansas-city-chiefs,1
+5,22,49,Opponents,6.83,164,24,kansas-city-chiefs,0
+0,25,65t,Travis BenjaminT. Benjamin,9.52,257,27,los-angeles-chargers,1
+1,1,2,Desmond KingD. King,2.00,2,1,los-angeles-chargers,0
+2,26,65t,LA Chargers,9.25,259,28,los-angeles-chargers,1
+3,6,31,Opponents,6.65,319,48,los-angeles-chargers,0
+0,13,19,Jalen RichardJ. Richard,5.96,155,26,oakland-raiders,0
+1,0,0,Johnny HoltonJ. Holton,0.00,0,1,oakland-raiders,0
+2,8,0,T.J. CarrieT. Carrie,0.00,0,0,oakland-raiders,0
+3,21,19,Oakland,5.74,155,27,oakland-raiders,0
+4,15,29,Opponents,6.41,205,32,oakland-raiders,0
+0,10,83t,Ryan SwitzerR. Switzer,8.83,256,29,dallas-cowboys,1
+1,5,15,Cole BeasleyC. Beasley,9.50,19,2,dallas-cowboys,0
+2,15,83t,Dallas,8.87,275,31,dallas-cowboys,1
+3,20,20,Opponents,4.17,75,18,dallas-cowboys,0
+0,6,17,Khalif RaymondK. Raymond,4.69,61,13,new-york-giants,0
+1,9,17,Dwayne HarrisD. Harris,6.86,48,7,new-york-giants,0
+2,5,20,Ed EaganE. Eagan,5.00,20,4,new-york-giants,0
+3,3,13,Hunter SharpH. Sharp,6.33,19,3,new-york-giants,0
+4,23,20,NY Giants,5.48,148,27,new-york-giants,0
+5,20,88t,Opponents,10.42,448,43,new-york-giants,1
+0,15,76,Kenjon BarnerK. Barner,8.89,240,27,philadelphia-eagles,0
+1,5,10,Darren SprolesD. Sproles,10.00,10,1,philadelphia-eagles,0
+2,0,9,Torrey SmithT. Smith,9.00,9,1,philadelphia-eagles,0
+3,20,76,Philadelphia,8.93,259,29,philadelphia-eagles,0
+4,14,44,Opponents,6.84,171,25,philadelphia-eagles,0
+0,21,29,Jamison CrowderJ. Crowder,6.33,171,27,washington-redskins,0
+1,0,7,DeAngelo HallD. Hall,3.50,7,2,washington-redskins,0
+2,1,0,Maurice HarrisM. Harris,0.00,0,0,washington-redskins,0
+3,22,29,Washington,6.14,178,29,washington-redskins,0
+4,26,83t,Opponents,11.15,435,39,washington-redskins,1
+0,15,61t,Tarik CohenT. Cohen,9.38,272,29,chicago-bears,1
+1,0,59t,Bryce CallahanB. Callahan,59.00,59,1,chicago-bears,1
+2,1,7,Eddie JacksonE. Jackson,3.00,6,2,chicago-bears,0
+3,16,61t,Chicago,10.53,337,32,chicago-bears,2
+4,15,77t,Opponents,10.45,512,49,chicago-bears,1
+0,16,88t,Jamal AgnewJ. Agnew,15.41,447,29,detroit-lions,2
+1,4,17,TJ JonesT. Jones,7.83,47,6,detroit-lions,0
+2,2,13,Golden TateG. Tate,11.50,23,2,detroit-lions,0
+3,22,88t,Detroit,13.97,517,37,detroit-lions,2
+4,25,28,Opponents,7.62,198,26,detroit-lions,0
+0,22,65,Trevor DavisT. Davis,12.04,289,24,green-bay-packers,0
+1,0,0,Jermaine WhiteheadJ. Whitehead,0.00,0,1,green-bay-packers,0
+2,0,0,Donatello BrownD. Brown,0.00,0,1,green-bay-packers,0
+3,0,0,Geronimo AllisonG. Allison,0.00,0,1,green-bay-packers,0
+4,22,65,Green Bay,10.70,289,27,green-bay-packers,0
+5,24,28,Opponents,5.66,164,29,green-bay-packers,0
+0,24,46,Marcus SherelsM. Sherels,9.54,372,39,minnesota-vikings,0
+1,2,0,Stacy ColeyS. Coley,0.00,0,0,minnesota-vikings,0
+2,26,46,Minnesota,9.54,372,39,minnesota-vikings,0
+3,33,59t,Opponents,8.88,213,24,minnesota-vikings,1
+0,21,27,Andre RobertsA. Roberts,7.44,201,27,atlanta-falcons,0
+1,21,27,Atlanta,7.44,201,27,atlanta-falcons,0
+2,22,19,Opponents,8.14,179,22,atlanta-falcons,0
+0,9,25,Christian McCaffreyC. McCaffrey,7.36,162,22,carolina-panthers,0
+1,8,60t,Kaelin ClayK. Clay,8.65,147,17,carolina-panthers,1
+2,0,9,Damiere ByrdD. Byrd,9.00,9,1,carolina-panthers,0
+3,17,60t,Carolina,7.95,318,40,carolina-panthers,1
+4,21,29,Opponents,5.87,176,30,carolina-panthers,0
+0,10,24,Tommylee LewisT. Lewis,8.21,115,14,new-orleans-saints,0
+1,13,17,Ted Ginn Jr.T. Ginn,5.42,103,19,new-orleans-saints,0
+2,0,0,Willie SneadW. Snead,0.00,0,1,new-orleans-saints,0
+3,23,24,New Orleans,6.41,218,34,new-orleans-saints,0
+4,18,74t,Opponents,10.38,249,24,new-orleans-saints,1
+0,7,44,Bernard ReedyB. Reedy,10.21,143,14,tampa-bay-buccaneers,0
+1,7,19,Adam HumphriesA. Humphries,8.17,49,6,tampa-bay-buccaneers,0
+2,14,44,Tampa Bay,9.60,192,20,tampa-bay-buccaneers,0
+3,21,40,Opponents,5.67,153,27,tampa-bay-buccaneers,0
+0,20,20,Kerwynn WilliamsK. Williams,6.52,137,21,arizona-cardinals,0
+1,9,19,Patrick PetersonP. Peterson,6.77,88,13,arizona-cardinals,0
+2,1,15,Brittan GoldenB. Golden,9.00,63,7,arizona-cardinals,0
+3,30,20,Arizona,7.02,288,41,arizona-cardinals,0
+4,13,76,Opponents,10.54,506,48,arizona-cardinals,0
+0,8,53,Pharoh CooperP. Cooper,12.47,399,32,los-angeles-rams,0
+1,1,12,Tavon AustinT. Austin,4.42,53,12,los-angeles-rams,0
+2,0,6,Trumaine JohnsonT. Johnson,6.00,6,1,los-angeles-rams,0
+3,2,0,Cooper KuppC. Kupp,0.00,0,0,los-angeles-rams,0
+4,11,53,LA Rams,10.18,458,45,los-angeles-rams,0
+5,12,18,Opponents,6.08,152,25,los-angeles-rams,0
+0,16,39,Trent TaylorT. Taylor,9.37,281,30,san-francisco-49ers,0
+1,1,16,Victor BoldenV. Bolden,5.75,23,4,san-francisco-49ers,0
+2,17,39,San Francisco,8.94,304,34,san-francisco-49ers,0
+3,23,61t,Opponents,4.18,138,33,san-francisco-49ers,1
