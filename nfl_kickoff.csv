@@ -1,124 +1,2180 @@
-,average,long,number,osk,osr,out_of_bounds,player,return_yards,returns,team,touchbacks,touchdowns,yards
-0,0,2,32,0,0,Lorenzo AlexanderL. Alexander,0,0,0,buffalo-bills,2,0.00,640
-1,3.0,21.0,15,0,3,0,59,0.00,0,buffalo-bills,Colt AndersonC. Anderson,0,74
-2,0.0,Robert BlantonR. Blanton,3,2,1,0,0,0,0.00,buffalo-bills,0,0,0.0
-0,0,34,72,87,"5,472",0,59.9,4,5,miami-dolphins,665,Opponents,28
-1,0,40,72,0,0,0,62.9,0,2,miami-dolphins,827,Walt AikensW. Aikens,45
-2,6,3,0,0,0.00,0.0,0.00,Chase AllenC. Allen,0.0,miami-dolphins,9,0,0
-0,1,3,28,0,0,Danny AmendolaD. Amendola,0,0,0,new-england-patriots,0,0.00,622
-1,0.0,0.0,0,0,24,0,2,0.00,0,new-england-patriots,Johnson BademosiJ. Bademosi,0,2
-2,0.0,Brandon BoldenB. Bolden,29,7,1,0,5,0,0.00,new-england-patriots,0,0,0.0
-0,Jamal AdamsJ. Adams,0,3,20,83,0.00,0,0,0,new-york-jets,0,63,1
-1,0,0,18.0,3,0.0,0,2.0,3,0,new-york-jets,0.00,0,Robby AndersonR. Anderson
-2,0,0.00,David BassD. Bass,3.5,16.5,0,0.0,9,16,new-york-jets,0,25,0
-3,0.00,0,0,0.0,Freddie BishopF. Bishop,1,Kelvin BeachumK. Beachum,1,0,new-york-jets,0,0.0,0
-0,1,27,0.0,11,3.0,27,0.0,9,0,baltimore-ravens,27.00,2,Tyus BowserT. Bowser
-1,0,0.00,Nick BoyleN. Boyle,0.0,0.0,0,13.0,0,1,baltimore-ravens,0,1,0
-2,0.00,0,0,0.0,Maurice CanadyM. Canady,1,Michael CampanaroM. Campanaro,1,0,baltimore-ravens,0,0.0,0
-0,"5,087",63.6,Opponents,0,0,46,0,34,0,cincinnati-bengals,70,670,80
-1,0,0.00,Geno AtkinsG. Atkins,9.0,65.5,0,0,17,29,cincinnati-bengals,0,46,0
-2,0.00,0,0,0.0,Giovani BernardG. Bernard,6,Brandon BellB. Bell,10,4,cincinnati-bengals,0,0.0,0
-3,0,0,0,Andrew BillingsA. Billings,0,0,0,0.0,1,cincinnati-bengals,1,0.0,0.00
-0,71,33,"3,350",0,Opponents,20,57,1,471,cleveland-browns,0,4,58.8
-1,70,49,"5,374",0,Dominique AlexanderD. Alexander,35,86,0,790,cleveland-browns,1,1,62.5
-2,0,0,0,B.J. BelloB. Bello,0,0,0,0.0,1,cleveland-browns,1,0.0,0.00
-3,0,5,0.00,0,0,6,0,0.0,0.0,cleveland-browns,1,Joel BitonioJ. Bitonio,0
-0,43,906,46,"5,681",63.1,0,74,Pittsburgh,0,pittsburgh-steelers,0,90,1
-1,43,906,46,"4,400",62.0,0,74,Opponents,0,pittsburgh-steelers,0,71,1
-2,33,630,37,0,0.00,0,70,Brian AllenB. Allen,0,pittsburgh-steelers,1,0,0
-0,9,0.0,8,0,0,Alfred BlueA. Blue,0,0,0,houston-texans,0.0,0.00,1
-1,0.0,0.0,1,0,1,0,4,0.00,0,houston-texans,Marcus BurleyM. Burley,0,5
-2,0.0,Ibraheim CampbellI. Campbell,1,1,1,0,0,0,0.00,houston-texans,0,0,0.0
-3,Chris ClarkC. Clark,0,0.0,0,1,0.00,2,0,0,houston-texans,0,1,0.0
-0,0,2,28,0,0,Henry AndersonH. Anderson,0,0,0,indianapolis-colts,0,0.00,590
-1,2.0,8.0,7,0,5,0,15,0.00,0,indianapolis-colts,Tarell BashamT. Basham,0,22
-2,22.0,Jonathan BosticJ. Bostic,7,57,40,0,2,0,0.00,indianapolis-colts,0,0,2.0
-0,0.0,0.0,0,0,1,0,3,0.00,0,jacksonville-jaguars,Michael BennettM. Bennett,0,3
-1,0.0,Tommy BohanonT. Bohanon,1,2,0,0,0,0,0.00,jacksonville-jaguars,0,0,0.0
-2,Blake BortlesB. Bortles,0,0.0,0,1,0.00,2,0,0,jacksonville-jaguars,0,1,0.0
-3,6,70,0.0,56,0.0,51,0.0,53,0,jacksonville-jaguars,11.67,3,A.J. BouyeA. Bouye
-0,0,32,76,87,"5,382",0,64.0,0,1,tennessee-titans,750,Opponents,47
-1,0,28,72,0,0,0,61.9,0,3,tennessee-titans,618,Daren BatesD. Bates,56
-2,7,1,0,0,0.00,0.0,0.00,Beau BrinkleyB. Brinkley,0.0,tennessee-titans,8,0,0
-0,0.00,0,0,0.0,Devontae BookerD. Booker,3,Garett BollesG. Bolles,3,0,denver-broncos,0,0.0,0
-1,0,0,0,Jamal CarterJ. Carter,0,0,0,0.0,2,denver-broncos,2,0.0,0.00
-2,0,9,0.00,0,0,11,0,0.0,0.0,denver-broncos,2,Jamaal CharlesJ. Charles,0
-3,1,0,0,0,0.00,0.0,0.00,Todd DavisT. Davis,0.0,denver-broncos,1,0,0
-0,"6,232",64.2,Kansas City,0,0,71,0,25,0,kansas-city-chiefs,74,486,97
-1,"4,537",61.3,Opponents,0,4,24,0,47,0,kansas-city-chiefs,73,"1,051",74
-2,9,9.00,Kenneth AckerK. Acker,0.0,0.0,0,2,2,21,kansas-city-chiefs,9,23,1
-3,0.00,0,0,8.0,Eric BerryE. Berry,21,Allen BaileyA. Bailey,38,17,kansas-city-chiefs,0,2.0,0
-4,0,0,0,Orson CharlesO. Charles,0,3,0,0.0,7,kansas-city-chiefs,4,0.0,0.00
-0,0,1,0/0,6/8,2/8,37/42,0/0,0/0,20/30,los-angeles-chargers,LA Chargers,11/11,0/0
-1,Opponents,23/26,50,4/6,54,0/0,1/3,8/8,5/5,los-angeles-chargers,23/27,6/8,97
-2,"2,023",63.2,Nick NovakN. Novak,0,0,9,92,23,0,los-angeles-chargers,69,564,32
-3,943,62.9,Travis CoonsT. Coons,0,0,4,0,11,0,los-angeles-chargers,65,254,15
-4,922,65.9,Younghoe KooY. Koo,0,0,8,0,6,0,los-angeles-chargers,78,173,14
-5,589,65.4,Nick RoseN. Rose,0,0,8,0,1,0,los-angeles-chargers,69,29,9
-6,449,64.1,Drew KaserD. Kaser,0,0,2,0,5,0,los-angeles-chargers,73,130,7
-0,0,6,34,0,0,Tyrell AdamsT. Adams,0,0,0,oakland-raiders,1,0.00,738
-1,0.0,0.0,7,0,14,0,11,0.00,0,oakland-raiders,David AmersonD. Amerson,0,18
-2,0.0,Denico AutryD. Autry,18,23,13,0,4,0,0.00,oakland-raiders,0,0,0.0
-0,50,86,6/7,32,0,56,7/12,64.4,"3,605",dallas-cowboys,Dan BaileyD. Bailey,71,1/1
-1,0,0,519,11,0,19,24,65.6,"1,246",dallas-cowboys,Mike NugentM. Nugent,72,0
-2,0,0,190,2,0,5,8,61.6,308,dallas-cowboys,Jeff HeathJ. Heath,65,0
-3,0,0,50,45,0,80,3,64.5,"5,159",dallas-cowboys,Dallas,72,0
-4,0,0,759,47,0,73,35,64.6,"4,719",dallas-cowboys,Opponents,74,0
-0,0,0,0.0,4,0.0,0,0.0,3,0,new-york-giants,0.00,1,Jerell AdamsJ. Adams
-1,0,0.00,Eli AppleE. Apple,0.0,0.0,0,0.0,8,41,new-york-giants,0,49,0
-2,0.00,0,0,0.0,Akeem AyersA. Ayers,5,Ray-Ray ArmstrongR. Armstrong,10,5,new-york-giants,0,0.0,0
-0,0,Kamu Grugier-HillK. Grugier-Hill,0,0,3,248,77,65,62.0,philadelphia-eagles,4,1,0
-1,0,Philadelphia,0,1,47,"5,834",81,72,62.1,philadelphia-eagles,94,45,0
-2,1,Opponents,0,0,18,"4,317","1,015",74,62.6,philadelphia-eagles,69,49,1
-3,0,Nelson AgholorN. Agholor,0,2,0,0,354,0,0.00,philadelphia-eagles,0,0,1
-4,Jay AjayiJ. Ajayi,0,0.0,0,1,0.00,2,0,0,philadelphia-eagles,0,1,0.0
-0,0,Tress WayT. Way,0,0,1,61,245,61,61.0,washington-redskins,1,0,2
-1,0,Washington,0,1,24,"4,987",12,73,63.1,washington-redskins,79,53,0
-2,0,Opponents,0,0,34,"5,386",448,67,62.6,washington-redskins,86,50,2
-3,0,Jonathan AllenJ. Allen,0,3,7,0,673,0,0.00,washington-redskins,0,0,2
-4,Ryan AndersonR. Anderson,0,1.0,3,15,0.00,10,0,0,washington-redskins,0,12,7.0
-0,17,"1,016",0,157,0,68,0,0,7,chicago-bears,59.8,10,Mike NugentM. Nugent
-1,4,260,0,54,0,70,0,0,2,chicago-bears,65.0,2,Pat O'DonnellP. O'Donnell
-2,2,130,0,0,0,65,0,0,2,chicago-bears,65.0,0,Cairo SantosC. Santos
-3,60,"3,780",0,699,1,70,0,0,28,chicago-bears,63.0,32,Chicago
-4,80,"4,984",0,969,0,70,0,1,33,chicago-bears,62.3,46,Opponents
-5,0,0,0,45,3.0,0,0,29,0,chicago-bears,0.00,16,Sam AchoS. Acho
-0,0,7,70,17,977,0,64.6,0,0,detroit-lions,180,Matt PraterM. Prater,16
-1,0,10,68,1,65,0,57.5,0,1,detroit-lions,149,Kasey RedfernK. Redfern,6
-2,0,1,65,91,"5,769",0,65.0,0,0,detroit-lions,23,Detroit,0
-3,0,43,71,79,"4,808",0,63.4,0,1,detroit-lions,878,Opponents,47
-4,3,32,73,0,0,0,60.9,1,2,detroit-lions,583,Jared AbbrederisJ. Abbrederis,43
-5,2,1,0,0,0.00,0.0,0.00,Ameer AbdullahA. Abdullah,0.0,detroit-lions,3,0,0
-0,0,0,0.0,2,0.0,0,0.0,2,0,green-bay-packers,0.00,0,Geronimo AllisonG. Allison
-1,0,0.00,Vince BiegelV. Biegel,0.0,0.0,0,0.0,5,11,green-bay-packers,0,16,0
-2,11.00,11,1,0.0,Ahmad BrooksA. Brooks,19,Kentrell BriceK. Brice,23,4,green-bay-packers,0,0.0,11
-0,0,1,51,89,"5,638",0,51.0,0,0,minnesota-vikings,14,Minnesota,0
-1,0,45,72,67,"4,299",0,63.3,0,0,minnesota-vikings,"1,023",Opponents,44
-2,2,25,74,1,10,0,64.2,0,2,minnesota-vikings,619,Mackensie AlexanderM. Alexander,40
-3,13,4,10,0,0.00,0.0,10.00,Anthony BarrA. Barr,0.0,minnesota-vikings,17,0,0
-0,63.5,71,84,2,0,0,Matt BosherM. Bosher,863,33,atlanta-falcons,49,0,"5,332"
-1,63.5,71,84,2,0,0,Atlanta,863,33,atlanta-falcons,49,0,"5,332"
-2,64.2,72,77,0,0,0,Opponents,871,39,atlanta-falcons,38,0,"4,940"
-0,1,1,34,40,0,Mike AdamsM. Adams,0,42,2,carolina-panthers,1,21.00,760
-1,0.0,0.0,21,0,27,0,48,0.00,0,carolina-panthers,Mario AddisonM. Addison,0,69
-2,70.5,Alex ArmahA. Armah,44,0,2,0,17,0,0.00,carolina-panthers,0,0,11.0
-0,0,3,32,72,36,Opponents,2,"4,658",77,new-orleans-saints,0,60.5,788
-1,1,5,36,0,0,Alex AnzaloneA. Anzalone,2,0,0,new-orleans-saints,0,0.00,825
-2,1.0,4.0,5,0,1,0,11,0.00,0,new-orleans-saints,Terron ArmsteadT. Armstead,0,16
-3,0.0,Chris BanjoC. Banjo,1,10,2,0,0,0,0.00,new-orleans-saints,1,0,0.0
-0,"1,074",2,0,61.9,70,0,14,18,Nick FolkN. Folk,tampa-bay-buccaneers,2,"1,114",43
-1,86,0,0,61.1,71,0,13,77,Tampa Bay,tampa-bay-buccaneers,1,"4,704",4
-2,"1,160",2,0,63.8,67,0,27,83,Opponents,tampa-bay-buccaneers,3,"5,294",47
-3,432,0,0,23.33,28,0,62,3,Kwon AlexanderK. Alexander,tampa-bay-buccaneers,1,70,20
-0,1,2,40,70,49,Opponents,1,"4,996",80,arizona-cardinals,0,62.5,880
-1,0,2,29,0,0,Budda BakerB. Baker,0,0,0,arizona-cardinals,0,0.00,592
-2,1.0,7.0,16,0,47,5,58,10.20,51,arizona-cardinals,Antoine BetheaA. Bethea,21,74
-3,8.0,Justin BethelJ. Bethel,57,29,12,82,10,82t,82.00,arizona-cardinals,1,1,1.0
-0,"4,760",61.8,Opponents,1,2,34,0,40,1,los-angeles-rams,74,"1,001",77
-1,0,0.00,Maurice AlexanderM. Alexander,0.0,0.0,0,1,7,13,los-angeles-rams,0,20,0
-2,0.00,0,0,0.0,Mark BarronM. Barron,1,Tavon AustinT. Austin,1,0,los-angeles-rams,0,0.0,0
-3,15,0,29,Connor BarwinC. Barwin,0,13,3,1.0,86,los-angeles-rams,73,2.0,9.67
-0,0,2,40,83,"5,166",0,25.2,1,2,san-francisco-49ers,2,San Francisco,0
-1,1,15,70,86,"5,258",0,62.2,1,2,san-francisco-49ers,302,Opponents,64
-2,3,31,70,0,0,0,61.1,1,3,san-francisco-49ers,570,Arik ArmsteadA. Armstead,50
-3,8,8,0,29,14.50,1.5,0.00,Ray-Ray ArmstrongR. Armstrong,8.5,san-francisco-49ers,16,2,0
+,average,long,number,osk,osr,out_of_bounds,player,return_yards,returns,team,touchbacks,touchdowns,yards,year
+0,0,0,2,0/0,0,0,0,0,0,buffalo-bills,0,0/0,0,2017
+1,1,1,12,0,0,0,0,0,0,buffalo-bills,0,0,Joe FergusonJ. Ferguson,2017
+0,0,0,2,0/0,0,0,0,0,0,buffalo-bills,0,0/0,0,2017
+1,1,1,12,0,0,0,0,0,0,buffalo-bills,0,0,Joe FergusonJ. Ferguson,2017
+0,0,2,32,0,0,Lorenzo AlexanderL. Alexander,0,0,0,buffalo-bills,2,0.00,640,2017
+1,3.0,21.0,15,0,3,0,59,0.00,0,buffalo-bills,Colt AndersonC. Anderson,0,74,2017
+2,0.0,Robert BlantonR. Blanton,3,2,1,0,0,0,0.00,buffalo-bills,0,0,0.0,2017
+0,0,34,72,87,"5,472",0,59.9,4,5,miami-dolphins,665,Opponents,28,2017
+1,0,40,72,0,0,0,62.9,0,2,miami-dolphins,827,Walt AikensW. Aikens,45,2017
+2,6,3,0,0,0.00,0.0,0.00,Chase AllenC. Allen,0.0,miami-dolphins,9,0,0,2017
+0,1,3,28,0,0,Danny AmendolaD. Amendola,0,0,0,new-england-patriots,0,0.00,622,2017
+1,0.0,0.0,0,0,24,0,2,0.00,0,new-england-patriots,Johnson BademosiJ. Bademosi,0,2,2017
+2,0.0,Brandon BoldenB. Bolden,29,7,1,0,5,0,0.00,new-england-patriots,0,0,0.0,2017
+0,Jamal AdamsJ. Adams,0,3,20,83,0.00,0,0,0,new-york-jets,0,63,1,2017
+1,0,0,18.0,3,0.0,0,2.0,3,0,new-york-jets,0.00,0,Robby AndersonR. Anderson,2017
+2,0,0.00,David BassD. Bass,3.5,16.5,0,0.0,9,16,new-york-jets,0,25,0,2017
+3,0.00,0,0,0.0,Freddie BishopF. Bishop,1,Kelvin BeachumK. Beachum,1,0,new-york-jets,0,0.0,0,2017
+0,1,27,0.0,11,3.0,27,0.0,9,0,baltimore-ravens,27.00,2,Tyus BowserT. Bowser,2017
+1,0,0.00,Nick BoyleN. Boyle,0.0,0.0,0,13.0,0,1,baltimore-ravens,0,1,0,2017
+2,0.00,0,0,0.0,Maurice CanadyM. Canady,1,Michael CampanaroM. Campanaro,1,0,baltimore-ravens,0,0.0,0,2017
+0,"5,087",63.6,Opponents,0,0,46,0,34,0,cincinnati-bengals,70,670,80,2017
+1,0,0.00,Geno AtkinsG. Atkins,9.0,65.5,0,0,17,29,cincinnati-bengals,0,46,0,2017
+2,0.00,0,0,0.0,Giovani BernardG. Bernard,6,Brandon BellB. Bell,10,4,cincinnati-bengals,0,0.0,0,2017
+3,0,0,0,Andrew BillingsA. Billings,0,0,0,0.0,1,cincinnati-bengals,1,0.0,0.00,2017
+0,71,33,"3,350",0,Opponents,20,57,1,471,cleveland-browns,0,4,58.8,2017
+1,70,49,"5,374",0,Dominique AlexanderD. Alexander,35,86,0,790,cleveland-browns,1,1,62.5,2017
+2,0,0,0,B.J. BelloB. Bello,0,0,0,0.0,1,cleveland-browns,1,0.0,0.00,2017
+3,0,5,0.00,0,0,6,0,0.0,0.0,cleveland-browns,1,Joel BitonioJ. Bitonio,0,2017
+0,43,906,46,"5,681",63.1,0,74,Pittsburgh,0,pittsburgh-steelers,0,90,1,2017
+1,43,906,46,"4,400",62.0,0,74,Opponents,0,pittsburgh-steelers,0,71,1,2017
+2,33,630,37,0,0.00,0,70,Brian AllenB. Allen,0,pittsburgh-steelers,1,0,0,2017
+0,9,0.0,8,0,0,Alfred BlueA. Blue,0,0,0,houston-texans,0.0,0.00,1,2017
+1,0.0,0.0,1,0,1,0,4,0.00,0,houston-texans,Marcus BurleyM. Burley,0,5,2017
+2,0.0,Ibraheim CampbellI. Campbell,1,1,1,0,0,0,0.00,houston-texans,0,0,0.0,2017
+3,Chris ClarkC. Clark,0,0.0,0,1,0.00,2,0,0,houston-texans,0,1,0.0,2017
+0,0,2,28,0,0,Henry AndersonH. Anderson,0,0,0,indianapolis-colts,0,0.00,590,2017
+1,2.0,8.0,7,0,5,0,15,0.00,0,indianapolis-colts,Tarell BashamT. Basham,0,22,2017
+2,22.0,Jonathan BosticJ. Bostic,7,57,40,0,2,0,0.00,indianapolis-colts,0,0,2.0,2017
+0,0.0,0.0,0,0,1,0,3,0.00,0,jacksonville-jaguars,Michael BennettM. Bennett,0,3,2017
+1,0.0,Tommy BohanonT. Bohanon,1,2,0,0,0,0,0.00,jacksonville-jaguars,0,0,0.0,2017
+2,Blake BortlesB. Bortles,0,0.0,0,1,0.00,2,0,0,jacksonville-jaguars,0,1,0.0,2017
+3,6,70,0.0,56,0.0,51,0.0,53,0,jacksonville-jaguars,11.67,3,A.J. BouyeA. Bouye,2017
+0,0,32,76,87,"5,382",0,64.0,0,1,tennessee-titans,750,Opponents,47,2017
+1,0,28,72,0,0,0,61.9,0,3,tennessee-titans,618,Daren BatesD. Bates,56,2017
+2,7,1,0,0,0.00,0.0,0.00,Beau BrinkleyB. Brinkley,0.0,tennessee-titans,8,0,0,2017
+0,0.00,0,0,0.0,Devontae BookerD. Booker,3,Garett BollesG. Bolles,3,0,denver-broncos,0,0.0,0,2017
+1,0,0,0,Jamal CarterJ. Carter,0,0,0,0.0,2,denver-broncos,2,0.0,0.00,2017
+2,0,9,0.00,0,0,11,0,0.0,0.0,denver-broncos,2,Jamaal CharlesJ. Charles,0,2017
+3,1,0,0,0,0.00,0.0,0.00,Todd DavisT. Davis,0.0,denver-broncos,1,0,0,2017
+0,"6,232",64.2,Kansas City,0,0,71,0,25,0,kansas-city-chiefs,74,486,97,2017
+1,"4,537",61.3,Opponents,0,4,24,0,47,0,kansas-city-chiefs,73,"1,051",74,2017
+2,9,9.00,Kenneth AckerK. Acker,0.0,0.0,0,2,2,21,kansas-city-chiefs,9,23,1,2017
+3,0.00,0,0,8.0,Eric BerryE. Berry,21,Allen BaileyA. Bailey,38,17,kansas-city-chiefs,0,2.0,0,2017
+4,0,0,0,Orson CharlesO. Charles,0,3,0,0.0,7,kansas-city-chiefs,4,0.0,0.00,2017
+0,0,1,0/0,6/8,2/8,37/42,0/0,0/0,20/30,los-angeles-chargers,LA Chargers,11/11,0/0,2017
+1,Opponents,23/26,50,4/6,54,0/0,1/3,8/8,5/5,los-angeles-chargers,23/27,6/8,97,2017
+2,"2,023",63.2,Nick NovakN. Novak,0,0,9,92,23,0,los-angeles-chargers,69,564,32,2017
+3,943,62.9,Travis CoonsT. Coons,0,0,4,0,11,0,los-angeles-chargers,65,254,15,2017
+4,922,65.9,Younghoe KooY. Koo,0,0,8,0,6,0,los-angeles-chargers,78,173,14,2017
+5,589,65.4,Nick RoseN. Rose,0,0,8,0,1,0,los-angeles-chargers,69,29,9,2017
+6,449,64.1,Drew KaserD. Kaser,0,0,2,0,5,0,los-angeles-chargers,73,130,7,2017
+0,0,6,34,0,0,Tyrell AdamsT. Adams,0,0,0,oakland-raiders,1,0.00,738,2017
+1,0.0,0.0,7,0,14,0,11,0.00,0,oakland-raiders,David AmersonD. Amerson,0,18,2017
+2,0.0,Denico AutryD. Autry,18,23,13,0,4,0,0.00,oakland-raiders,0,0,0.0,2017
+0,50,86,6/7,32,0,56,7/12,64.4,"3,605",dallas-cowboys,Dan BaileyD. Bailey,71,1/1,2017
+1,0,0,519,11,0,19,24,65.6,"1,246",dallas-cowboys,Mike NugentM. Nugent,72,0,2017
+2,0,0,190,2,0,5,8,61.6,308,dallas-cowboys,Jeff HeathJ. Heath,65,0,2017
+3,0,0,50,45,0,80,3,64.5,"5,159",dallas-cowboys,Dallas,72,0,2017
+4,0,0,759,47,0,73,35,64.6,"4,719",dallas-cowboys,Opponents,74,0,2017
+0,0,0,0.0,4,0.0,0,0.0,3,0,new-york-giants,0.00,1,Jerell AdamsJ. Adams,2017
+1,0,0.00,Eli AppleE. Apple,0.0,0.0,0,0.0,8,41,new-york-giants,0,49,0,2017
+2,0.00,0,0,0.0,Akeem AyersA. Ayers,5,Ray-Ray ArmstrongR. Armstrong,10,5,new-york-giants,0,0.0,0,2017
+0,0,Kamu Grugier-HillK. Grugier-Hill,0,0,3,248,77,65,62.0,philadelphia-eagles,4,1,0,2017
+1,0,Philadelphia,0,1,47,"5,834",81,72,62.1,philadelphia-eagles,94,45,0,2017
+2,1,Opponents,0,0,18,"4,317","1,015",74,62.6,philadelphia-eagles,69,49,1,2017
+3,0,Nelson AgholorN. Agholor,0,2,0,0,354,0,0.00,philadelphia-eagles,0,0,1,2017
+4,Jay AjayiJ. Ajayi,0,0.0,0,1,0.00,2,0,0,philadelphia-eagles,0,1,0.0,2017
+0,0,Tress WayT. Way,0,0,1,61,245,61,61.0,washington-redskins,1,0,2,2017
+1,0,Washington,0,1,24,"4,987",12,73,63.1,washington-redskins,79,53,0,2017
+2,0,Opponents,0,0,34,"5,386",448,67,62.6,washington-redskins,86,50,2,2017
+3,0,Jonathan AllenJ. Allen,0,3,7,0,673,0,0.00,washington-redskins,0,0,2,2017
+4,Ryan AndersonR. Anderson,0,1.0,3,15,0.00,10,0,0,washington-redskins,0,12,7.0,2017
+0,17,"1,016",0,157,0,68,0,0,7,chicago-bears,59.8,10,Mike NugentM. Nugent,2017
+1,4,260,0,54,0,70,0,0,2,chicago-bears,65.0,2,Pat O'DonnellP. O'Donnell,2017
+2,2,130,0,0,0,65,0,0,2,chicago-bears,65.0,0,Cairo SantosC. Santos,2017
+3,60,"3,780",0,699,1,70,0,0,28,chicago-bears,63.0,32,Chicago,2017
+4,80,"4,984",0,969,0,70,0,1,33,chicago-bears,62.3,46,Opponents,2017
+5,0,0,0,45,3.0,0,0,29,0,chicago-bears,0.00,16,Sam AchoS. Acho,2017
+0,0,7,70,17,977,0,64.6,0,0,detroit-lions,180,Matt PraterM. Prater,16,2017
+1,0,10,68,1,65,0,57.5,0,1,detroit-lions,149,Kasey RedfernK. Redfern,6,2017
+2,0,1,65,91,"5,769",0,65.0,0,0,detroit-lions,23,Detroit,0,2017
+3,0,43,71,79,"4,808",0,63.4,0,1,detroit-lions,878,Opponents,47,2017
+4,3,32,73,0,0,0,60.9,1,2,detroit-lions,583,Jared AbbrederisJ. Abbrederis,43,2017
+5,2,1,0,0,0.00,0.0,0.00,Ameer AbdullahA. Abdullah,0.0,detroit-lions,3,0,0,2017
+0,0,0,0.0,2,0.0,0,0.0,2,0,green-bay-packers,0.00,0,Geronimo AllisonG. Allison,2017
+1,0,0.00,Vince BiegelV. Biegel,0.0,0.0,0,0.0,5,11,green-bay-packers,0,16,0,2017
+2,11.00,11,1,0.0,Ahmad BrooksA. Brooks,19,Kentrell BriceK. Brice,23,4,green-bay-packers,0,0.0,11,2017
+0,0,1,51,89,"5,638",0,51.0,0,0,minnesota-vikings,14,Minnesota,0,2017
+1,0,45,72,67,"4,299",0,63.3,0,0,minnesota-vikings,"1,023",Opponents,44,2017
+2,2,25,74,1,10,0,64.2,0,2,minnesota-vikings,619,Mackensie AlexanderM. Alexander,40,2017
+3,13,4,10,0,0.00,0.0,10.00,Anthony BarrA. Barr,0.0,minnesota-vikings,17,0,0,2017
+0,63.5,71,84,2,0,0,Matt BosherM. Bosher,863,33,atlanta-falcons,49,0,"5,332",2017
+1,63.5,71,84,2,0,0,Atlanta,863,33,atlanta-falcons,49,0,"5,332",2017
+2,64.2,72,77,0,0,0,Opponents,871,39,atlanta-falcons,38,0,"4,940",2017
+0,1,1,34,40,0,Mike AdamsM. Adams,0,42,2,carolina-panthers,1,21.00,760,2017
+1,0.0,0.0,21,0,27,0,48,0.00,0,carolina-panthers,Mario AddisonM. Addison,0,69,2017
+2,70.5,Alex ArmahA. Armah,44,0,2,0,17,0,0.00,carolina-panthers,0,0,11.0,2017
+0,0,3,32,72,36,Opponents,2,"4,658",77,new-orleans-saints,0,60.5,788,2017
+1,1,5,36,0,0,Alex AnzaloneA. Anzalone,2,0,0,new-orleans-saints,0,0.00,825,2017
+2,1.0,4.0,5,0,1,0,11,0.00,0,new-orleans-saints,Terron ArmsteadT. Armstead,0,16,2017
+3,0.0,Chris BanjoC. Banjo,1,10,2,0,0,0,0.00,new-orleans-saints,1,0,0.0,2017
+0,"1,074",2,0,61.9,70,0,14,18,Nick FolkN. Folk,tampa-bay-buccaneers,2,"1,114",43,2017
+1,86,0,0,61.1,71,0,13,77,Tampa Bay,tampa-bay-buccaneers,1,"4,704",4,2017
+2,"1,160",2,0,63.8,67,0,27,83,Opponents,tampa-bay-buccaneers,3,"5,294",47,2017
+3,432,0,0,23.33,28,0,62,3,Kwon AlexanderK. Alexander,tampa-bay-buccaneers,1,70,20,2017
+0,1,2,40,70,49,Opponents,1,"4,996",80,arizona-cardinals,0,62.5,880,2017
+1,0,2,29,0,0,Budda BakerB. Baker,0,0,0,arizona-cardinals,0,0.00,592,2017
+2,1.0,7.0,16,0,47,5,58,10.20,51,arizona-cardinals,Antoine BetheaA. Bethea,21,74,2017
+3,8.0,Justin BethelJ. Bethel,57,29,12,82,10,82t,82.00,arizona-cardinals,1,1,1.0,2017
+0,"4,760",61.8,Opponents,1,2,34,0,40,1,los-angeles-rams,74,"1,001",77,2017
+1,0,0.00,Maurice AlexanderM. Alexander,0.0,0.0,0,1,7,13,los-angeles-rams,0,20,0,2017
+2,0.00,0,0,0.0,Mark BarronM. Barron,1,Tavon AustinT. Austin,1,0,los-angeles-rams,0,0.0,0,2017
+3,15,0,29,Connor BarwinC. Barwin,0,13,3,1.0,86,los-angeles-rams,73,2.0,9.67,2017
+0,0,2,40,83,"5,166",0,25.2,1,2,san-francisco-49ers,2,San Francisco,0,2017
+1,1,15,70,86,"5,258",0,62.2,1,2,san-francisco-49ers,302,Opponents,64,2017
+2,3,31,70,0,0,0,61.1,1,3,san-francisco-49ers,570,Arik ArmsteadA. Armstead,50,2017
+3,8,8,0,29,14.50,1.5,0.00,Ray-Ray ArmstrongR. Armstrong,8.5,san-francisco-49ers,16,2,0,2017
+0,--,Fred SmerlasF. Smerlas,0,4.0,--,0,0,0,0.00,buffalo-bills,0,0,2.0,2017
+1,0.00,0,0,14,14.00,11.0,Bruce SmithB. Smith,Leonard SmithL. Smith,--,buffalo-bills,0,1,0,2017
+0,0,0.00,Bruce SmithB. Smith,2,46,0,--,--,13.0,buffalo-bills,0,Leonard SmithL. Smith,0,2017
+1,0.0,--,24,0,0.0,1,23.00,10.00,10,buffalo-bills,Art StillA. Still,10,0,2017
+0,0.5,--,0,0,0.0,1,0.00,0.00,0,buffalo-bills,David PoolD. Pool,0,0,2017
+1,0,0.00,Leon SealsL. Seals,0,0,0,--,--,4.0,buffalo-bills,0,Bruce SmithB. Smith,1,2017
+0,0,1.5,0.00,22,0,Leonard SmithL. Smith,0,22,3,buffalo-bills,--,7.33,0,2017
+1,5,45,--,James WilliamsJ. Williams,1,13,2.0,4.0,0,buffalo-bills,9.00,--,Darryl TalleyD. Talley,2017
+0,0.00,0,0,15,7.50,4.0,Darryl TalleyD. Talley,James WilliamsJ. Williams,--,buffalo-bills,0,2,0,2017
+1,--,Jeff WrightJ. Wright,0,6.0,--,0,15,0,0.00,buffalo-bills,0,0,0.0,2017
+0,61t,1,74,27.00,27t,--,3,1,Mickey WashingtonM. Washington,buffalo-bills,2.0,27,24.67,2017
+1,James WilliamsJ. Williams,2,0.5,--,Jeff WrightJ. Wright,5.50,1,0,6,buffalo-bills,11,0.0,--,2017
+0,0,0.5,21.00,0,0,Jeff WrightJ. Wright,63,0,0,buffalo-bills,2.5,0.00,36,2017
+1,16,175,11.5,Opponents,21,45,2.0,25.0,0,buffalo-bills,10.94,152.0,Buffalo,2017
+0,0,33/35,0,11,0,0,0,126,0,buffalo-bills,31/40,Bill BrooksB. Brooks,0,2017
+1,0,0,0,0,0,0,11,0/0,0,buffalo-bills,0,0/0,0,2017
+0,0,0,0,0.00,0,100.5,0,1,Thomas SmithT. Smith,buffalo-bills,13.5,0,0.00,2017
+1,Chris SpielmanC. Spielman,1,0.0,0.0,Matt StevensM. Stevens,14.00,0,0,14,buffalo-bills,14,0.0,0.0,2017
+0,0,0.00,Ted WashingtonT. Washington,15,157,0,0.0,21.5,4.0,buffalo-bills,0,Buffalo,0,2017
+1,46.0,344.0,28,3,46.0,25,10.47,14.36,359,buffalo-bills,Opponents,62t,0,2017
+0,--,Fred SmerlasF. Smerlas,0,4.0,--,0,0,0,0.00,buffalo-bills,0,0,2.0,2017
+1,0.00,0,0,14,14.00,11.0,Bruce SmithB. Smith,Leonard SmithL. Smith,--,buffalo-bills,0,1,0,2017
+0,--,Fred SmerlasF. Smerlas,0,4.0,--,0,0,0,0.00,buffalo-bills,0,0,2.0,2017
+1,0.00,0,0,14,14.00,11.0,Bruce SmithB. Smith,Leonard SmithL. Smith,--,buffalo-bills,0,1,0,2017
+0,0,0.00,Bruce SmithB. Smith,2,46,0,--,--,13.0,buffalo-bills,0,Leonard SmithL. Smith,0,2017
+1,0.0,--,24,0,0.0,1,23.00,10.00,10,buffalo-bills,Art StillA. Still,10,0,2017
+0,0.5,--,0,0,0.0,1,0.00,0.00,0,buffalo-bills,David PoolD. Pool,0,0,2017
+1,0,0.00,Leon SealsL. Seals,0,0,0,--,--,4.0,buffalo-bills,0,Bruce SmithB. Smith,1,2017
+0,0,1.5,0.00,22,0,Leonard SmithL. Smith,0,22,3,buffalo-bills,--,7.33,0,2017
+1,5,45,--,James WilliamsJ. Williams,1,13,2.0,4.0,0,buffalo-bills,9.00,--,Darryl TalleyD. Talley,2017
+0,0.00,0,0,15,7.50,4.0,Darryl TalleyD. Talley,James WilliamsJ. Williams,--,buffalo-bills,0,2,0,2017
+1,--,Jeff WrightJ. Wright,0,6.0,--,0,15,0,0.00,buffalo-bills,0,0,0.0,2017
+0,61t,1,74,27.00,27t,--,3,1,Mickey WashingtonM. Washington,buffalo-bills,2.0,27,24.67,2017
+1,James WilliamsJ. Williams,2,0.5,--,Jeff WrightJ. Wright,5.50,1,0,6,buffalo-bills,11,0.0,--,2017
+0,0,0.5,21.00,0,0,Jeff WrightJ. Wright,63,0,0,buffalo-bills,2.5,0.00,36,2017
+1,16,175,11.5,Opponents,21,45,2.0,25.0,0,buffalo-bills,10.94,152.0,Buffalo,2017
+0,0,33/35,0,11,0,0,0,126,0,buffalo-bills,31/40,Bill BrooksB. Brooks,0,2017
+1,0,0,0,0,0,0,11,0/0,0,buffalo-bills,0,0/0,0,2017
+0,0,0,0,0.00,0,100.5,0,1,Thomas SmithT. Smith,buffalo-bills,13.5,0,0.00,2017
+1,Chris SpielmanC. Spielman,1,0.0,0.0,Matt StevensM. Stevens,14.00,0,0,14,buffalo-bills,14,0.0,0.0,2017
+0,0,0.00,Ted WashingtonT. Washington,15,157,0,0.0,21.5,4.0,buffalo-bills,0,Buffalo,0,2017
+1,46.0,344.0,28,3,46.0,25,10.47,14.36,359,buffalo-bills,Opponents,62t,0,2017
+0,--,Fred SmerlasF. Smerlas,0,4.0,--,0,0,0,0.00,buffalo-bills,0,0,2.0,2017
+1,0.00,0,0,14,14.00,11.0,Bruce SmithB. Smith,Leonard SmithL. Smith,--,buffalo-bills,0,1,0,2017
+0,0,0.00,Bruce SmithB. Smith,2,46,0,--,--,13.0,buffalo-bills,0,Leonard SmithL. Smith,0,2017
+1,0.0,--,24,0,0.0,1,23.00,10.00,10,buffalo-bills,Art StillA. Still,10,0,2017
+0,0.5,--,0,0,0.0,1,0.00,0.00,0,buffalo-bills,David PoolD. Pool,0,0,2017
+1,0,0.00,Leon SealsL. Seals,0,0,0,--,--,4.0,buffalo-bills,0,Bruce SmithB. Smith,1,2017
+0,0,1.5,0.00,22,0,Leonard SmithL. Smith,0,22,3,buffalo-bills,--,7.33,0,2017
+1,5,45,--,James WilliamsJ. Williams,1,13,2.0,4.0,0,buffalo-bills,9.00,--,Darryl TalleyD. Talley,2017
+0,0.00,0,0,15,7.50,4.0,Darryl TalleyD. Talley,James WilliamsJ. Williams,--,buffalo-bills,0,2,0,2017
+1,--,Jeff WrightJ. Wright,0,6.0,--,0,15,0,0.00,buffalo-bills,0,0,0.0,2017
+0,61t,1,74,27.00,27t,--,3,1,Mickey WashingtonM. Washington,buffalo-bills,2.0,27,24.67,2017
+1,James WilliamsJ. Williams,2,0.5,--,Jeff WrightJ. Wright,5.50,1,0,6,buffalo-bills,11,0.0,--,2017
+0,0,0.5,21.00,0,0,Jeff WrightJ. Wright,63,0,0,buffalo-bills,2.5,0.00,36,2017
+1,16,175,11.5,Opponents,21,45,2.0,25.0,0,buffalo-bills,10.94,152.0,Buffalo,2017
+0,0,33/35,0,11,0,0,0,126,0,buffalo-bills,31/40,Bill BrooksB. Brooks,0,2017
+1,0,0,0,0,0,0,11,0/0,0,buffalo-bills,0,0/0,0,2017
+0,0,0,0,0.00,0,100.5,0,1,Thomas SmithT. Smith,buffalo-bills,13.5,0,0.00,2017
+1,Chris SpielmanC. Spielman,1,0.0,0.0,Matt StevensM. Stevens,14.00,0,0,14,buffalo-bills,14,0.0,0.0,2017
+0,0,0.00,Ted WashingtonT. Washington,15,157,0,0.0,21.5,4.0,buffalo-bills,0,Buffalo,0,2017
+1,46.0,344.0,28,3,46.0,25,10.47,14.36,359,buffalo-bills,Opponents,62t,0,2017
+0,0,0.00,Steve ChristieS. Christie,0.0,0.0,0,0.0,1,3,buffalo-bills,0,4,0,2017
+1,0.00,0,0,0.0,Sam CowartS. Cowart,1,Bobby CollinsB. Collins,1,0,buffalo-bills,0,0.0,0,2017
+0,0,3,0.00,3,48,3,0,0.0,0.0,buffalo-bills,0,Nate ClementsN. Clements,0,2017
+1,57,10,48t,0,0.00,1.0,16.00,Bill ConatyB. Conaty,1.0,buffalo-bills,67,0,1,2017
+0,Shawn BrysonS. Bryson,0,0.0,1,2,0.00,1,0,0,buffalo-bills,0,1,0.0,2017
+1,0,0,0.0,3,0.0,0,0.0,1,0,buffalo-bills,0.00,2,Joe BurnsJ. Burns,2017
+0,2,0.0,1,0,0,Ryan DenneyR. Denney,0,0,0,buffalo-bills,0.0,0.00,1,2017
+1,3.5,23.5,16,0,1,0,27,0.00,0,buffalo-bills,Jon DorenbosJ. Dorenbos,0,43,2017
+0,0.00,0,0,22.0,Jon DorenbosJ. Dorenbos,15,Ryan DenneyR. Denney,35,20,buffalo-bills,0,3.0,0,2017
+1,0,0,0,Ron EdwardsR. Edwards,0,2,0,0.0,8,buffalo-bills,6,0.0,0.00,2017
+0,8,0.0,6,0,0,Nate ClementsN. Clements,0,0,2,buffalo-bills,0.0,0.00,2,2017
+1,0.0,0.0,21,0,80,2,81,1.50,3,buffalo-bills,Angelo CrowellA. Crowell,2,102,2017
+0,Angelo CrowellA. Crowell,2,0.0,26,84,0.00,71,0,0,buffalo-bills,0,58,0.0,2017
+1,0,0,10.0,16,0.0,0,2.0,13,0,buffalo-bills,0.00,3,Andre' DavisA. Davis,2017
+0,0,0,0,John DiGiorgioJ. DiGiorgio,1,6,0,1.0,27,buffalo-bills,21,7.0,0.00,2017
+1,0,87,38.00,0,0,113,38,12.5,2.0,buffalo-bills,26,Derrick DockeryD. Dockery,38,2017
+0,3,0,0,0,0.00,0.0,0.00,Chris EllisC. Ellis,0.0,buffalo-bills,3,0,0,2017
+1,0,3,0,0.00,0,0.0,0,0,Keith EllisonK. Ellison,buffalo-bills,0.0,0,3,2017
+0,0,33,13.11,0,0,45,118,0.0,0.0,buffalo-bills,12,Kirk ChambersK. Chambers,37,2017
+1,2,0,0,0,0.00,0.0,0.00,Reggie CornerR. Corner,0.0,buffalo-bills,2,1,0,2017
+2,15,67,0,0.00,0,0.0,0,0,Jon CortoJ. Corto,buffalo-bills,0.0,0,52,2017
+3,22,0.0,15,0,0,Ryan DenneyR. Denney,0,0,0,buffalo-bills,0.0,0.00,7,2017
+0,1.0,1.0,2,0,3,0,6,0.00,0,buffalo-bills,Scott ChandlerS. Chandler,0,8,2017
+1,0.0,Antonio ColemanA. Coleman,3,7,5,0,0,0,0.00,buffalo-bills,0,0,0.0,2017
+2,Reggie CornerR. Corner,0,0.0,5,25,0.00,12,0,0,buffalo-bills,0,20,0.0,2017
+3,0,0,7.0,5,0.0,0,1.0,3,0,buffalo-bills,0.00,2,Jon CortoJ. Corto,2017
+0,30,"1,740",0,405,0,71,0,0,7,buffalo-bills,58.0,20,Dave RaynerD. Rayner,2017
+1,4,246,1,77,0,66,3,0,0,buffalo-bills,61.5,4,Brandon CoutuB. Coutu,2017
+2,2,85,0,27,0,68,0,0,0,buffalo-bills,42.5,2,Brian MoormanB. Moorman,2017
+3,79,"4,804",0,"1,144",0,71,1,1,19,buffalo-bills,60.8,56,Buffalo,2017
+4,90,"5,863",1,853,0,73,4,0,53,buffalo-bills,65.1,37,Opponents,2017
+5,0,0,0,1,0.0,0,0,1,0,buffalo-bills,0.00,0,Kamar AikenK. Aiken,2017
+0,73,20,"4,493",0,Opponents,51,73,1,"1,144",buffalo-bills,0,2,61.5,2017
+1,73,49,"5,809",0,Mark AndersonM. Anderson,42,91,1,"1,136",buffalo-bills,0,0,63.8,2017
+2,0,0,0,Nick BarnettN. Barnett,0,2,0,1.0,12,buffalo-bills,10,11.0,0.00,2017
+3,0,72,0.00,0,0,112,0,3.0,2.0,buffalo-bills,40,Nigel BradhamN. Bradham,0,2017
+0,83,"5,286",0,"1,122",0,73,1,0,34,buffalo-bills,63.7,48,Buffalo,2017
+1,85,"5,489",0,469,0,72,1,1,61,buffalo-bills,64.6,23,Opponents,2017
+2,4,38,0,159,2.0,32,0,87,0,buffalo-bills,9.50,72,Kiko AlonsoK. Alonso,2017
+0,Nigel BradhamN. Bradham,1,1,38,104,0.00,1,0,0,buffalo-bills,0,66,0,2017
+1,0,0,8.0,34,0.0,0,2.5,30,0,buffalo-bills,0.00,4,Ron BrooksR. Brooks,2017
+2,0,0.00,Bryce BrownB. Brown,0.0,0.0,0,0.0,0,1,buffalo-bills,0,1,0,2017
+3,0.00,0,1,0.0,Corbin BryantC. Bryant,66,Preston BrownP. Brown,109,43,buffalo-bills,0,0.0,0,2017
+0,Opponents,81,2,41,772,62.1,0,38,71,buffalo-bills,"5,030",0,0,2017
+1,T.J. BarnesT. Barnes,0,2,1,1,0.00,0,0,0,buffalo-bills,0,0,0,2017
+2,0,0,0.0,59,1.0,0,0.0,42,0,buffalo-bills,0.00,17,Nigel BradhamN. Bradham,2017
+3,0,0.00,Ron BrooksR. Brooks,0.0,0.0,0,3.0,1,11,buffalo-bills,0,12,0,2017
+4,23.00,43t,2,0.0,Corbin BryantC. Bryant,66,Preston BrownP. Brown,120,54,buffalo-bills,1,0.0,46,2017
+0,0,0,1,69,35,Buffalo,0,"5,074",84,buffalo-bills,0,60.4,51,2017
+1,0,3,46,69,44,Opponents,1,"5,318",84,buffalo-bills,0,63.3,999,2017
+2,0,0,39,28,0,Lorenzo AlexanderL. Alexander,0,28,1,buffalo-bills,0,28.00,829,2017
+3,12.5,74.0,20,0,2,0,56,0.00,0,buffalo-bills,Colt AndersonC. Anderson,0,76,2017
+4,0.0,Robert BlantonR. Blanton,2,27,8,0,0,0,0.00,buffalo-bills,0,0,0.0,2017
+0,0,0,0.0,3,0.0,0,0.0,2,0,miami-dolphins,0.00,1,Arturo FreemanA. Freeman,2017
+1,0,0.00,Oronde GadsdenO. Gadsden,0.0,0.0,0,0.0,0,2,miami-dolphins,0,2,0,2017
+0,8,2,0,0,0.00,0.0,0.00,Arturo FreemanA. Freeman,0.0,miami-dolphins,10,1,0,2017
+1,9,36,0,0.00,0,7.0,0,0,Oronde GadsdenO. Gadsden,miami-dolphins,1.0,0,27,2017
+0,0,0,0,Deon DyerD. Dyer,0,0,0,0.0,4,miami-dolphins,4,0.0,0.00,2017
+1,0,1,0.00,0,0,1,0,0.0,0.0,miami-dolphins,0,Robert EdwardsR. Edwards,0,2017
+0,0,0,0,Jay FiedlerJ. Fiedler,0,18,0,0.0,38,miami-dolphins,20,0.0,0.00,2017
+1,0,1,0.00,0,0,1,0,0.0,0.0,miami-dolphins,0,Jamar FletcherJ. Fletcher,0,2017
+0,David BowensD. Bowens,0,0.0,15,43,0.00,1,0,0,miami-dolphins,0,28,0.0,2017
+1,0,0,55.0,3,0.0,0,7.0,2,0,miami-dolphins,0.00,1,Tim BowensT. Bowens,2017
+0,6.0,38.0,3,0,3,0,21,0.00,0,miami-dolphins,Ronnie BrownR. Brown,0,24,2017
+1,0.0,Vernon CareyV. Carey,3,1,0,0,0,0,0.00,miami-dolphins,0,0,0.0,2017
+0,24,70,0,0.00,0,12.0,0,0,David BowensD. Bowens,miami-dolphins,2.0,0,46,2017
+1,20,5.0,13,0,0,Ronnie BrownR. Brown,0,0,0,miami-dolphins,27.5,0.00,7,2017
+0,0,0.00,Courtney BryanC. Bryan,0.0,0.0,0,0.0,4,7,miami-dolphins,0,11,0,2017
+1,0.00,0,0,0.0,Vernon CareyV. Carey,3,Greg CamarilloG. Camarillo,3,0,miami-dolphins,0,0.0,0,2017
+0,1,0,0,0,0.00,0.0,0.00,Courtney BryanC. Bryan,0.0,miami-dolphins,1,0,0,2017
+1,0,3,0,0.00,0,0.0,0,0,Greg CamarilloG. Camarillo,miami-dolphins,0.0,0,3,2017
+0,11,1,65.2,Jason AllenJ. Allen,0,"1,739","5,800",2,2,miami-dolphins,75,0,76,2017
+1,0,20,0.00,2,27,22,0,0.0,0.0,miami-dolphins,2,Will AllenW. Allen,0,2017
+2,19,2,21,0,0.00,0.0,13.50,Charlie AndersonC. Anderson,0.0,miami-dolphins,21,0,0,2017
+3,2,17,0,0.00,0,4.0,0,0,Akin AyodeleA. Ayodele,miami-dolphins,2.0,0,15,2017
+0,0,0.00,Steve ChristieS. Christie,0.0,0.0,0,0.0,1,3,buffalo-bills,0,4,0,2017
+1,0.00,0,0,0.0,Sam CowartS. Cowart,1,Bobby CollinsB. Collins,1,0,buffalo-bills,0,0.0,0,2017
+0,0,3,0.00,3,48,3,0,0.0,0.0,buffalo-bills,0,Nate ClementsN. Clements,0,2017
+1,57,10,48t,0,0.00,1.0,16.00,Bill ConatyB. Conaty,1.0,buffalo-bills,67,0,1,2017
+0,Shawn BrysonS. Bryson,0,0.0,1,2,0.00,1,0,0,buffalo-bills,0,1,0.0,2017
+1,0,0,0.0,3,0.0,0,0.0,1,0,buffalo-bills,0.00,2,Joe BurnsJ. Burns,2017
+0,2,0.0,1,0,0,Ryan DenneyR. Denney,0,0,0,buffalo-bills,0.0,0.00,1,2017
+1,3.5,23.5,16,0,1,0,27,0.00,0,buffalo-bills,Jon DorenbosJ. Dorenbos,0,43,2017
+0,0.00,0,0,22.0,Jon DorenbosJ. Dorenbos,15,Ryan DenneyR. Denney,35,20,buffalo-bills,0,3.0,0,2017
+1,0,0,0,Ron EdwardsR. Edwards,0,2,0,0.0,8,buffalo-bills,6,0.0,0.00,2017
+0,8,0.0,6,0,0,Nate ClementsN. Clements,0,0,2,buffalo-bills,0.0,0.00,2,2017
+1,0.0,0.0,21,0,80,2,81,1.50,3,buffalo-bills,Angelo CrowellA. Crowell,2,102,2017
+0,Angelo CrowellA. Crowell,2,0.0,26,84,0.00,71,0,0,buffalo-bills,0,58,0.0,2017
+1,0,0,10.0,16,0.0,0,2.0,13,0,buffalo-bills,0.00,3,Andre' DavisA. Davis,2017
+0,0,0,0,John DiGiorgioJ. DiGiorgio,1,6,0,1.0,27,buffalo-bills,21,7.0,0.00,2017
+1,0,87,38.00,0,0,113,38,12.5,2.0,buffalo-bills,26,Derrick DockeryD. Dockery,38,2017
+0,3,0,0,0,0.00,0.0,0.00,Chris EllisC. Ellis,0.0,buffalo-bills,3,0,0,2017
+1,0,3,0,0.00,0,0.0,0,0,Keith EllisonK. Ellison,buffalo-bills,0.0,0,3,2017
+0,0,33,13.11,0,0,45,118,0.0,0.0,buffalo-bills,12,Kirk ChambersK. Chambers,37,2017
+1,2,0,0,0,0.00,0.0,0.00,Reggie CornerR. Corner,0.0,buffalo-bills,2,1,0,2017
+2,15,67,0,0.00,0,0.0,0,0,Jon CortoJ. Corto,buffalo-bills,0.0,0,52,2017
+3,22,0.0,15,0,0,Ryan DenneyR. Denney,0,0,0,buffalo-bills,0.0,0.00,7,2017
+0,1.0,1.0,2,0,3,0,6,0.00,0,buffalo-bills,Scott ChandlerS. Chandler,0,8,2017
+1,0.0,Antonio ColemanA. Coleman,3,7,5,0,0,0,0.00,buffalo-bills,0,0,0.0,2017
+2,Reggie CornerR. Corner,0,0.0,5,25,0.00,12,0,0,buffalo-bills,0,20,0.0,2017
+3,0,0,7.0,5,0.0,0,1.0,3,0,buffalo-bills,0.00,2,Jon CortoJ. Corto,2017
+0,30,"1,740",0,405,0,71,0,0,7,buffalo-bills,58.0,20,Dave RaynerD. Rayner,2017
+1,4,246,1,77,0,66,3,0,0,buffalo-bills,61.5,4,Brandon CoutuB. Coutu,2017
+2,2,85,0,27,0,68,0,0,0,buffalo-bills,42.5,2,Brian MoormanB. Moorman,2017
+3,79,"4,804",0,"1,144",0,71,1,1,19,buffalo-bills,60.8,56,Buffalo,2017
+4,90,"5,863",1,853,0,73,4,0,53,buffalo-bills,65.1,37,Opponents,2017
+5,0,0,0,1,0.0,0,0,1,0,buffalo-bills,0.00,0,Kamar AikenK. Aiken,2017
+0,73,20,"4,493",0,Opponents,51,73,1,"1,144",buffalo-bills,0,2,61.5,2017
+1,73,49,"5,809",0,Mark AndersonM. Anderson,42,91,1,"1,136",buffalo-bills,0,0,63.8,2017
+2,0,0,0,Nick BarnettN. Barnett,0,2,0,1.0,12,buffalo-bills,10,11.0,0.00,2017
+3,0,72,0.00,0,0,112,0,3.0,2.0,buffalo-bills,40,Nigel BradhamN. Bradham,0,2017
+0,83,"5,286",0,"1,122",0,73,1,0,34,buffalo-bills,63.7,48,Buffalo,2017
+1,85,"5,489",0,469,0,72,1,1,61,buffalo-bills,64.6,23,Opponents,2017
+2,4,38,0,159,2.0,32,0,87,0,buffalo-bills,9.50,72,Kiko AlonsoK. Alonso,2017
+0,Nigel BradhamN. Bradham,1,1,38,104,0.00,1,0,0,buffalo-bills,0,66,0,2017
+1,0,0,8.0,34,0.0,0,2.5,30,0,buffalo-bills,0.00,4,Ron BrooksR. Brooks,2017
+2,0,0.00,Bryce BrownB. Brown,0.0,0.0,0,0.0,0,1,buffalo-bills,0,1,0,2017
+3,0.00,0,1,0.0,Corbin BryantC. Bryant,66,Preston BrownP. Brown,109,43,buffalo-bills,0,0.0,0,2017
+0,Opponents,81,2,41,772,62.1,0,38,71,buffalo-bills,"5,030",0,0,2017
+1,T.J. BarnesT. Barnes,0,2,1,1,0.00,0,0,0,buffalo-bills,0,0,0,2017
+2,0,0,0.0,59,1.0,0,0.0,42,0,buffalo-bills,0.00,17,Nigel BradhamN. Bradham,2017
+3,0,0.00,Ron BrooksR. Brooks,0.0,0.0,0,3.0,1,11,buffalo-bills,0,12,0,2017
+4,23.00,43t,2,0.0,Corbin BryantC. Bryant,66,Preston BrownP. Brown,120,54,buffalo-bills,1,0.0,46,2017
+0,0,0,1,69,35,Buffalo,0,"5,074",84,buffalo-bills,0,60.4,51,2017
+1,0,3,46,69,44,Opponents,1,"5,318",84,buffalo-bills,0,63.3,999,2017
+2,0,0,39,28,0,Lorenzo AlexanderL. Alexander,0,28,1,buffalo-bills,0,28.00,829,2017
+3,12.5,74.0,20,0,2,0,56,0.00,0,buffalo-bills,Colt AndersonC. Anderson,0,76,2017
+4,0.0,Robert BlantonR. Blanton,2,27,8,0,0,0,0.00,buffalo-bills,0,0,0.0,2017
+0,0,2,32,0,0,Lorenzo AlexanderL. Alexander,0,0,0,buffalo-bills,2,0.00,640,2017
+1,3.0,21.0,15,0,3,0,59,0.00,0,buffalo-bills,Colt AndersonC. Anderson,0,74,2017
+2,0.0,Robert BlantonR. Blanton,3,2,1,0,0,0,0.00,buffalo-bills,0,0,0.0,2017
+0,0,0,0.0,3,0.0,0,0.0,2,0,miami-dolphins,0.00,1,Arturo FreemanA. Freeman,2017
+1,0,0.00,Oronde GadsdenO. Gadsden,0.0,0.0,0,0.0,0,2,miami-dolphins,0,2,0,2017
+0,8,2,0,0,0.00,0.0,0.00,Arturo FreemanA. Freeman,0.0,miami-dolphins,10,1,0,2017
+1,9,36,0,0.00,0,7.0,0,0,Oronde GadsdenO. Gadsden,miami-dolphins,1.0,0,27,2017
+0,0,0,0,Deon DyerD. Dyer,0,0,0,0.0,4,miami-dolphins,4,0.0,0.00,2017
+1,0,1,0.00,0,0,1,0,0.0,0.0,miami-dolphins,0,Robert EdwardsR. Edwards,0,2017
+0,0,0,0,Jay FiedlerJ. Fiedler,0,18,0,0.0,38,miami-dolphins,20,0.0,0.00,2017
+1,0,1,0.00,0,0,1,0,0.0,0.0,miami-dolphins,0,Jamar FletcherJ. Fletcher,0,2017
+0,David BowensD. Bowens,0,0.0,15,43,0.00,1,0,0,miami-dolphins,0,28,0.0,2017
+1,0,0,55.0,3,0.0,0,7.0,2,0,miami-dolphins,0.00,1,Tim BowensT. Bowens,2017
+0,6.0,38.0,3,0,3,0,21,0.00,0,miami-dolphins,Ronnie BrownR. Brown,0,24,2017
+1,0.0,Vernon CareyV. Carey,3,1,0,0,0,0,0.00,miami-dolphins,0,0,0.0,2017
+0,24,70,0,0.00,0,12.0,0,0,David BowensD. Bowens,miami-dolphins,2.0,0,46,2017
+1,20,5.0,13,0,0,Ronnie BrownR. Brown,0,0,0,miami-dolphins,27.5,0.00,7,2017
+0,0,0.00,Courtney BryanC. Bryan,0.0,0.0,0,0.0,4,7,miami-dolphins,0,11,0,2017
+1,0.00,0,0,0.0,Vernon CareyV. Carey,3,Greg CamarilloG. Camarillo,3,0,miami-dolphins,0,0.0,0,2017
+0,1,0,0,0,0.00,0.0,0.00,Courtney BryanC. Bryan,0.0,miami-dolphins,1,0,0,2017
+1,0,3,0,0.00,0,0.0,0,0,Greg CamarilloG. Camarillo,miami-dolphins,0.0,0,3,2017
+0,11,1,65.2,Jason AllenJ. Allen,0,"1,739","5,800",2,2,miami-dolphins,75,0,76,2017
+1,0,20,0.00,2,27,22,0,0.0,0.0,miami-dolphins,2,Will AllenW. Allen,0,2017
+2,19,2,21,0,0.00,0.0,13.50,Charlie AndersonC. Anderson,0.0,miami-dolphins,21,0,0,2017
+3,2,17,0,0.00,0,4.0,0,0,Akin AyodeleA. Ayodele,miami-dolphins,2.0,0,15,2017
+0,Jonathon AmayaJ. Amaya,0,0.0,2,15,0.00,32,0,0,miami-dolphins,0,13,0.0,2017
+1,0,0,0.0,4,0.0,0,0.0,3,0,miami-dolphins,0.00,1,Ryan BakerR. Baker,2017
+2,21,21.00,Yeremiah BellY. Bell,1.5,13.0,0,0.0,18,83,miami-dolphins,21,101,1,2017
+0,0,Brandon FieldsB. Fields,0,1,2,156,201,73,52.0,miami-dolphins,3,0,0,2017
+1,0,Miami,0,1,41,"5,285",21,74,64.5,miami-dolphins,82,40,1,2017
+2,0,Opponents,0,0,39,"4,442",937,73,61.7,miami-dolphins,72,28,1,2017
+3,2,Ikaika Alama-FrancisI. Alama-Francis,0,1,0,0,942,0,0.00,miami-dolphins,0,0,5,2017
+4,Will AllenW. Allen,0,0.0,4,43,0.00,1,0,0,miami-dolphins,0,39,0.0,2017
+0,73,34,"4,545",1,Opponents,35,71,1,868,miami-dolphins,0,2,64.0,2017
+1,72,34,"4,842",0,Jonathon AmayaJ. Amaya,40,75,1,"1,082",miami-dolphins,0,1,64.6,2017
+2,0,0,0,Kevin BurnettK. Burnett,0,2,0,0.0,8,miami-dolphins,6,0.0,0.00,2017
+3,0,80,0.00,0,0,110,0,10.5,2.5,miami-dolphins,30,Reggie BushR. Bush,0,2017
+0,64.6,74,74,0,0,1,Caleb SturgisC. Sturgis,811,35,miami-dolphins,38,0,"4,783",2017
+1,53.0,53,1,0,0,0,Brandon FieldsB. Fields,15,1,miami-dolphins,0,0,53,2017
+2,64.5,74,75,0,0,1,Miami,826,36,miami-dolphins,38,0,"4,836",2017
+3,64.4,74,83,0,0,1,Opponents,893,42,miami-dolphins,40,0,"5,342",2017
+0,64.1,73,85,1,0,1,Caleb SturgisC. Sturgis,"1,237",46,miami-dolphins,37,1,"5,448",2017
+1,64.1,73,85,1,0,1,Miami,"1,237",46,miami-dolphins,37,1,"5,448",2017
+2,63.4,76,87,2,0,2,Opponents,"1,082",41,miami-dolphins,41,0,"5,518",2017
+0,0,4,23,75,37,Opponents,1,"5,299",82,miami-dolphins,1,64.6,508,2017
+1,0,1,43,0,0,Walt AikensW. Aikens,1,0,0,miami-dolphins,0,0.00,958,2017
+2,0.0,0.0,6,0,1,0,24,0.00,0,miami-dolphins,Branden AlbertB. Albert,0,30,2017
+3,0.0,Zack BowmanZ. Bowman,1,6,1,38,0,38,38.00,miami-dolphins,1,0,0.0,2017
+0,0,31,81,84,"5,292",0,64.4,0,0,miami-dolphins,632,Opponents,43,2017
+1,0,35,71,2,16,1,63.0,0,2,miami-dolphins,879,Isa Abdul-QuddusI. Abdul-Quddus,47,2017
+2,50,28,9,0,0.00,1.0,8.00,Walt AikensW. Aikens,2.0,miami-dolphins,78,0,0,2017
+0,0,34,72,87,"5,472",0,59.9,4,5,miami-dolphins,665,Opponents,28,2017
+1,0,40,72,0,0,0,62.9,0,2,miami-dolphins,827,Walt AikensW. Aikens,45,2017
+2,6,3,0,0,0.00,0.0,0.00,Chase AllenC. Allen,0.0,miami-dolphins,9,0,0,2017
+0,2,0.0,2,0,0,Antico DaltonA. Dalton,0,0,0,new-england-patriots,0.0,0.00,0,2017
+1,0.0,0.0,0,0,5,0,2,0.00,0,new-england-patriots,Shockmain DavisS. Davis,0,2,2017
+0,26,2,52t,0,0.00,1.0,25.33,Matt ChathamM. Chatham,11.0,new-england-patriots,28,0,1,2017
+1,1,14,0,0.00,0,0.0,0,0,Je'Rod CherryJ. Cherry,new-england-patriots,0.0,0,13,2017
+0,14,3,0,0,0.00,0.0,0.00,Je'Rod CherryJ. Cherry,0.0,new-england-patriots,17,0,0,2017
+1,4,13,0,0.00,0,0.0,0,0,Mike ComptonM. Compton,new-england-patriots,0.0,0,9,2017
+0,0.0,0.0,0,0,2,0,1,0.00,0,new-england-patriots,Christian FauriaC. Fauria,0,1,2017
+1,0.0,David GivensD. Givens,2,3,0,0,0,0,0.00,new-england-patriots,0,0,0.0,2017
+0,Kevin FaulkK. Faulk,0,0.0,0,2,0.00,32,0,0,new-england-patriots,0,2,0.0,2017
+1,2,23,0.0,34,0.0,13,0.0,29,0,new-england-patriots,11.50,5,Randall GayR. Gay,2017
+0,0,0,0,Brandon ChildressB. Childress,0,7,0,1.0,23,new-england-patriots,16,5.0,0.00,2017
+1,0,4,0.00,0,0,4,0,0.0,0.0,new-england-patriots,0,Mike CloudM. Cloud,0,2017
+0,53,59,8,0,0.00,1.5,8.00,Reche CaldwellR. Caldwell,6.0,new-england-patriots,112,0,0,2017
+1,0,1,0,0.00,0,0.0,0,0,Rosevelt ColvinR. Colvin,new-england-patriots,0.0,0,1,2017
+0,0,0,0.0,1,0.0,0,0.0,1,0,new-england-patriots,0.00,0,Kevin FaulkK. Faulk,2017
+1,52,17.33,Randall GayR. Gay,0.0,0.0,0,0.0,5,32,new-england-patriots,31,37,3,2017
+0,Kevin FaulkK. Faulk,0,0.0,0,1,0.00,3,0,0,new-england-patriots,0,1,0.0,2017
+1,0,0,0.0,3,0.0,0,0.0,1,0,new-england-patriots,0.00,2,Stephen GostkowskiS. Gostkowski,2017
+0,0,0,0.0,12,0.0,0,0.0,8,0,new-england-patriots,0.00,4,Eric AlexanderE. Alexander,2017
+1,0,0.00,Kyle ArringtonK. Arrington,0.0,0.0,0,0.0,4,14,new-england-patriots,0,18,0,2017
+2,0.00,0,0,69.5,Leigh BoddenL. Bodden,35,Tully Banta-CainT. Banta-Cain,55,20,new-england-patriots,0,10.0,0,2017
+0,3,55,76,1,36,2,57.5,2,6,new-england-patriots,"1,231",Kyle ArringtonK. Arrington,5,2017
+1,60,11,36t,0,0.00,0.0,36.00,Tully Banta-CainT. Banta-Cain,0.0,new-england-patriots,71,0,1,2017
+2,9,45,0,0.00,0,30.5,0,0,Ron BraceR. Brace,new-england-patriots,5.0,0,36,2017
+3,23,0.0,15,0,0,Sergio BrownS. Brown,0,0,0,new-england-patriots,0.0,0.00,8,2017
+4,0.0,0.0,2,0,22,0,9,0.00,0,new-england-patriots,Darius ButlerD. Butler,0,11,2017
+0,0,2,60,72,21,Opponents,2,"4,420",75,new-england-patriots,0,58.9,"1,294",2017
+1,0,6,46,0,0,Phillip AdamsP. Adams,3,0,1,new-england-patriots,0,0.00,986,2017
+2,0.0,0.0,1,0,2,0,7,0.00,0,new-england-patriots,Danny AikenD. Aiken,0,8,2017
+3,0.0,Mark AndersonM. Anderson,5,18,11,0,3,0,0.00,new-england-patriots,0,0,0.0,2017
+0,0,1,60,112,"7,121",0,60.0,0,0,new-england-patriots,9,New England,0,2017
+1,0,60,73,75,"4,686",0,63.6,0,1,new-england-patriots,"1,229",Opponents,52,2017
+2,0,38,70,0,0,1,62.5,0,2,new-england-patriots,807,Danny AikenD. Aiken,35,2017
+3,1,0,0,0,0.00,0.0,0.00,Kyle ArringtonK. Arrington,0.0,new-england-patriots,1,0,0,2017
+0,99,"6,315",1,664,0,72,1,1,65,new-england-patriots,63.8,32,New England,2017
+1,77,"4,832",1,935,0,71,1,0,35,new-england-patriots,62.8,39,Opponents,2017
+2,0,0,1,4,0.0,0,3,4,0,new-england-patriots,0.00,0,Danny AikenD. Aiken,2017
+0,1,45,74,76,"4,731",0,63.9,0,0,new-england-patriots,955,Opponents,53,2017
+1,1,31,72,0,0,0,62.2,0,2,new-england-patriots,693,Kyle ArringtonK. Arrington,42,2017
+2,33,6,0,0,0.00,1.0,0.00,Akeem AyersA. Ayers,0.0,new-england-patriots,39,1,0,2017
+0,2,0.0,1,0,0,Tom BradyT. Brady,0,0,0,new-england-patriots,0.0,0.00,1,2017
+1,0.0,0.0,0,0,22,0,2,0.00,0,new-england-patriots,Alan BranchA. Branch,0,2,2017
+2,5.0,Malcom BrownM. Brown,35,31,17,0,13,0,0.00,new-england-patriots,0,0,1.0,2017
+3,Tarell BrownT. Brown,0,3.0,4,15,0.00,48,0,0,new-england-patriots,0,11,17.0,2017
+0,0,0,0.0,4,0.0,0,0.0,4,0,new-england-patriots,0.00,0,Brandon BoldenB. Bolden,2017
+1,0,0.00,Alan BranchA. Branch,1.5,0.5,0,0.0,23,26,new-england-patriots,0,49,0,2017
+2,0.00,0,0,28.0,Malcolm ButlerM. Butler,24,Malcom BrownM. Brown,50,26,new-england-patriots,0,3.0,0,2017
+0,1,3,28,0,0,Danny AmendolaD. Amendola,0,0,0,new-england-patriots,0,0.00,622,2017
+1,0.0,0.0,0,0,24,0,2,0.00,0,new-england-patriots,Johnson BademosiJ. Bademosi,0,2,2017
+2,0.0,Brandon BoldenB. Bolden,29,7,1,0,5,0,0.00,new-england-patriots,0,0,0.0,2017
+0,0.0,0.0,3,0,1,0,5,0.00,0,new-york-jets,Vincent BrisbyV. Brisby,0,8,2017
+1,0.0,Shane BurtonS. Burton,1,31,17,0,0,0,0.00,new-york-jets,0,0,0.0,2017
+0,0,0.00,James DarlingJ. Darling,0.0,0.0,0,0.0,6,17,new-york-jets,0,23,0,2017
+1,0.00,0,0,0.0,Shaun EllisS. Ellis,3,James DearthJ. Dearth,3,0,new-york-jets,0,0.0,0,2017
+0,0.0,0.0,1,0,2,0,6,0.00,0,new-york-jets,Wayne ChrebetW. Chrebet,0,7,2017
+1,0.0,Laveranues ColesL. Coles,2,1,0,0,0,0,0.00,new-york-jets,0,0,0.0,2017
+0,0,1,0.00,0,0,1,0,0.0,0.0,new-york-jets,0,Michael BatesM. Bates,0,2017
+1,2,0,0,64,21.33,0.0,0.00,Aaron BeasleyA. Beasley,0.0,new-york-jets,2,3,0,2017
+0,0.0,0.0,14,0,78,1,64,7.00,7,new-york-jets,Eric BartonE. Barton,7,78,2017
+1,9.0,Anthony BechtA. Becht,108,2,0,0,30,0,0.00,new-york-jets,0,0,2.5,2017
+0,0,0,0,Brooks BollingerB. Bollinger,0,0,0,0.0,1,new-york-jets,1,0.0,0.00,2017
+1,0,1,0.00,2,51,1,0,0.0,0.0,new-york-jets,0,Mark BrownM. Brown,0,2017
+0,0.00,0,0,0.0,Jerricho CotcheryJ. Cotchery,2,Laveranues ColesL. Coles,2,0,new-york-jets,0,0.0,0,2017
+1,0,0,0,James DearthJ. Dearth,0,1,0,0.0,2,new-york-jets,1,0.0,0.00,2017
+0,6,26,0,0.00,0,12.0,0,0,Matt ChathamM. Chatham,new-york-jets,2.5,0,20,2017
+1,18,0.0,12,1,0,Drew ColemanD. Coleman,0,1,1,new-york-jets,0.0,1.00,6,2017
+0,0,0,19.0,20,0.0,0,4.0,18,0,new-york-jets,0.00,2,Ahmad CarrollA. Carroll,2017
+1,0,0.00,Jesse ChatmanJ. Chatman,0.0,0.0,0,0.0,2,2,new-york-jets,0,4,0,2017
+0,0.0,Mike DeVitoM. DeVito,2,20,8,0,0,0,0.00,new-york-jets,0,0,0.0,2017
+1,Marques DouglasM. Douglas,0,0.0,28,64,0.00,28,0,0,new-york-jets,0,36,0.0,2017
+2,0,0,9.5,6,0.0,0,1.5,6,0,new-york-jets,0.00,0,Braylon EdwardsB. Edwards,2017
+0,4,0,0,0,0.00,1.0,0.00,Braylon EdwardsB. Edwards,10.0,new-york-jets,4,0,0,2017
+1,0,3,0,0.00,0,0.0,0,0,Shaun EllisS. Ellis,new-york-jets,0.0,0,3,2017
+2,36,4.5,26,0,0,D'Brickashaw FergusonD. Ferguson,0,0,0,new-york-jets,29.5,0.00,10,2017
+0,0,0,0.0,19,0.0,0,0.0,15,0,new-york-jets,0.00,4,Nick BelloreN. Bellore,2017
+1,0,0.00,Marquice ColeM. Cole,0.0,0.0,0,0.0,4,7,new-york-jets,0,11,0,2017
+2,0.00,0,0,0.0,Emanuel CookE. Cook,1,T.J. ConleyT. Conley,1,0,new-york-jets,0,0.0,0,2017
+0,0,1,67,69,"4,298",0,67.0,0,0,new-york-jets,17,NY Jets,0,2017
+1,1,54,73,80,"5,045",1,62.3,0,2,new-york-jets,"1,184",Opponents,12,2017
+2,0,50,74,0,0,1,63.1,1,3,new-york-jets,"1,308",Antonio AllenA. Allen,27,2017
+3,4,2,0,0,0.00,1.0,0.00,Yeremiah BellY. Bell,2.0,new-york-jets,6,0,0,2017
+0,21,63,1,0.00,0,7.0,23t,0,Antwan BarnesA. Barnes,new-york-jets,1.0,0,42,2017
+1,3,2.0,2,0,0,Nick BelloreN. Bellore,0,0,0,new-york-jets,20.0,0.00,1,2017
+2,0.0,0.0,9,0,13,0,8,0.00,0,new-york-jets,Josh BushJ. Bush,0,17,2017
+0,0,1,51,74,25,Opponents,0,"5,370",86,new-york-jets,0,62.4,"1,110",2017
+1,0,3,58,0,0,Oday AboushiO. Aboushi,1,0,0,new-york-jets,0,0.00,"1,342",2017
+2,0.0,0.0,0,0,21,1,1,0.00,0,new-york-jets,Phillip AdamsP. Adams,0,1,2017
+3,0.0,Antonio AllenA. Allen,24,36,5,0,3,0,0.00,new-york-jets,0,0,0.0,2017
+0,0/0,7/8,30/33,Randy BullockR. Bullock,42,7/8,Opponents,54,3/4,new-york-jets,9/9,108,26/29,2017
+1,20,1,65.3,Nick FolkN. Folk,39,495,"2,742",0,0,new-york-jets,21,0,72,2017
+2,13,0,63.2,Ryan QuigleyR. Quigley,5,556,"2,466",2,0,new-york-jets,24,1,74,2017
+3,1,0,67.4,NY Jets,86,117,337,0,0,new-york-jets,4,0,69,2017
+4,34,1,64.5,Opponents,78,"1,168","5,545",2,0,new-york-jets,49,1,74,2017
+0,0,5,0.00,0,0,9,0,0.0,0.0,new-york-jets,4,Brandon BostickB. Bostick,0,2017
+1,1,0,0,0,0.00,0.0,0.00,Braedon BowmanB. Bowman,0.0,new-york-jets,1,0,0,2017
+2,1,2,0,0.00,0,0.0,0,1,Juston BurrisJ. Burris,new-york-jets,0.0,0,1,2017
+0,Jamal AdamsJ. Adams,0,3,20,83,0.00,0,0,0,new-york-jets,0,63,1,2017
+1,0,0,18.0,3,0.0,0,2.0,3,0,new-york-jets,0.00,0,Robby AndersonR. Anderson,2017
+2,0,0.00,David BassD. Bass,3.5,16.5,0,0.0,9,16,new-york-jets,0,25,0,2017
+3,0.00,0,0,0.0,Freddie BishopF. Bishop,1,Kelvin BeachumK. Beachum,1,0,new-york-jets,0,0.0,0,2017
+0,0,0.00,O.J. BriganceO. Brigance,0.0,0.0,0,21.0,2,10,baltimore-ravens,0,12,0,2017
+1,0.00,0,0,17.0,Rob BurnettR. Burnett,17,Cornell BrownC. Brown,23,6,baltimore-ravens,0,3.0,0,2017
+0,27,0.0,16,0,0,Lional DaltonL. Dalton,0,0,0,baltimore-ravens,0.0,0.00,11,2017
+1,0.0,0.0,4,0,1,0,12,0.00,0,baltimore-ravens,Marques DouglasM. Douglas,0,16,2017
+0,1,18,14.0,53,1.0,18,1.5,47,0,baltimore-ravens,18.00,6,Will DempsW. Demps,2017
+1,0,0.00,Marques DouglasM. Douglas,1.0,8.5,0,2.0,4,6,baltimore-ravens,0,10,0,2017
+0,4,0.0,4,0,0,Ethan BrooksE. Brooks,0,0,0,baltimore-ravens,0.0,0.00,0,2017
+1,0.0,0.0,0,0,20,0,1,0.00,0,baltimore-ravens,Cornell BrownC. Brown,0,1,2017
+0,Will DempsW. Demps,1,0.0,20,87,0.00,1,0,0,baltimore-ravens,0,67,0.0,2017
+1,0,0,23.5,3,0.0,0,2.5,3,0,baltimore-ravens,0.00,0,Darnell DinkinsD. Dinkins,2017
+0,4,52,0,0.00,0,0.0,0,0,Darnell DinkinsD. Dinkins,baltimore-ravens,0.0,0,48,2017
+1,10,0.0,9,0,0,Dwan EdwardsD. Edwards,0,0,0,baltimore-ravens,0.0,0.00,1,2017
+0,1,0.0,1,0,0,Aubrayo FranklinA. Franklin,0,0,0,baltimore-ravens,0.0,0.00,0,2017
+1,0.0,0.0,3,0,5,0,14,0.00,0,baltimore-ravens,Justin GreenJ. Green,0,17,2017
+0,0.00,0,0,0.0,Dwan EdwardsD. Edwards,3,Devard DarlingD. Darling,3,0,baltimore-ravens,0,0.0,0,2017
+1,1,0,1,Willie GastonW. Gaston,0,11,1,1.0,41,baltimore-ravens,30,8.0,1.00,2017
+0,0,1,0,0.00,0,0.0,0,0,Marques DouglasM. Douglas,baltimore-ravens,0.0,0,1,2017
+1,36,0.0,24,0,0,Yamon FigursY. Figurs,0,0,0,baltimore-ravens,0.0,0.00,12,2017
+0,0,Brendon AyanbadejoB. Ayanbadejo,1,19,3,0,"1,547",0,0.00,baltimore-ravens,1,0,0,2017
+1,Justin BannanJ. Bannan,0,1.0,6,35,0.00,22,0,0,baltimore-ravens,0,29,5.0,2017
+2,1,4,0.0,13,3.0,4,0.0,13,0,baltimore-ravens,4.00,0,Antwan BarnesA. Barnes,2017
+3,0,0.00,Matt BirkM. Birk,0.0,0.0,0,15.0,0,2,baltimore-ravens,0,2,0,2017
+0,0,0.00,Prescott BurgessP. Burgess,0.0,0.0,0,0.0,2,12,baltimore-ravens,0,14,0,2017
+1,6.50,12,2,0.0,Chris ChesterC. Chester,54,Chris CarrC. Carr,61,7,baltimore-ravens,0,0.0,13,2017
+2,0,0,0,Terrence CodyT. Cody,0,0,0,0.0,1,baltimore-ravens,1,0.0,0.00,2017
+0,"5,288",63.7,Baltimore,1,2,45,0,36,0,baltimore-ravens,74,"1,050",83,2017
+1,"4,435",64.3,Opponents,0,1,26,0,42,1,baltimore-ravens,74,"1,047",69,2017
+2,0,0.00,Brendon AyanbadejoB. Ayanbadejo,1.5,9.0,0,0,4,31,baltimore-ravens,0,35,0,2017
+3,0.00,0,0,0.0,Anquan BoldinA. Boldin,2,Matt BirkM. Birk,2,0,baltimore-ravens,0,0.0,0,2017
+4,0,0,0,Chykie BrownC. Brown,0,0,0,0.0,2,baltimore-ravens,2,0.0,0.00,2017
+0,Anthony AllenA. Allen,0,2,1,12,0.00,2,0,0,baltimore-ravens,0,11,1,2017
+1,0,0,0.0,44,1.0,0,0.0,28,0,baltimore-ravens,0.00,16,Brendon AyanbadejoB. Ayanbadejo,2017
+2,0,0.00,Matt BirkM. Birk,0.0,0.0,0,7.0,0,2,baltimore-ravens,0,2,0,2017
+3,0.00,0,0,0.0,Chykie BrownC. Brown,1,Anquan BoldinA. Boldin,1,0,baltimore-ravens,0,0.0,0,2017
+0,1,1,44,0,0,Billy BajemaB. Bajema,2,0,0,baltimore-ravens,0,0.00,"1,163",2017
+1,0.0,0.0,0,0,11,0,2,0.00,0,baltimore-ravens,Arthur BrownA. Brown,0,2,2017
+2,4.5,Chykie BrownC. Brown,15,8,2,0,4,0,0.00,baltimore-ravens,0,0,0.5,2017
+0,1,2,38,0,0,Kamar AikenK. Aiken,0,0,0,baltimore-ravens,1,0.00,"1,077",2017
+1,0.0,0.0,2,0,0,0,2,0.00,0,baltimore-ravens,Christo BilukidiC. Bilukidi,0,4,2017
+2,0.0,Terrence BrooksT. Brooks,3,16,3,0,3,0,0.00,baltimore-ravens,0,0,0.0,2017
+0,0,22,0.00,0,0,28,0,0.0,0.0,baltimore-ravens,6,Terrence BrooksT. Brooks,0,2017
+1,7,1,0,0,0.00,0.0,0.00,Arthur BrownA. Brown,0.0,baltimore-ravens,8,0,0,2017
+2,0,2,0,0.00,0,0.0,0,0,Marlon BrownM. Brown,baltimore-ravens,0.0,0,2,2017
+0,0,1,27,74,39,Opponents,1,"4,361",71,baltimore-ravens,0,61.4,559,2017
+1,0,2,28,0,0,Kamar AikenK. Aiken,2,0,0,baltimore-ravens,0,0.00,636,2017
+2,0.0,0.0,0,0,2,0,2,0.00,0,baltimore-ravens,Brennen BeyerB. Beyer,0,2,2017
+3,0.0,Nick BoyleN. Boyle,3,2,0,0,1,0,0.00,baltimore-ravens,0,0,0.0,2017
+0,1,27,0.0,11,3.0,27,0.0,9,0,baltimore-ravens,27.00,2,Tyus BowserT. Bowser,2017
+1,0,0.00,Nick BoyleN. Boyle,0.0,0.0,0,13.0,0,1,baltimore-ravens,0,1,0,2017
+2,0.00,0,0,0.0,Maurice CanadyM. Canady,1,Michael CampanaroM. Campanaro,1,0,baltimore-ravens,0,0.0,0,2017
+0,0,0,0,Vaughn BookerV. Booker,0,0,0,0.0,8,cincinnati-bengals,8,0.0,0.00,2017
+1,0,13,0.00,0,0,17,0,0.0,0.0,cincinnati-bengals,4,Steve BushS. Bush,0,2017
+0,10,0,10,Tom CarterT. Carter,0,17,1,0.0,59,cincinnati-bengals,42,0.0,10.00,2017
+1,0,7,0.00,0,0,7,0,0.0,0.0,cincinnati-bengals,0,Randy ChevrierR. Chevrier,0,2017
+0,1,0,0,0,0.00,0.0,0.00,Ron DugansR. Dugans,0.0,cincinnati-bengals,1,0,0,2017
+1,3,16,0,0.00,0,0.0,0,0,Chris EdmondsC. Edmonds,cincinnati-bengals,0.0,0,13,2017
+0,0,1,0,0.00,0,0.0,0,0,Duane ClemonsD. Clemons,cincinnati-bengals,0.0,0,1,2017
+1,43,6.0,36,0,0,Chris EdmondsC. Edmonds,0,0,0,cincinnati-bengals,46.0,0.00,7,2017
+0,1,0,0,36,36.00,0.0,0.00,Robert GeathersR. Geathers,0.0,cincinnati-bengals,1,1,0,2017
+1,7,16,1,0.00,0,27.0,36t,0,Shayne GrahamS. Graham,cincinnati-bengals,3.5,0,9,2017
+0,0,4,0,0.00,0,0.0,0,0,Greg BrooksG. Brooks,cincinnati-bengals,0.0,0,4,2017
+1,8,0.0,7,0,0,Duane ClemonsD. Clemons,0,0,0,cincinnati-bengals,0.0,0.00,1,2017
+0,4,0,0,0,0.00,0.0,0.00,Andre FrazierA. Frazier,0.0,cincinnati-bengals,4,0,0,2017
+1,5,13,0,0.00,0,0.0,0,0,Robert GeathersR. Geathers,cincinnati-bengals,0.0,0,8,2017
+0,0,6,0.00,0,0,6,0,0.0,0.0,cincinnati-bengals,0,Clifton DawsonC. Dawson,0,2017
+1,3,0,0,0,0.00,0.0,0.00,DeDe DorseyD. Dorsey,0.0,cincinnati-bengals,3,0,0,2017
+0,22,0,22,Mike DossM. Doss,0,9,1,1.5,34,cincinnati-bengals,25,10.5,22.00,2017
+1,0,1,0.00,0,0,2,0,0.0,0.0,cincinnati-bengals,1,Jonathan FaneneJ. Fanene,0,2017
+0,4,0,62.4,Cedric BensonC. Benson,0,"1,356","4,244",1,1,cincinnati-bengals,62,0,74,2017
+1,0,1,0.00,0,0,1,0,0.0,0.0,cincinnati-bengals,0,Andre CaldwellA. Caldwell,0,2017
+2,3,0,0,0,0.00,0.0,0.00,Laveranues ColesL. Coles,0.0,cincinnati-bengals,3,0,0,2017
+0,62,0,62,0,Cincinnati,1,1,0,7,cincinnati-bengals,0,0,62.0,2017
+1,76,8,"4,630",1,Opponents,64,76,2,"1,504",cincinnati-bengals,1,3,60.9,2017
+2,74,9,"5,240",0,Geno AtkinsG. Atkins,71,85,0,"1,551",cincinnati-bengals,3,2,61.6,2017
+3,0,0,0,Fred BennettF. Bennett,0,6,0,3.0,16,cincinnati-bengals,10,11.0,0.00,2017
+4,0,1,0.00,0,0,1,0,0.0,0.0,cincinnati-bengals,0,Andre CaldwellA. Caldwell,0,2017
+5,4,0,0,0,0.00,0.0,0.00,Chase CoffmanC. Coffman,0.0,cincinnati-bengals,4,0,0,2017
+0,0,0,45,0,0,Geno AtkinsG. Atkins,0,0,0,cincinnati-bengals,0,0.00,"1,026",2017
+1,7.5,37.5,21,0,1,0,26,0.00,0,cincinnati-bengals,Cedric BensonC. Benson,0,47,2017
+2,0.0,Andre CaldwellA. Caldwell,2,3,0,0,1,0,0.00,cincinnati-bengals,0,0,0.0,2017
+0,2/5,55,7/7,73,21,Mike NugentM. Nugent,6/7,"4,252",65,cincinnati-bengals,114,65.4,11/12,2017
+1,1,1,43,72,6,Josh BrownJ. Brown,0,"1,475",23,cincinnati-bengals,0,64.1,"1,116",2017
+2,0,0,17,73,27,Cincinnati,0,"5,727",88,cincinnati-bengals,0,65.1,352,2017
+3,1,1,60,73,29,Opponents,0,"4,631",74,cincinnati-bengals,0,62.6,"1,468",2017
+0,"1,219",0,1,63.1,73,0,32,86,Cincinnati,cincinnati-bengals,1,"5,428",52,2017
+1,"1,219",0,1,63.5,71,0,32,74,Opponents,cincinnati-bengals,1,"4,697",52,2017
+2,980,0,0,0.00,0,0,32,0,Geno AtkinsG. Atkins,cincinnati-bengals,2,0,39,2017
+0,0,44,74,83,"5,318",0,65.6,0,1,cincinnati-bengals,"1,123",Opponents,37,2017
+1,1,45,74,0,0,0,64.1,0,2,cincinnati-bengals,"1,241",Geno AtkinsG. Atkins,35,2017
+2,20,14,0,0,0.00,3.0,0.00,Giovani BernardG. Bernard,23.5,cincinnati-bengals,34,0,0,2017
+0,0,46,73,68,"4,157",0,65.0,0,1,cincinnati-bengals,"1,041",Opponents,42,2017
+1,1,34,75,0,0,0,61.1,1,3,cincinnati-bengals,686,Geno AtkinsG. Atkins,30,2017
+2,31,11,0,0,0.00,11.0,0.00,Clint BolingC. Boling,86.0,cincinnati-bengals,42,0,0,2017
+0,780,0,0,63.1,66,0,28,13,Randy BullockR. Bullock,cincinnati-bengals,1,820,34,2017
+1,95,0,0,64.0,64,0,8,1,Kevin HuberK. Huber,cincinnati-bengals,0,64,5,2017
+2,16,0,0,63.0,70,0,0,77,Cincinnati,cincinnati-bengals,0,"4,854",1,2017
+3,891,0,0,63.2,79,0,36,76,Opponents,cincinnati-bengals,1,"4,806",40,2017
+4,"1,003",0,1,0.00,0,0,35,0,Geno AtkinsG. Atkins,cincinnati-bengals,1,0,39,2017
+0,"5,087",63.6,Opponents,0,0,46,0,34,0,cincinnati-bengals,70,670,80,2017
+1,0,0.00,Geno AtkinsG. Atkins,9.0,65.5,0,0,17,29,cincinnati-bengals,0,46,0,2017
+2,0.00,0,0,0.0,Giovani BernardG. Bernard,6,Brandon BellB. Bell,10,4,cincinnati-bengals,0,0.0,0,2017
+3,0,0,0,Andrew BillingsA. Billings,0,0,0,0.0,1,cincinnati-bengals,1,0.0,0.00,2017
+0,0.0,Stalin ColinetS. Colinet,16,24,9,0,0,0,0.00,cleveland-browns,0,0,0.0,2017
+1,Doug ColmanD. Colman,0,3.5,0,2,0.00,33,0,0,cleveland-browns,0,2,25.0,2017
+0,0.0,0.0,0,0,1,0,1,0.00,0,cleveland-browns,Tim CouchT. Couch,0,1,2017
+1,0.0,JaJuan DawsonJ. Dawson,1,1,0,0,0,0,0.00,cleveland-browns,0,0,0.0,2017
+0,1,0.0,0,0,0,Andra DavisA. Davis,0,0,1,cleveland-browns,0.0,0.00,1,2017
+1,0.0,0.0,7,0,3,0,17,0.00,0,cleveland-browns,Andre' DavisA. Davis,0,24,2017
+0,0.0,0.0,0,0,6,0,2,0.00,0,cleveland-browns,Sherrod CoatesS. Coates,0,2,2017
+1,0.0,Chris CrockerC. Crocker,8,27,8,0,2,0,0.00,cleveland-browns,0,0,0.0,2017
+0,0,0,0,Antonio BryantA. Bryant,0,4,0,0.0,6,cleveland-browns,2,0.0,0.00,2017
+1,0,3,0.00,0,0,3,0,0.0,0.0,cleveland-browns,0,Dyshod CarterD. Carter,0,2017
+0,89,60,14,0,0.00,2.0,14.00,Phil DawsonP. Dawson,22.0,cleveland-browns,149,0,0,2017
+1,2,3,0,0.00,0,0.0,0,0,Trent DilferT. Dilfer,cleveland-browns,0.0,0,1,2017
+0,2,0.0,2,0,0,Darnell DinkinsD. Dinkins,0,0,0,cleveland-browns,0.0,0.00,0,2017
+1,0.0,0.0,0,0,7,0,3,0.00,0,cleveland-browns,Reuben DroughnsR. Droughns,0,3,2017
+0,0,0,0.0,2,0.0,0,0.0,2,0,cleveland-browns,0.00,0,Colby BockwoldtC. Bockwoldt,2017
+1,75,12.50,Leigh BoddenL. Bodden,0.0,0.0,0,0.0,12,76,cleveland-browns,26,88,6,2017
+0,0,0.00,Joshua CribbsJ. Cribbs,0.0,0.0,0,0.0,4,19,cleveland-browns,0,23,0,2017
+1,0.00,0,0,0.0,Andra DavisA. Davis,4,Travis DanielsT. Daniels,5,1,cleveland-browns,0,0.0,0,2017
+0,1,Opponents,0,3,69,"4,938",984,75,61.0,cleveland-browns,81,8,3,2017
+1,0,Mike AdamsM. Adams,3,58,11,0,"1,670",0,0.00,cleveland-browns,0,0,1,2017
+2,Eric BartonE. Barton,0,1.0,22,58,0.00,69,0,0,cleveland-browns,0,36,6.0,2017
+3,0,0,0.0,14,3.5,0,0.0,9,0,cleveland-browns,0.00,5,Marcus BenardM. Benard,2017
+0,19,66,0,0.00,0,0.0,0,0,Marcus BenardM. Benard,cleveland-browns,0.0,0,47,2017
+1,28,7.5,18,64t,2,David BowensD. Bowens,0,94,2,cleveland-browns,33.0,47.00,10,2017
+2,0.5,2.0,14,0,51,2,26,0.00,0,cleveland-browns,Sheldon BrownS. Brown,0,40,2017
+0,59,"3,661",1,"1,055",1,74,3,1,10,cleveland-browns,62.1,46,Cleveland,2017
+1,75,"4,594",1,"1,134",0,73,3,2,24,cleveland-browns,61.3,48,Opponents,2017
+2,3,33,0,64,0.0,29,1,44,0,cleveland-browns,11.00,20,Mike AdamsM. Adams,2017
+0,1,43,73,77,"4,878",0,62.6,0,2,cleveland-browns,853,Opponents,30,2017
+1,2,50,74,0,0,0,63.4,0,2,cleveland-browns,"1,269",Johnson BademosiJ. Bademosi,25,2017
+2,16,5,0,0,0.00,0.0,0.00,Travis BenjaminT. Benjamin,0.0,cleveland-browns,21,0,0,2017
+0,0,5,27,73,44,Opponents,0,"5,485",87,cleveland-browns,0,63.0,620,2017
+1,0,2,40,0,0,Josh AubreyJ. Aubrey,1,0,0,cleveland-browns,1,0.00,931,2017
+2,0.0,0.0,0,0,11,0,1,0.00,0,cleveland-browns,Johnson BademosiJ. Bademosi,0,1,2017
+3,0.0,Gary BarnidgeG. Barnidge,14,4,0,0,3,0,0.00,cleveland-browns,0,0,0.0,2017
+0,"4,679",65.9,Cleveland,0,0,40,0,31,0,cleveland-browns,73,695,71,2017
+1,"5,023",64.4,Opponents,0,2,40,0,37,1,cleveland-browns,74,801,78,2017
+2,0,0.00,Miles AustinM. Austin,0.0,0.0,0,0,0,2,cleveland-browns,0,2,0,2017
+3,0.00,0,0,0.0,Gary BarnidgeG. Barnidge,5,Johnson BademosiJ. Bademosi,12,7,cleveland-browns,0,0.0,0,2017
+4,0,0,0,Travis BenjaminT. Benjamin,0,1,0,0.0,2,cleveland-browns,1,0.0,0.00,2017
+0,1,42,73,90,"5,881",0,63.1,0,0,cleveland-browns,894,Opponents,27,2017
+1,0,41,74,0,0,0,65.3,0,1,cleveland-browns,"1,041",Johnson BademosiJ. Bademosi,48,2017
+2,20,7,0,0,0.00,0.0,0.00,Gary BarnidgeG. Barnidge,0.0,cleveland-browns,27,0,0,2017
+0,52,0,63.9,Dominique AlexanderD. Alexander,0,634,"5,499",0,0,cleveland-browns,34,0,70,2017
+1,0,3,0.00,0,0,7,0,0.0,0.0,cleveland-browns,4,George Atkinson IIIG. Atkinson,0,2017
+2,3,0,0,0,0.00,0.0,0.00,Alvin BaileyA. Bailey,0.0,cleveland-browns,3,0,0,2017
+3,0,2,0,0.00,0,0.0,0,0,Joel BitonioJ. Bitonio,cleveland-browns,0.0,0,2,2017
+4,1,0.0,1,67,1,Briean Boddy-CalhounB. Boddy-Calhoun,0,94,3,cleveland-browns,0.0,31.33,0,2017
+0,71,33,"3,350",0,Opponents,20,57,1,471,cleveland-browns,0,4,58.8,2017
+1,70,49,"5,374",0,Dominique AlexanderD. Alexander,35,86,0,790,cleveland-browns,1,1,62.5,2017
+2,0,0,0,B.J. BelloB. Bello,0,0,0,0.0,1,cleveland-browns,1,0.0,0.00,2017
+3,0,5,0.00,0,0,6,0,0.0,0.0,cleveland-browns,1,Joel BitonioJ. Bitonio,0,2017
+0,0,0,0.0,6,0.0,0,0.0,6,0,pittsburgh-steelers,0.00,0,Troy EdwardsT. Edwards,2017
+1,0,0.00,John FialaJ. Fiala,0.0,0.0,0,0.0,3,19,pittsburgh-steelers,0,22,0,2017
+0,1,0,0,0,0.00,0.0,0.00,Plaxico BurressP. Burress,0.0,pittsburgh-steelers,1,0,0,2017
+1,0,4,0,3.00,3,0.0,0,1,Kendrick ClancyK. Clancy,pittsburgh-steelers,0.0,3,4,2017
+0,0.00,0,0,0.0,Plaxico BurressP. Burress,2,Mark BruenerM. Bruener,2,0,pittsburgh-steelers,0,0.0,0,2017
+1,0,0,0,Kendrick ClancyK. Clancy,0,0,0,0.0,1,pittsburgh-steelers,1,0.0,0.00,2017
+0,0,0.00,Plaxico BurressP. Burress,0.0,0.0,0,0.0,0,1,pittsburgh-steelers,0,1,0,2017
+1,0.00,0,0,0.0,Chris DoeringC. Doering,3,Kendrick ClancyK. Clancy,3,0,pittsburgh-steelers,0,0.0,0,2017
+0,67,28,41,1,1.00,3.0,28.25,Larry FooteL. Foote,22.0,pittsburgh-steelers,95,1,1,2017
+1,17,70,0,0.00,0,20.0,1,0,Clark HaggansC. Haggans,pittsburgh-steelers,3.0,0,53,2017
+0,42,19,0,0,0.00,9.0,0.00,Casey HamptonC. Hampton,42.0,pittsburgh-steelers,61,0,0,2017
+1,17,42,0,25.00,25,0.0,0,1,James HarrisonJ. Harrison,pittsburgh-steelers,0.0,25,25,2017
+0,0.00,0,1,27.5,Casey HamptonC. Hampton,52,Clark HaggansC. Haggans,77,25,pittsburgh-steelers,0,6.0,0,2017
+1,0,0,0,Arnold HarrisonA. Harrison,0,15,0,0.0,41,pittsburgh-steelers,26,0.0,0.00,2017
+0,11,7,0,0,0.00,0.0,0.00,Nicholas EasonN. Eason,0.0,pittsburgh-steelers,18,0,0,2017
+1,4,14,0,0.00,0,0.0,0,1,James FarriorJ. Farrior,pittsburgh-steelers,0.0,0,10,2017
+0,5,1,0,0,0.00,0.0,0.00,Nicholas EasonN. Eason,0.0,pittsburgh-steelers,6,0,0,2017
+1,7,17,0,0.00,0,7.0,0,0,James FarriorJ. Farrior,pittsburgh-steelers,1.5,0,10,2017
+0,53,26.50,Tyrone CarterT. Carter,1.0,1.0,1,0.0,12,49,pittsburgh-steelers,48t,61,2,2017
+1,0.00,0,3,0.0,Carey DavisC. Davis,68,Ryan ClarkR. Clark,89,21,pittsburgh-steelers,0,0.0,0,2017
+2,0,0,0,Nicholas EasonN. Eason,0,0,0,0.0,2,pittsburgh-steelers,2,0.0,0.00,2017
+0,75,7,"5,163",0,Opponents,77,86,1,"1,540",pittsburgh-steelers,1,2,60.0,2017
+1,75,11,"3,897",1,Flozell AdamsF. Adams,49,62,1,"1,153",pittsburgh-steelers,0,2,62.9,2017
+2,0,0,0,Will AllenW. Allen,0,0,0,0.0,1,pittsburgh-steelers,1,0.0,0.00,2017
+3,0,11,0.00,0,0,12,0,0.0,0.0,pittsburgh-steelers,1,Arnaz BattleA. Battle,0,2017
+4,7,2,0,0,0.00,0.0,0.00,Antonio BrownA. Brown,0.0,pittsburgh-steelers,9,0,0,2017
+0,72,"4,698",0,"1,018",0,73,0,1,28,pittsburgh-steelers,65.2,43,Pittsburgh,2017
+1,62,"3,880",0,877,0,74,0,1,23,pittsburgh-steelers,62.6,35,Opponents,2017
+2,0,0,1,15,0.0,0,4,12,0,pittsburgh-steelers,0.00,3,Cortez AllenC. Allen,2017
+0,0,1,0,3.00,6,0.0,0,2,Cortez AllenC. Allen,pittsburgh-steelers,0.0,6,1,2017
+1,55,0.0,43,0,0,Will AllenW. Allen,0,0,0,pittsburgh-steelers,0.0,0.00,12,2017
+2,0.0,0.0,14,0,4,0,20,0.00,0,pittsburgh-steelers,Baron BatchB. Batch,0,34,2017
+0,30/32,0/0,Pittsburgh,129,Opponents,13/15,129,0/0,8/8,pittsburgh-steelers,9/9,48,39/39,2017
+1,8/8,10/10,28/31,86,"5,123",1/2,38/39,122,54,pittsburgh-steelers,8/10,Shaun SuishamS. Suisham,1/1,2017
+2,3,55,73,86,"5,123",0,59.6,0,3,pittsburgh-steelers,"1,225",Pittsburgh,24,2017
+0,72,48,"5,448",0,Mike AdamsM. Adams,35,86,0,758,pittsburgh-steelers,1,3,63.3,2017
+1,0,0,0,Cortez AllenC. Allen,2,0,0,0.0,1,pittsburgh-steelers,1,0.0,0.00,2017
+2,0,36,13.50,0,0,41,27,0.0,0.0,pittsburgh-steelers,5,Will AllenW. Allen,27,2017
+0,3/6,54,7/7,75,26,Chris BoswellC. Boswell,7/7,"4,680",74,pittsburgh-steelers,107,63.2,9/11,2017
+1,0,0,47,73,12,Josh ScobeeJ. Scobee,1,"1,251",20,pittsburgh-steelers,0,62.5,"1,035",2017
+2,0,1,7,75,38,Pittsburgh,0,"5,931",94,pittsburgh-steelers,0,63.1,138,2017
+3,0,1,54,74,46,Opponents,1,"4,954",76,pittsburgh-steelers,0,65.2,"1,173",2017
+0,639,0,3,62.5,67,0,49,6,Randy BullockR. Bullock,pittsburgh-steelers,2,375,26,2017
+1,78,0,0,62.0,77,0,3,86,Pittsburgh,pittsburgh-steelers,0,"5,328",3,2017
+2,717,0,3,63.5,81,0,52,78,Opponents,pittsburgh-steelers,2,"4,956",29,2017
+3,603,0,1,0.00,0,0,48,0,Le'Veon BellL. Bell,pittsburgh-steelers,2,0,28,2017
+0,43,906,46,"5,681",63.1,0,74,Pittsburgh,0,pittsburgh-steelers,0,90,1,2017
+1,43,906,46,"4,400",62.0,0,74,Opponents,0,pittsburgh-steelers,0,71,1,2017
+2,33,630,37,0,0.00,0,70,Brian AllenB. Allen,0,pittsburgh-steelers,1,0,0,2017
+0,0,0.00,Steve ChristieS. Christie,0.0,0.0,0,0.0,1,3,buffalo-bills,0,4,0,2017
+1,0.00,0,0,0.0,Sam CowartS. Cowart,1,Bobby CollinsB. Collins,1,0,buffalo-bills,0,0.0,0,2017
+0,0,3,0.00,3,48,3,0,0.0,0.0,buffalo-bills,0,Nate ClementsN. Clements,0,2017
+1,57,10,48t,0,0.00,1.0,16.00,Bill ConatyB. Conaty,1.0,buffalo-bills,67,0,1,2017
+0,Shawn BrysonS. Bryson,0,0.0,1,2,0.00,1,0,0,buffalo-bills,0,1,0.0,2017
+1,0,0,0.0,3,0.0,0,0.0,1,0,buffalo-bills,0.00,2,Joe BurnsJ. Burns,2017
+0,2,0.0,1,0,0,Ryan DenneyR. Denney,0,0,0,buffalo-bills,0.0,0.00,1,2017
+1,3.5,23.5,16,0,1,0,27,0.00,0,buffalo-bills,Jon DorenbosJ. Dorenbos,0,43,2017
+0,0.00,0,0,22.0,Jon DorenbosJ. Dorenbos,15,Ryan DenneyR. Denney,35,20,buffalo-bills,0,3.0,0,2017
+1,0,0,0,Ron EdwardsR. Edwards,0,2,0,0.0,8,buffalo-bills,6,0.0,0.00,2017
+0,8,0.0,6,0,0,Nate ClementsN. Clements,0,0,2,buffalo-bills,0.0,0.00,2,2017
+1,0.0,0.0,21,0,80,2,81,1.50,3,buffalo-bills,Angelo CrowellA. Crowell,2,102,2017
+0,Angelo CrowellA. Crowell,2,0.0,26,84,0.00,71,0,0,buffalo-bills,0,58,0.0,2017
+1,0,0,10.0,16,0.0,0,2.0,13,0,buffalo-bills,0.00,3,Andre' DavisA. Davis,2017
+0,0,0,0,John DiGiorgioJ. DiGiorgio,1,6,0,1.0,27,buffalo-bills,21,7.0,0.00,2017
+1,0,87,38.00,0,0,113,38,12.5,2.0,buffalo-bills,26,Derrick DockeryD. Dockery,38,2017
+0,3,0,0,0,0.00,0.0,0.00,Chris EllisC. Ellis,0.0,buffalo-bills,3,0,0,2017
+1,0,3,0,0.00,0,0.0,0,0,Keith EllisonK. Ellison,buffalo-bills,0.0,0,3,2017
+0,0,33,13.11,0,0,45,118,0.0,0.0,buffalo-bills,12,Kirk ChambersK. Chambers,37,2017
+1,2,0,0,0,0.00,0.0,0.00,Reggie CornerR. Corner,0.0,buffalo-bills,2,1,0,2017
+2,15,67,0,0.00,0,0.0,0,0,Jon CortoJ. Corto,buffalo-bills,0.0,0,52,2017
+3,22,0.0,15,0,0,Ryan DenneyR. Denney,0,0,0,buffalo-bills,0.0,0.00,7,2017
+0,1.0,1.0,2,0,3,0,6,0.00,0,buffalo-bills,Scott ChandlerS. Chandler,0,8,2017
+1,0.0,Antonio ColemanA. Coleman,3,7,5,0,0,0,0.00,buffalo-bills,0,0,0.0,2017
+2,Reggie CornerR. Corner,0,0.0,5,25,0.00,12,0,0,buffalo-bills,0,20,0.0,2017
+3,0,0,7.0,5,0.0,0,1.0,3,0,buffalo-bills,0.00,2,Jon CortoJ. Corto,2017
+0,30,"1,740",0,405,0,71,0,0,7,buffalo-bills,58.0,20,Dave RaynerD. Rayner,2017
+1,4,246,1,77,0,66,3,0,0,buffalo-bills,61.5,4,Brandon CoutuB. Coutu,2017
+2,2,85,0,27,0,68,0,0,0,buffalo-bills,42.5,2,Brian MoormanB. Moorman,2017
+3,79,"4,804",0,"1,144",0,71,1,1,19,buffalo-bills,60.8,56,Buffalo,2017
+4,90,"5,863",1,853,0,73,4,0,53,buffalo-bills,65.1,37,Opponents,2017
+5,0,0,0,1,0.0,0,0,1,0,buffalo-bills,0.00,0,Kamar AikenK. Aiken,2017
+0,73,20,"4,493",0,Opponents,51,73,1,"1,144",buffalo-bills,0,2,61.5,2017
+1,73,49,"5,809",0,Mark AndersonM. Anderson,42,91,1,"1,136",buffalo-bills,0,0,63.8,2017
+2,0,0,0,Nick BarnettN. Barnett,0,2,0,1.0,12,buffalo-bills,10,11.0,0.00,2017
+3,0,72,0.00,0,0,112,0,3.0,2.0,buffalo-bills,40,Nigel BradhamN. Bradham,0,2017
+0,83,"5,286",0,"1,122",0,73,1,0,34,buffalo-bills,63.7,48,Buffalo,2017
+1,85,"5,489",0,469,0,72,1,1,61,buffalo-bills,64.6,23,Opponents,2017
+2,4,38,0,159,2.0,32,0,87,0,buffalo-bills,9.50,72,Kiko AlonsoK. Alonso,2017
+0,Nigel BradhamN. Bradham,1,1,38,104,0.00,1,0,0,buffalo-bills,0,66,0,2017
+1,0,0,8.0,34,0.0,0,2.5,30,0,buffalo-bills,0.00,4,Ron BrooksR. Brooks,2017
+2,0,0.00,Bryce BrownB. Brown,0.0,0.0,0,0.0,0,1,buffalo-bills,0,1,0,2017
+3,0.00,0,1,0.0,Corbin BryantC. Bryant,66,Preston BrownP. Brown,109,43,buffalo-bills,0,0.0,0,2017
+0,Opponents,81,2,41,772,62.1,0,38,71,buffalo-bills,"5,030",0,0,2017
+1,T.J. BarnesT. Barnes,0,2,1,1,0.00,0,0,0,buffalo-bills,0,0,0,2017
+2,0,0,0.0,59,1.0,0,0.0,42,0,buffalo-bills,0.00,17,Nigel BradhamN. Bradham,2017
+3,0,0.00,Ron BrooksR. Brooks,0.0,0.0,0,3.0,1,11,buffalo-bills,0,12,0,2017
+4,23.00,43t,2,0.0,Corbin BryantC. Bryant,66,Preston BrownP. Brown,120,54,buffalo-bills,1,0.0,46,2017
+0,0,0,1,69,35,Buffalo,0,"5,074",84,buffalo-bills,0,60.4,51,2017
+1,0,3,46,69,44,Opponents,1,"5,318",84,buffalo-bills,0,63.3,999,2017
+2,0,0,39,28,0,Lorenzo AlexanderL. Alexander,0,28,1,buffalo-bills,0,28.00,829,2017
+3,12.5,74.0,20,0,2,0,56,0.00,0,buffalo-bills,Colt AndersonC. Anderson,0,76,2017
+4,0.0,Robert BlantonR. Blanton,2,27,8,0,0,0,0.00,buffalo-bills,0,0,0.0,2017
+0,0,2,32,0,0,Lorenzo AlexanderL. Alexander,0,0,0,buffalo-bills,2,0.00,640,2017
+1,3.0,21.0,15,0,3,0,59,0.00,0,buffalo-bills,Colt AndersonC. Anderson,0,74,2017
+2,0.0,Robert BlantonR. Blanton,3,2,1,0,0,0,0.00,buffalo-bills,0,0,0.0,2017
+0,0,0,0.0,3,0.0,0,0.0,2,0,miami-dolphins,0.00,1,Arturo FreemanA. Freeman,2017
+1,0,0.00,Oronde GadsdenO. Gadsden,0.0,0.0,0,0.0,0,2,miami-dolphins,0,2,0,2017
+0,8,2,0,0,0.00,0.0,0.00,Arturo FreemanA. Freeman,0.0,miami-dolphins,10,1,0,2017
+1,9,36,0,0.00,0,7.0,0,0,Oronde GadsdenO. Gadsden,miami-dolphins,1.0,0,27,2017
+0,0,0,0,Deon DyerD. Dyer,0,0,0,0.0,4,miami-dolphins,4,0.0,0.00,2017
+1,0,1,0.00,0,0,1,0,0.0,0.0,miami-dolphins,0,Robert EdwardsR. Edwards,0,2017
+0,0,0,0,Jay FiedlerJ. Fiedler,0,18,0,0.0,38,miami-dolphins,20,0.0,0.00,2017
+1,0,1,0.00,0,0,1,0,0.0,0.0,miami-dolphins,0,Jamar FletcherJ. Fletcher,0,2017
+0,David BowensD. Bowens,0,0.0,15,43,0.00,1,0,0,miami-dolphins,0,28,0.0,2017
+1,0,0,55.0,3,0.0,0,7.0,2,0,miami-dolphins,0.00,1,Tim BowensT. Bowens,2017
+0,6.0,38.0,3,0,3,0,21,0.00,0,miami-dolphins,Ronnie BrownR. Brown,0,24,2017
+1,0.0,Vernon CareyV. Carey,3,1,0,0,0,0,0.00,miami-dolphins,0,0,0.0,2017
+0,24,70,0,0.00,0,12.0,0,0,David BowensD. Bowens,miami-dolphins,2.0,0,46,2017
+1,20,5.0,13,0,0,Ronnie BrownR. Brown,0,0,0,miami-dolphins,27.5,0.00,7,2017
+0,0,0.00,Courtney BryanC. Bryan,0.0,0.0,0,0.0,4,7,miami-dolphins,0,11,0,2017
+1,0.00,0,0,0.0,Vernon CareyV. Carey,3,Greg CamarilloG. Camarillo,3,0,miami-dolphins,0,0.0,0,2017
+0,1,0,0,0,0.00,0.0,0.00,Courtney BryanC. Bryan,0.0,miami-dolphins,1,0,0,2017
+1,0,3,0,0.00,0,0.0,0,0,Greg CamarilloG. Camarillo,miami-dolphins,0.0,0,3,2017
+0,11,1,65.2,Jason AllenJ. Allen,0,"1,739","5,800",2,2,miami-dolphins,75,0,76,2017
+1,0,20,0.00,2,27,22,0,0.0,0.0,miami-dolphins,2,Will AllenW. Allen,0,2017
+2,19,2,21,0,0.00,0.0,13.50,Charlie AndersonC. Anderson,0.0,miami-dolphins,21,0,0,2017
+3,2,17,0,0.00,0,4.0,0,0,Akin AyodeleA. Ayodele,miami-dolphins,2.0,0,15,2017
+0,Jonathon AmayaJ. Amaya,0,0.0,2,15,0.00,32,0,0,miami-dolphins,0,13,0.0,2017
+1,0,0,0.0,4,0.0,0,0.0,3,0,miami-dolphins,0.00,1,Ryan BakerR. Baker,2017
+2,21,21.00,Yeremiah BellY. Bell,1.5,13.0,0,0.0,18,83,miami-dolphins,21,101,1,2017
+0,0,Brandon FieldsB. Fields,0,1,2,156,201,73,52.0,miami-dolphins,3,0,0,2017
+1,0,Miami,0,1,41,"5,285",21,74,64.5,miami-dolphins,82,40,1,2017
+2,0,Opponents,0,0,39,"4,442",937,73,61.7,miami-dolphins,72,28,1,2017
+3,2,Ikaika Alama-FrancisI. Alama-Francis,0,1,0,0,942,0,0.00,miami-dolphins,0,0,5,2017
+4,Will AllenW. Allen,0,0.0,4,43,0.00,1,0,0,miami-dolphins,0,39,0.0,2017
+0,73,34,"4,545",1,Opponents,35,71,1,868,miami-dolphins,0,2,64.0,2017
+1,72,34,"4,842",0,Jonathon AmayaJ. Amaya,40,75,1,"1,082",miami-dolphins,0,1,64.6,2017
+2,0,0,0,Kevin BurnettK. Burnett,0,2,0,0.0,8,miami-dolphins,6,0.0,0.00,2017
+3,0,80,0.00,0,0,110,0,10.5,2.5,miami-dolphins,30,Reggie BushR. Bush,0,2017
+0,64.6,74,74,0,0,1,Caleb SturgisC. Sturgis,811,35,miami-dolphins,38,0,"4,783",2017
+1,53.0,53,1,0,0,0,Brandon FieldsB. Fields,15,1,miami-dolphins,0,0,53,2017
+2,64.5,74,75,0,0,1,Miami,826,36,miami-dolphins,38,0,"4,836",2017
+3,64.4,74,83,0,0,1,Opponents,893,42,miami-dolphins,40,0,"5,342",2017
+0,64.1,73,85,1,0,1,Caleb SturgisC. Sturgis,"1,237",46,miami-dolphins,37,1,"5,448",2017
+1,64.1,73,85,1,0,1,Miami,"1,237",46,miami-dolphins,37,1,"5,448",2017
+2,63.4,76,87,2,0,2,Opponents,"1,082",41,miami-dolphins,41,0,"5,518",2017
+0,0,4,23,75,37,Opponents,1,"5,299",82,miami-dolphins,1,64.6,508,2017
+1,0,1,43,0,0,Walt AikensW. Aikens,1,0,0,miami-dolphins,0,0.00,958,2017
+2,0.0,0.0,6,0,1,0,24,0.00,0,miami-dolphins,Branden AlbertB. Albert,0,30,2017
+3,0.0,Zack BowmanZ. Bowman,1,6,1,38,0,38,38.00,miami-dolphins,1,0,0.0,2017
+0,0,31,81,84,"5,292",0,64.4,0,0,miami-dolphins,632,Opponents,43,2017
+1,0,35,71,2,16,1,63.0,0,2,miami-dolphins,879,Isa Abdul-QuddusI. Abdul-Quddus,47,2017
+2,50,28,9,0,0.00,1.0,8.00,Walt AikensW. Aikens,2.0,miami-dolphins,78,0,0,2017
+0,0,34,72,87,"5,472",0,59.9,4,5,miami-dolphins,665,Opponents,28,2017
+1,0,40,72,0,0,0,62.9,0,2,miami-dolphins,827,Walt AikensW. Aikens,45,2017
+2,6,3,0,0,0.00,0.0,0.00,Chase AllenC. Allen,0.0,miami-dolphins,9,0,0,2017
+0,2,0.0,2,0,0,Antico DaltonA. Dalton,0,0,0,new-england-patriots,0.0,0.00,0,2017
+1,0.0,0.0,0,0,5,0,2,0.00,0,new-england-patriots,Shockmain DavisS. Davis,0,2,2017
+0,26,2,52t,0,0.00,1.0,25.33,Matt ChathamM. Chatham,11.0,new-england-patriots,28,0,1,2017
+1,1,14,0,0.00,0,0.0,0,0,Je'Rod CherryJ. Cherry,new-england-patriots,0.0,0,13,2017
+0,14,3,0,0,0.00,0.0,0.00,Je'Rod CherryJ. Cherry,0.0,new-england-patriots,17,0,0,2017
+1,4,13,0,0.00,0,0.0,0,0,Mike ComptonM. Compton,new-england-patriots,0.0,0,9,2017
+0,0.0,0.0,0,0,2,0,1,0.00,0,new-england-patriots,Christian FauriaC. Fauria,0,1,2017
+1,0.0,David GivensD. Givens,2,3,0,0,0,0,0.00,new-england-patriots,0,0,0.0,2017
+0,Kevin FaulkK. Faulk,0,0.0,0,2,0.00,32,0,0,new-england-patriots,0,2,0.0,2017
+1,2,23,0.0,34,0.0,13,0.0,29,0,new-england-patriots,11.50,5,Randall GayR. Gay,2017
+0,0,0,0,Brandon ChildressB. Childress,0,7,0,1.0,23,new-england-patriots,16,5.0,0.00,2017
+1,0,4,0.00,0,0,4,0,0.0,0.0,new-england-patriots,0,Mike CloudM. Cloud,0,2017
+0,53,59,8,0,0.00,1.5,8.00,Reche CaldwellR. Caldwell,6.0,new-england-patriots,112,0,0,2017
+1,0,1,0,0.00,0,0.0,0,0,Rosevelt ColvinR. Colvin,new-england-patriots,0.0,0,1,2017
+0,0,0,0.0,1,0.0,0,0.0,1,0,new-england-patriots,0.00,0,Kevin FaulkK. Faulk,2017
+1,52,17.33,Randall GayR. Gay,0.0,0.0,0,0.0,5,32,new-england-patriots,31,37,3,2017
+0,Kevin FaulkK. Faulk,0,0.0,0,1,0.00,3,0,0,new-england-patriots,0,1,0.0,2017
+1,0,0,0.0,3,0.0,0,0.0,1,0,new-england-patriots,0.00,2,Stephen GostkowskiS. Gostkowski,2017
+0,0,0,0.0,12,0.0,0,0.0,8,0,new-england-patriots,0.00,4,Eric AlexanderE. Alexander,2017
+1,0,0.00,Kyle ArringtonK. Arrington,0.0,0.0,0,0.0,4,14,new-england-patriots,0,18,0,2017
+2,0.00,0,0,69.5,Leigh BoddenL. Bodden,35,Tully Banta-CainT. Banta-Cain,55,20,new-england-patriots,0,10.0,0,2017
+0,3,55,76,1,36,2,57.5,2,6,new-england-patriots,"1,231",Kyle ArringtonK. Arrington,5,2017
+1,60,11,36t,0,0.00,0.0,36.00,Tully Banta-CainT. Banta-Cain,0.0,new-england-patriots,71,0,1,2017
+2,9,45,0,0.00,0,30.5,0,0,Ron BraceR. Brace,new-england-patriots,5.0,0,36,2017
+3,23,0.0,15,0,0,Sergio BrownS. Brown,0,0,0,new-england-patriots,0.0,0.00,8,2017
+4,0.0,0.0,2,0,22,0,9,0.00,0,new-england-patriots,Darius ButlerD. Butler,0,11,2017
+0,0,2,60,72,21,Opponents,2,"4,420",75,new-england-patriots,0,58.9,"1,294",2017
+1,0,6,46,0,0,Phillip AdamsP. Adams,3,0,1,new-england-patriots,0,0.00,986,2017
+2,0.0,0.0,1,0,2,0,7,0.00,0,new-england-patriots,Danny AikenD. Aiken,0,8,2017
+3,0.0,Mark AndersonM. Anderson,5,18,11,0,3,0,0.00,new-england-patriots,0,0,0.0,2017
+0,0,1,60,112,"7,121",0,60.0,0,0,new-england-patriots,9,New England,0,2017
+1,0,60,73,75,"4,686",0,63.6,0,1,new-england-patriots,"1,229",Opponents,52,2017
+2,0,38,70,0,0,1,62.5,0,2,new-england-patriots,807,Danny AikenD. Aiken,35,2017
+3,1,0,0,0,0.00,0.0,0.00,Kyle ArringtonK. Arrington,0.0,new-england-patriots,1,0,0,2017
+0,99,"6,315",1,664,0,72,1,1,65,new-england-patriots,63.8,32,New England,2017
+1,77,"4,832",1,935,0,71,1,0,35,new-england-patriots,62.8,39,Opponents,2017
+2,0,0,1,4,0.0,0,3,4,0,new-england-patriots,0.00,0,Danny AikenD. Aiken,2017
+0,1,45,74,76,"4,731",0,63.9,0,0,new-england-patriots,955,Opponents,53,2017
+1,1,31,72,0,0,0,62.2,0,2,new-england-patriots,693,Kyle ArringtonK. Arrington,42,2017
+2,33,6,0,0,0.00,1.0,0.00,Akeem AyersA. Ayers,0.0,new-england-patriots,39,1,0,2017
+0,2,0.0,1,0,0,Tom BradyT. Brady,0,0,0,new-england-patriots,0.0,0.00,1,2017
+1,0.0,0.0,0,0,22,0,2,0.00,0,new-england-patriots,Alan BranchA. Branch,0,2,2017
+2,5.0,Malcom BrownM. Brown,35,31,17,0,13,0,0.00,new-england-patriots,0,0,1.0,2017
+3,Tarell BrownT. Brown,0,3.0,4,15,0.00,48,0,0,new-england-patriots,0,11,17.0,2017
+0,0,0,0.0,4,0.0,0,0.0,4,0,new-england-patriots,0.00,0,Brandon BoldenB. Bolden,2017
+1,0,0.00,Alan BranchA. Branch,1.5,0.5,0,0.0,23,26,new-england-patriots,0,49,0,2017
+2,0.00,0,0,28.0,Malcolm ButlerM. Butler,24,Malcom BrownM. Brown,50,26,new-england-patriots,0,3.0,0,2017
+0,1,3,28,0,0,Danny AmendolaD. Amendola,0,0,0,new-england-patriots,0,0.00,622,2017
+1,0.0,0.0,0,0,24,0,2,0.00,0,new-england-patriots,Johnson BademosiJ. Bademosi,0,2,2017
+2,0.0,Brandon BoldenB. Bolden,29,7,1,0,5,0,0.00,new-england-patriots,0,0,0.0,2017
+0,0.0,0.0,3,0,1,0,5,0.00,0,new-york-jets,Vincent BrisbyV. Brisby,0,8,2017
+1,0.0,Shane BurtonS. Burton,1,31,17,0,0,0,0.00,new-york-jets,0,0,0.0,2017
+0,0,0.00,James DarlingJ. Darling,0.0,0.0,0,0.0,6,17,new-york-jets,0,23,0,2017
+1,0.00,0,0,0.0,Shaun EllisS. Ellis,3,James DearthJ. Dearth,3,0,new-york-jets,0,0.0,0,2017
+0,0.0,0.0,1,0,2,0,6,0.00,0,new-york-jets,Wayne ChrebetW. Chrebet,0,7,2017
+1,0.0,Laveranues ColesL. Coles,2,1,0,0,0,0,0.00,new-york-jets,0,0,0.0,2017
+0,0,1,0.00,0,0,1,0,0.0,0.0,new-york-jets,0,Michael BatesM. Bates,0,2017
+1,2,0,0,64,21.33,0.0,0.00,Aaron BeasleyA. Beasley,0.0,new-york-jets,2,3,0,2017
+0,0.0,0.0,14,0,78,1,64,7.00,7,new-york-jets,Eric BartonE. Barton,7,78,2017
+1,9.0,Anthony BechtA. Becht,108,2,0,0,30,0,0.00,new-york-jets,0,0,2.5,2017
+0,0,0,0,Brooks BollingerB. Bollinger,0,0,0,0.0,1,new-york-jets,1,0.0,0.00,2017
+1,0,1,0.00,2,51,1,0,0.0,0.0,new-york-jets,0,Mark BrownM. Brown,0,2017
+0,0.00,0,0,0.0,Jerricho CotcheryJ. Cotchery,2,Laveranues ColesL. Coles,2,0,new-york-jets,0,0.0,0,2017
+1,0,0,0,James DearthJ. Dearth,0,1,0,0.0,2,new-york-jets,1,0.0,0.00,2017
+0,6,26,0,0.00,0,12.0,0,0,Matt ChathamM. Chatham,new-york-jets,2.5,0,20,2017
+1,18,0.0,12,1,0,Drew ColemanD. Coleman,0,1,1,new-york-jets,0.0,1.00,6,2017
+0,0,0,19.0,20,0.0,0,4.0,18,0,new-york-jets,0.00,2,Ahmad CarrollA. Carroll,2017
+1,0,0.00,Jesse ChatmanJ. Chatman,0.0,0.0,0,0.0,2,2,new-york-jets,0,4,0,2017
+0,0.0,Mike DeVitoM. DeVito,2,20,8,0,0,0,0.00,new-york-jets,0,0,0.0,2017
+1,Marques DouglasM. Douglas,0,0.0,28,64,0.00,28,0,0,new-york-jets,0,36,0.0,2017
+2,0,0,9.5,6,0.0,0,1.5,6,0,new-york-jets,0.00,0,Braylon EdwardsB. Edwards,2017
+0,4,0,0,0,0.00,1.0,0.00,Braylon EdwardsB. Edwards,10.0,new-york-jets,4,0,0,2017
+1,0,3,0,0.00,0,0.0,0,0,Shaun EllisS. Ellis,new-york-jets,0.0,0,3,2017
+2,36,4.5,26,0,0,D'Brickashaw FergusonD. Ferguson,0,0,0,new-york-jets,29.5,0.00,10,2017
+0,0,0,0.0,19,0.0,0,0.0,15,0,new-york-jets,0.00,4,Nick BelloreN. Bellore,2017
+1,0,0.00,Marquice ColeM. Cole,0.0,0.0,0,0.0,4,7,new-york-jets,0,11,0,2017
+2,0.00,0,0,0.0,Emanuel CookE. Cook,1,T.J. ConleyT. Conley,1,0,new-york-jets,0,0.0,0,2017
+0,0,1,67,69,"4,298",0,67.0,0,0,new-york-jets,17,NY Jets,0,2017
+1,1,54,73,80,"5,045",1,62.3,0,2,new-york-jets,"1,184",Opponents,12,2017
+2,0,50,74,0,0,1,63.1,1,3,new-york-jets,"1,308",Antonio AllenA. Allen,27,2017
+3,4,2,0,0,0.00,1.0,0.00,Yeremiah BellY. Bell,2.0,new-york-jets,6,0,0,2017
+0,21,63,1,0.00,0,7.0,23t,0,Antwan BarnesA. Barnes,new-york-jets,1.0,0,42,2017
+1,3,2.0,2,0,0,Nick BelloreN. Bellore,0,0,0,new-york-jets,20.0,0.00,1,2017
+2,0.0,0.0,9,0,13,0,8,0.00,0,new-york-jets,Josh BushJ. Bush,0,17,2017
+0,0,1,51,74,25,Opponents,0,"5,370",86,new-york-jets,0,62.4,"1,110",2017
+1,0,3,58,0,0,Oday AboushiO. Aboushi,1,0,0,new-york-jets,0,0.00,"1,342",2017
+2,0.0,0.0,0,0,21,1,1,0.00,0,new-york-jets,Phillip AdamsP. Adams,0,1,2017
+3,0.0,Antonio AllenA. Allen,24,36,5,0,3,0,0.00,new-york-jets,0,0,0.0,2017
+0,0/0,7/8,30/33,Randy BullockR. Bullock,42,7/8,Opponents,54,3/4,new-york-jets,9/9,108,26/29,2017
+1,20,1,65.3,Nick FolkN. Folk,39,495,"2,742",0,0,new-york-jets,21,0,72,2017
+2,13,0,63.2,Ryan QuigleyR. Quigley,5,556,"2,466",2,0,new-york-jets,24,1,74,2017
+3,1,0,67.4,NY Jets,86,117,337,0,0,new-york-jets,4,0,69,2017
+4,34,1,64.5,Opponents,78,"1,168","5,545",2,0,new-york-jets,49,1,74,2017
+0,0,5,0.00,0,0,9,0,0.0,0.0,new-york-jets,4,Brandon BostickB. Bostick,0,2017
+1,1,0,0,0,0.00,0.0,0.00,Braedon BowmanB. Bowman,0.0,new-york-jets,1,0,0,2017
+2,1,2,0,0.00,0,0.0,0,1,Juston BurrisJ. Burris,new-york-jets,0.0,0,1,2017
+0,Jamal AdamsJ. Adams,0,3,20,83,0.00,0,0,0,new-york-jets,0,63,1,2017
+1,0,0,18.0,3,0.0,0,2.0,3,0,new-york-jets,0.00,0,Robby AndersonR. Anderson,2017
+2,0,0.00,David BassD. Bass,3.5,16.5,0,0.0,9,16,new-york-jets,0,25,0,2017
+3,0.00,0,0,0.0,Freddie BishopF. Bishop,1,Kelvin BeachumK. Beachum,1,0,new-york-jets,0,0.0,0,2017
+0,0,0.00,O.J. BriganceO. Brigance,0.0,0.0,0,21.0,2,10,baltimore-ravens,0,12,0,2017
+1,0.00,0,0,17.0,Rob BurnettR. Burnett,17,Cornell BrownC. Brown,23,6,baltimore-ravens,0,3.0,0,2017
+0,27,0.0,16,0,0,Lional DaltonL. Dalton,0,0,0,baltimore-ravens,0.0,0.00,11,2017
+1,0.0,0.0,4,0,1,0,12,0.00,0,baltimore-ravens,Marques DouglasM. Douglas,0,16,2017
+0,1,18,14.0,53,1.0,18,1.5,47,0,baltimore-ravens,18.00,6,Will DempsW. Demps,2017
+1,0,0.00,Marques DouglasM. Douglas,1.0,8.5,0,2.0,4,6,baltimore-ravens,0,10,0,2017
+0,4,0.0,4,0,0,Ethan BrooksE. Brooks,0,0,0,baltimore-ravens,0.0,0.00,0,2017
+1,0.0,0.0,0,0,20,0,1,0.00,0,baltimore-ravens,Cornell BrownC. Brown,0,1,2017
+0,Will DempsW. Demps,1,0.0,20,87,0.00,1,0,0,baltimore-ravens,0,67,0.0,2017
+1,0,0,23.5,3,0.0,0,2.5,3,0,baltimore-ravens,0.00,0,Darnell DinkinsD. Dinkins,2017
+0,4,52,0,0.00,0,0.0,0,0,Darnell DinkinsD. Dinkins,baltimore-ravens,0.0,0,48,2017
+1,10,0.0,9,0,0,Dwan EdwardsD. Edwards,0,0,0,baltimore-ravens,0.0,0.00,1,2017
+0,1,0.0,1,0,0,Aubrayo FranklinA. Franklin,0,0,0,baltimore-ravens,0.0,0.00,0,2017
+1,0.0,0.0,3,0,5,0,14,0.00,0,baltimore-ravens,Justin GreenJ. Green,0,17,2017
+0,0.00,0,0,0.0,Dwan EdwardsD. Edwards,3,Devard DarlingD. Darling,3,0,baltimore-ravens,0,0.0,0,2017
+1,1,0,1,Willie GastonW. Gaston,0,11,1,1.0,41,baltimore-ravens,30,8.0,1.00,2017
+0,0,1,0,0.00,0,0.0,0,0,Marques DouglasM. Douglas,baltimore-ravens,0.0,0,1,2017
+1,36,0.0,24,0,0,Yamon FigursY. Figurs,0,0,0,baltimore-ravens,0.0,0.00,12,2017
+0,0,Brendon AyanbadejoB. Ayanbadejo,1,19,3,0,"1,547",0,0.00,baltimore-ravens,1,0,0,2017
+1,Justin BannanJ. Bannan,0,1.0,6,35,0.00,22,0,0,baltimore-ravens,0,29,5.0,2017
+2,1,4,0.0,13,3.0,4,0.0,13,0,baltimore-ravens,4.00,0,Antwan BarnesA. Barnes,2017
+3,0,0.00,Matt BirkM. Birk,0.0,0.0,0,15.0,0,2,baltimore-ravens,0,2,0,2017
+0,0,0.00,Prescott BurgessP. Burgess,0.0,0.0,0,0.0,2,12,baltimore-ravens,0,14,0,2017
+1,6.50,12,2,0.0,Chris ChesterC. Chester,54,Chris CarrC. Carr,61,7,baltimore-ravens,0,0.0,13,2017
+2,0,0,0,Terrence CodyT. Cody,0,0,0,0.0,1,baltimore-ravens,1,0.0,0.00,2017
+0,"5,288",63.7,Baltimore,1,2,45,0,36,0,baltimore-ravens,74,"1,050",83,2017
+1,"4,435",64.3,Opponents,0,1,26,0,42,1,baltimore-ravens,74,"1,047",69,2017
+2,0,0.00,Brendon AyanbadejoB. Ayanbadejo,1.5,9.0,0,0,4,31,baltimore-ravens,0,35,0,2017
+3,0.00,0,0,0.0,Anquan BoldinA. Boldin,2,Matt BirkM. Birk,2,0,baltimore-ravens,0,0.0,0,2017
+4,0,0,0,Chykie BrownC. Brown,0,0,0,0.0,2,baltimore-ravens,2,0.0,0.00,2017
+0,Anthony AllenA. Allen,0,2,1,12,0.00,2,0,0,baltimore-ravens,0,11,1,2017
+1,0,0,0.0,44,1.0,0,0.0,28,0,baltimore-ravens,0.00,16,Brendon AyanbadejoB. Ayanbadejo,2017
+2,0,0.00,Matt BirkM. Birk,0.0,0.0,0,7.0,0,2,baltimore-ravens,0,2,0,2017
+3,0.00,0,0,0.0,Chykie BrownC. Brown,1,Anquan BoldinA. Boldin,1,0,baltimore-ravens,0,0.0,0,2017
+0,1,1,44,0,0,Billy BajemaB. Bajema,2,0,0,baltimore-ravens,0,0.00,"1,163",2017
+1,0.0,0.0,0,0,11,0,2,0.00,0,baltimore-ravens,Arthur BrownA. Brown,0,2,2017
+2,4.5,Chykie BrownC. Brown,15,8,2,0,4,0,0.00,baltimore-ravens,0,0,0.5,2017
+0,1,2,38,0,0,Kamar AikenK. Aiken,0,0,0,baltimore-ravens,1,0.00,"1,077",2017
+1,0.0,0.0,2,0,0,0,2,0.00,0,baltimore-ravens,Christo BilukidiC. Bilukidi,0,4,2017
+2,0.0,Terrence BrooksT. Brooks,3,16,3,0,3,0,0.00,baltimore-ravens,0,0,0.0,2017
+0,0,22,0.00,0,0,28,0,0.0,0.0,baltimore-ravens,6,Terrence BrooksT. Brooks,0,2017
+1,7,1,0,0,0.00,0.0,0.00,Arthur BrownA. Brown,0.0,baltimore-ravens,8,0,0,2017
+2,0,2,0,0.00,0,0.0,0,0,Marlon BrownM. Brown,baltimore-ravens,0.0,0,2,2017
+0,0,1,27,74,39,Opponents,1,"4,361",71,baltimore-ravens,0,61.4,559,2017
+1,0,2,28,0,0,Kamar AikenK. Aiken,2,0,0,baltimore-ravens,0,0.00,636,2017
+2,0.0,0.0,0,0,2,0,2,0.00,0,baltimore-ravens,Brennen BeyerB. Beyer,0,2,2017
+3,0.0,Nick BoyleN. Boyle,3,2,0,0,1,0,0.00,baltimore-ravens,0,0,0.0,2017
+0,1,27,0.0,11,3.0,27,0.0,9,0,baltimore-ravens,27.00,2,Tyus BowserT. Bowser,2017
+1,0,0.00,Nick BoyleN. Boyle,0.0,0.0,0,13.0,0,1,baltimore-ravens,0,1,0,2017
+2,0.00,0,0,0.0,Maurice CanadyM. Canady,1,Michael CampanaroM. Campanaro,1,0,baltimore-ravens,0,0.0,0,2017
+0,0,0,0,Vaughn BookerV. Booker,0,0,0,0.0,8,cincinnati-bengals,8,0.0,0.00,2017
+1,0,13,0.00,0,0,17,0,0.0,0.0,cincinnati-bengals,4,Steve BushS. Bush,0,2017
+0,10,0,10,Tom CarterT. Carter,0,17,1,0.0,59,cincinnati-bengals,42,0.0,10.00,2017
+1,0,7,0.00,0,0,7,0,0.0,0.0,cincinnati-bengals,0,Randy ChevrierR. Chevrier,0,2017
+0,1,0,0,0,0.00,0.0,0.00,Ron DugansR. Dugans,0.0,cincinnati-bengals,1,0,0,2017
+1,3,16,0,0.00,0,0.0,0,0,Chris EdmondsC. Edmonds,cincinnati-bengals,0.0,0,13,2017
+0,0,1,0,0.00,0,0.0,0,0,Duane ClemonsD. Clemons,cincinnati-bengals,0.0,0,1,2017
+1,43,6.0,36,0,0,Chris EdmondsC. Edmonds,0,0,0,cincinnati-bengals,46.0,0.00,7,2017
+0,1,0,0,36,36.00,0.0,0.00,Robert GeathersR. Geathers,0.0,cincinnati-bengals,1,1,0,2017
+1,7,16,1,0.00,0,27.0,36t,0,Shayne GrahamS. Graham,cincinnati-bengals,3.5,0,9,2017
+0,0,4,0,0.00,0,0.0,0,0,Greg BrooksG. Brooks,cincinnati-bengals,0.0,0,4,2017
+1,8,0.0,7,0,0,Duane ClemonsD. Clemons,0,0,0,cincinnati-bengals,0.0,0.00,1,2017
+0,4,0,0,0,0.00,0.0,0.00,Andre FrazierA. Frazier,0.0,cincinnati-bengals,4,0,0,2017
+1,5,13,0,0.00,0,0.0,0,0,Robert GeathersR. Geathers,cincinnati-bengals,0.0,0,8,2017
+0,0,6,0.00,0,0,6,0,0.0,0.0,cincinnati-bengals,0,Clifton DawsonC. Dawson,0,2017
+1,3,0,0,0,0.00,0.0,0.00,DeDe DorseyD. Dorsey,0.0,cincinnati-bengals,3,0,0,2017
+0,22,0,22,Mike DossM. Doss,0,9,1,1.5,34,cincinnati-bengals,25,10.5,22.00,2017
+1,0,1,0.00,0,0,2,0,0.0,0.0,cincinnati-bengals,1,Jonathan FaneneJ. Fanene,0,2017
+0,4,0,62.4,Cedric BensonC. Benson,0,"1,356","4,244",1,1,cincinnati-bengals,62,0,74,2017
+1,0,1,0.00,0,0,1,0,0.0,0.0,cincinnati-bengals,0,Andre CaldwellA. Caldwell,0,2017
+2,3,0,0,0,0.00,0.0,0.00,Laveranues ColesL. Coles,0.0,cincinnati-bengals,3,0,0,2017
+0,62,0,62,0,Cincinnati,1,1,0,7,cincinnati-bengals,0,0,62.0,2017
+1,76,8,"4,630",1,Opponents,64,76,2,"1,504",cincinnati-bengals,1,3,60.9,2017
+2,74,9,"5,240",0,Geno AtkinsG. Atkins,71,85,0,"1,551",cincinnati-bengals,3,2,61.6,2017
+3,0,0,0,Fred BennettF. Bennett,0,6,0,3.0,16,cincinnati-bengals,10,11.0,0.00,2017
+4,0,1,0.00,0,0,1,0,0.0,0.0,cincinnati-bengals,0,Andre CaldwellA. Caldwell,0,2017
+5,4,0,0,0,0.00,0.0,0.00,Chase CoffmanC. Coffman,0.0,cincinnati-bengals,4,0,0,2017
+0,0,0,45,0,0,Geno AtkinsG. Atkins,0,0,0,cincinnati-bengals,0,0.00,"1,026",2017
+1,7.5,37.5,21,0,1,0,26,0.00,0,cincinnati-bengals,Cedric BensonC. Benson,0,47,2017
+2,0.0,Andre CaldwellA. Caldwell,2,3,0,0,1,0,0.00,cincinnati-bengals,0,0,0.0,2017
+0,2/5,55,7/7,73,21,Mike NugentM. Nugent,6/7,"4,252",65,cincinnati-bengals,114,65.4,11/12,2017
+1,1,1,43,72,6,Josh BrownJ. Brown,0,"1,475",23,cincinnati-bengals,0,64.1,"1,116",2017
+2,0,0,17,73,27,Cincinnati,0,"5,727",88,cincinnati-bengals,0,65.1,352,2017
+3,1,1,60,73,29,Opponents,0,"4,631",74,cincinnati-bengals,0,62.6,"1,468",2017
+0,"1,219",0,1,63.1,73,0,32,86,Cincinnati,cincinnati-bengals,1,"5,428",52,2017
+1,"1,219",0,1,63.5,71,0,32,74,Opponents,cincinnati-bengals,1,"4,697",52,2017
+2,980,0,0,0.00,0,0,32,0,Geno AtkinsG. Atkins,cincinnati-bengals,2,0,39,2017
+0,0,44,74,83,"5,318",0,65.6,0,1,cincinnati-bengals,"1,123",Opponents,37,2017
+1,1,45,74,0,0,0,64.1,0,2,cincinnati-bengals,"1,241",Geno AtkinsG. Atkins,35,2017
+2,20,14,0,0,0.00,3.0,0.00,Giovani BernardG. Bernard,23.5,cincinnati-bengals,34,0,0,2017
+0,0,46,73,68,"4,157",0,65.0,0,1,cincinnati-bengals,"1,041",Opponents,42,2017
+1,1,34,75,0,0,0,61.1,1,3,cincinnati-bengals,686,Geno AtkinsG. Atkins,30,2017
+2,31,11,0,0,0.00,11.0,0.00,Clint BolingC. Boling,86.0,cincinnati-bengals,42,0,0,2017
+0,780,0,0,63.1,66,0,28,13,Randy BullockR. Bullock,cincinnati-bengals,1,820,34,2017
+1,95,0,0,64.0,64,0,8,1,Kevin HuberK. Huber,cincinnati-bengals,0,64,5,2017
+2,16,0,0,63.0,70,0,0,77,Cincinnati,cincinnati-bengals,0,"4,854",1,2017
+3,891,0,0,63.2,79,0,36,76,Opponents,cincinnati-bengals,1,"4,806",40,2017
+4,"1,003",0,1,0.00,0,0,35,0,Geno AtkinsG. Atkins,cincinnati-bengals,1,0,39,2017
+0,"5,087",63.6,Opponents,0,0,46,0,34,0,cincinnati-bengals,70,670,80,2017
+1,0,0.00,Geno AtkinsG. Atkins,9.0,65.5,0,0,17,29,cincinnati-bengals,0,46,0,2017
+2,0.00,0,0,0.0,Giovani BernardG. Bernard,6,Brandon BellB. Bell,10,4,cincinnati-bengals,0,0.0,0,2017
+3,0,0,0,Andrew BillingsA. Billings,0,0,0,0.0,1,cincinnati-bengals,1,0.0,0.00,2017
+0,0.0,Stalin ColinetS. Colinet,16,24,9,0,0,0,0.00,cleveland-browns,0,0,0.0,2017
+1,Doug ColmanD. Colman,0,3.5,0,2,0.00,33,0,0,cleveland-browns,0,2,25.0,2017
+0,0.0,0.0,0,0,1,0,1,0.00,0,cleveland-browns,Tim CouchT. Couch,0,1,2017
+1,0.0,JaJuan DawsonJ. Dawson,1,1,0,0,0,0,0.00,cleveland-browns,0,0,0.0,2017
+0,1,0.0,0,0,0,Andra DavisA. Davis,0,0,1,cleveland-browns,0.0,0.00,1,2017
+1,0.0,0.0,7,0,3,0,17,0.00,0,cleveland-browns,Andre' DavisA. Davis,0,24,2017
+0,0.0,0.0,0,0,6,0,2,0.00,0,cleveland-browns,Sherrod CoatesS. Coates,0,2,2017
+1,0.0,Chris CrockerC. Crocker,8,27,8,0,2,0,0.00,cleveland-browns,0,0,0.0,2017
+0,0,0,0,Antonio BryantA. Bryant,0,4,0,0.0,6,cleveland-browns,2,0.0,0.00,2017
+1,0,3,0.00,0,0,3,0,0.0,0.0,cleveland-browns,0,Dyshod CarterD. Carter,0,2017
+0,89,60,14,0,0.00,2.0,14.00,Phil DawsonP. Dawson,22.0,cleveland-browns,149,0,0,2017
+1,2,3,0,0.00,0,0.0,0,0,Trent DilferT. Dilfer,cleveland-browns,0.0,0,1,2017
+0,2,0.0,2,0,0,Darnell DinkinsD. Dinkins,0,0,0,cleveland-browns,0.0,0.00,0,2017
+1,0.0,0.0,0,0,7,0,3,0.00,0,cleveland-browns,Reuben DroughnsR. Droughns,0,3,2017
+0,0,0,0.0,2,0.0,0,0.0,2,0,cleveland-browns,0.00,0,Colby BockwoldtC. Bockwoldt,2017
+1,75,12.50,Leigh BoddenL. Bodden,0.0,0.0,0,0.0,12,76,cleveland-browns,26,88,6,2017
+0,0,0.00,Joshua CribbsJ. Cribbs,0.0,0.0,0,0.0,4,19,cleveland-browns,0,23,0,2017
+1,0.00,0,0,0.0,Andra DavisA. Davis,4,Travis DanielsT. Daniels,5,1,cleveland-browns,0,0.0,0,2017
+0,1,Opponents,0,3,69,"4,938",984,75,61.0,cleveland-browns,81,8,3,2017
+1,0,Mike AdamsM. Adams,3,58,11,0,"1,670",0,0.00,cleveland-browns,0,0,1,2017
+2,Eric BartonE. Barton,0,1.0,22,58,0.00,69,0,0,cleveland-browns,0,36,6.0,2017
+3,0,0,0.0,14,3.5,0,0.0,9,0,cleveland-browns,0.00,5,Marcus BenardM. Benard,2017
+0,19,66,0,0.00,0,0.0,0,0,Marcus BenardM. Benard,cleveland-browns,0.0,0,47,2017
+1,28,7.5,18,64t,2,David BowensD. Bowens,0,94,2,cleveland-browns,33.0,47.00,10,2017
+2,0.5,2.0,14,0,51,2,26,0.00,0,cleveland-browns,Sheldon BrownS. Brown,0,40,2017
+0,59,"3,661",1,"1,055",1,74,3,1,10,cleveland-browns,62.1,46,Cleveland,2017
+1,75,"4,594",1,"1,134",0,73,3,2,24,cleveland-browns,61.3,48,Opponents,2017
+2,3,33,0,64,0.0,29,1,44,0,cleveland-browns,11.00,20,Mike AdamsM. Adams,2017
+0,1,43,73,77,"4,878",0,62.6,0,2,cleveland-browns,853,Opponents,30,2017
+1,2,50,74,0,0,0,63.4,0,2,cleveland-browns,"1,269",Johnson BademosiJ. Bademosi,25,2017
+2,16,5,0,0,0.00,0.0,0.00,Travis BenjaminT. Benjamin,0.0,cleveland-browns,21,0,0,2017
+0,0,5,27,73,44,Opponents,0,"5,485",87,cleveland-browns,0,63.0,620,2017
+1,0,2,40,0,0,Josh AubreyJ. Aubrey,1,0,0,cleveland-browns,1,0.00,931,2017
+2,0.0,0.0,0,0,11,0,1,0.00,0,cleveland-browns,Johnson BademosiJ. Bademosi,0,1,2017
+3,0.0,Gary BarnidgeG. Barnidge,14,4,0,0,3,0,0.00,cleveland-browns,0,0,0.0,2017
+0,"4,679",65.9,Cleveland,0,0,40,0,31,0,cleveland-browns,73,695,71,2017
+1,"5,023",64.4,Opponents,0,2,40,0,37,1,cleveland-browns,74,801,78,2017
+2,0,0.00,Miles AustinM. Austin,0.0,0.0,0,0,0,2,cleveland-browns,0,2,0,2017
+3,0.00,0,0,0.0,Gary BarnidgeG. Barnidge,5,Johnson BademosiJ. Bademosi,12,7,cleveland-browns,0,0.0,0,2017
+4,0,0,0,Travis BenjaminT. Benjamin,0,1,0,0.0,2,cleveland-browns,1,0.0,0.00,2017
+0,1,42,73,90,"5,881",0,63.1,0,0,cleveland-browns,894,Opponents,27,2017
+1,0,41,74,0,0,0,65.3,0,1,cleveland-browns,"1,041",Johnson BademosiJ. Bademosi,48,2017
+2,20,7,0,0,0.00,0.0,0.00,Gary BarnidgeG. Barnidge,0.0,cleveland-browns,27,0,0,2017
+0,52,0,63.9,Dominique AlexanderD. Alexander,0,634,"5,499",0,0,cleveland-browns,34,0,70,2017
+1,0,3,0.00,0,0,7,0,0.0,0.0,cleveland-browns,4,George Atkinson IIIG. Atkinson,0,2017
+2,3,0,0,0,0.00,0.0,0.00,Alvin BaileyA. Bailey,0.0,cleveland-browns,3,0,0,2017
+3,0,2,0,0.00,0,0.0,0,0,Joel BitonioJ. Bitonio,cleveland-browns,0.0,0,2,2017
+4,1,0.0,1,67,1,Briean Boddy-CalhounB. Boddy-Calhoun,0,94,3,cleveland-browns,0.0,31.33,0,2017
+0,71,33,"3,350",0,Opponents,20,57,1,471,cleveland-browns,0,4,58.8,2017
+1,70,49,"5,374",0,Dominique AlexanderD. Alexander,35,86,0,790,cleveland-browns,1,1,62.5,2017
+2,0,0,0,B.J. BelloB. Bello,0,0,0,0.0,1,cleveland-browns,1,0.0,0.00,2017
+3,0,5,0.00,0,0,6,0,0.0,0.0,cleveland-browns,1,Joel BitonioJ. Bitonio,0,2017
+0,0,0,0.0,6,0.0,0,0.0,6,0,pittsburgh-steelers,0.00,0,Troy EdwardsT. Edwards,2017
+1,0,0.00,John FialaJ. Fiala,0.0,0.0,0,0.0,3,19,pittsburgh-steelers,0,22,0,2017
+0,1,0,0,0,0.00,0.0,0.00,Plaxico BurressP. Burress,0.0,pittsburgh-steelers,1,0,0,2017
+1,0,4,0,3.00,3,0.0,0,1,Kendrick ClancyK. Clancy,pittsburgh-steelers,0.0,3,4,2017
+0,0.00,0,0,0.0,Plaxico BurressP. Burress,2,Mark BruenerM. Bruener,2,0,pittsburgh-steelers,0,0.0,0,2017
+1,0,0,0,Kendrick ClancyK. Clancy,0,0,0,0.0,1,pittsburgh-steelers,1,0.0,0.00,2017
+0,0,0.00,Plaxico BurressP. Burress,0.0,0.0,0,0.0,0,1,pittsburgh-steelers,0,1,0,2017
+1,0.00,0,0,0.0,Chris DoeringC. Doering,3,Kendrick ClancyK. Clancy,3,0,pittsburgh-steelers,0,0.0,0,2017
+0,67,28,41,1,1.00,3.0,28.25,Larry FooteL. Foote,22.0,pittsburgh-steelers,95,1,1,2017
+1,17,70,0,0.00,0,20.0,1,0,Clark HaggansC. Haggans,pittsburgh-steelers,3.0,0,53,2017
+0,42,19,0,0,0.00,9.0,0.00,Casey HamptonC. Hampton,42.0,pittsburgh-steelers,61,0,0,2017
+1,17,42,0,25.00,25,0.0,0,1,James HarrisonJ. Harrison,pittsburgh-steelers,0.0,25,25,2017
+0,0.00,0,1,27.5,Casey HamptonC. Hampton,52,Clark HaggansC. Haggans,77,25,pittsburgh-steelers,0,6.0,0,2017
+1,0,0,0,Arnold HarrisonA. Harrison,0,15,0,0.0,41,pittsburgh-steelers,26,0.0,0.00,2017
+0,11,7,0,0,0.00,0.0,0.00,Nicholas EasonN. Eason,0.0,pittsburgh-steelers,18,0,0,2017
+1,4,14,0,0.00,0,0.0,0,1,James FarriorJ. Farrior,pittsburgh-steelers,0.0,0,10,2017
+0,5,1,0,0,0.00,0.0,0.00,Nicholas EasonN. Eason,0.0,pittsburgh-steelers,6,0,0,2017
+1,7,17,0,0.00,0,7.0,0,0,James FarriorJ. Farrior,pittsburgh-steelers,1.5,0,10,2017
+0,53,26.50,Tyrone CarterT. Carter,1.0,1.0,1,0.0,12,49,pittsburgh-steelers,48t,61,2,2017
+1,0.00,0,3,0.0,Carey DavisC. Davis,68,Ryan ClarkR. Clark,89,21,pittsburgh-steelers,0,0.0,0,2017
+2,0,0,0,Nicholas EasonN. Eason,0,0,0,0.0,2,pittsburgh-steelers,2,0.0,0.00,2017
+0,75,7,"5,163",0,Opponents,77,86,1,"1,540",pittsburgh-steelers,1,2,60.0,2017
+1,75,11,"3,897",1,Flozell AdamsF. Adams,49,62,1,"1,153",pittsburgh-steelers,0,2,62.9,2017
+2,0,0,0,Will AllenW. Allen,0,0,0,0.0,1,pittsburgh-steelers,1,0.0,0.00,2017
+3,0,11,0.00,0,0,12,0,0.0,0.0,pittsburgh-steelers,1,Arnaz BattleA. Battle,0,2017
+4,7,2,0,0,0.00,0.0,0.00,Antonio BrownA. Brown,0.0,pittsburgh-steelers,9,0,0,2017
+0,72,"4,698",0,"1,018",0,73,0,1,28,pittsburgh-steelers,65.2,43,Pittsburgh,2017
+1,62,"3,880",0,877,0,74,0,1,23,pittsburgh-steelers,62.6,35,Opponents,2017
+2,0,0,1,15,0.0,0,4,12,0,pittsburgh-steelers,0.00,3,Cortez AllenC. Allen,2017
+0,0,1,0,3.00,6,0.0,0,2,Cortez AllenC. Allen,pittsburgh-steelers,0.0,6,1,2017
+1,55,0.0,43,0,0,Will AllenW. Allen,0,0,0,pittsburgh-steelers,0.0,0.00,12,2017
+2,0.0,0.0,14,0,4,0,20,0.00,0,pittsburgh-steelers,Baron BatchB. Batch,0,34,2017
+0,30/32,0/0,Pittsburgh,129,Opponents,13/15,129,0/0,8/8,pittsburgh-steelers,9/9,48,39/39,2017
+1,8/8,10/10,28/31,86,"5,123",1/2,38/39,122,54,pittsburgh-steelers,8/10,Shaun SuishamS. Suisham,1/1,2017
+2,3,55,73,86,"5,123",0,59.6,0,3,pittsburgh-steelers,"1,225",Pittsburgh,24,2017
+0,72,48,"5,448",0,Mike AdamsM. Adams,35,86,0,758,pittsburgh-steelers,1,3,63.3,2017
+1,0,0,0,Cortez AllenC. Allen,2,0,0,0.0,1,pittsburgh-steelers,1,0.0,0.00,2017
+2,0,36,13.50,0,0,41,27,0.0,0.0,pittsburgh-steelers,5,Will AllenW. Allen,27,2017
+0,3/6,54,7/7,75,26,Chris BoswellC. Boswell,7/7,"4,680",74,pittsburgh-steelers,107,63.2,9/11,2017
+1,0,0,47,73,12,Josh ScobeeJ. Scobee,1,"1,251",20,pittsburgh-steelers,0,62.5,"1,035",2017
+2,0,1,7,75,38,Pittsburgh,0,"5,931",94,pittsburgh-steelers,0,63.1,138,2017
+3,0,1,54,74,46,Opponents,1,"4,954",76,pittsburgh-steelers,0,65.2,"1,173",2017
+0,639,0,3,62.5,67,0,49,6,Randy BullockR. Bullock,pittsburgh-steelers,2,375,26,2017
+1,78,0,0,62.0,77,0,3,86,Pittsburgh,pittsburgh-steelers,0,"5,328",3,2017
+2,717,0,3,63.5,81,0,52,78,Opponents,pittsburgh-steelers,2,"4,956",29,2017
+3,603,0,1,0.00,0,0,48,0,Le'Veon BellL. Bell,pittsburgh-steelers,2,0,28,2017
+0,43,906,46,"5,681",63.1,0,74,Pittsburgh,0,pittsburgh-steelers,0,90,1,2017
+1,43,906,46,"4,400",62.0,0,74,Opponents,0,pittsburgh-steelers,0,71,1,2017
+2,33,630,37,0,0.00,0,70,Brian AllenB. Allen,0,pittsburgh-steelers,1,0,0,2017
+0,10,0,0,0,0.00,1.0,0.00,Marcus ColemanM. Coleman,9.0,houston-texans,10,1,0,2017
+1,12,73,0,0.00,0,0.0,0,0,JaJuan DawsonJ. Dawson,houston-texans,0.0,0,61,2017
+0,0,0.00,Milford BrownM. Brown,0.0,0.0,0,0.0,0,1,houston-texans,0,1,0,2017
+1,0.00,0,0,0.0,Charlie ClemonsC. Clemons,1,Travis CarrollT. Carroll,1,0,houston-texans,0,0.0,0,2017
+0,0,0.00,Eric BrownE. Brown,0.0,0.0,0,0.0,6,9,houston-texans,0,15,0,2017
+1,0.00,0,0,0.0,Mark BruenerM. Bruener,3,Kris BrownK. Brown,3,0,houston-texans,0,0.0,0,2017
+0,0.0,Mark BruenerM. Bruener,1,1,0,0,0,0,0.00,houston-texans,0,0,0.0,2017
+1,Phillip BuchanonP. Buchanon,0,0.0,6,35,0.00,1,0,0,houston-texans,0,29,0.0,2017
+0,0,2,0.00,0,0,2,0,0.0,0.0,houston-texans,0,Jameel CookJ. Cook,0,2017
+1,4,1,0,0,0.00,0.0,0.00,Lional DaltonL. Dalton,0.0,houston-texans,5,0,0,2017
+0,0,0,0.0,1,0.0,0,0.0,1,0,houston-texans,0.00,0,Kris BrownK. Brown,2017
+1,0,0.00,Tim BulmanT. Bulman,0.0,0.0,0,0.0,0,2,houston-texans,0,2,0,2017
+0,0,35,13.00,0,0,43,26,0.0,0.0,houston-texans,8,Kevin BentleyK. Bentley,23,2017
+1,38,19,0,0,0.00,1.0,0.00,Mike BrisielM. Brisiel,15.0,houston-texans,57,0,0,2017
+0,2,11,0,0.00,0,0.0,0,0,David AndersonD. Anderson,houston-texans,0.0,0,9,2017
+1,3,0.0,3,3,0,Dominique BarberD. Barber,0,3,1,houston-texans,0.0,3.00,0,2017
+2,0.0,0.0,5,0,13,0,28,0.00,0,houston-texans,Connor BarwinC. Barwin,0,33,2017
+0,0,0.00,Mark AndersonM. Anderson,4.0,36.0,0,0.0,5,16,houston-texans,0,21,0,2017
+1,0.00,0,0,0.0,Kevin BentleyK. Bentley,5,Dominique BarberD. Barber,6,1,houston-texans,0,0.0,0,2017
+2,18,0,18,Duane BrownD. Brown,0,20,1,0.0,55,houston-texans,35,0.0,18.00,2017
+0,73,38,"5,457",0,Opponents,46,86,0,"1,030",houston-texans,0,1,63.5,2017
+1,74,40,"4,569",0,Mister AlexanderM. Alexander,29,71,0,730,houston-texans,0,2,64.4,2017
+2,0,0,0,Jason AllenJ. Allen,4,0,0,0.0,7,houston-texans,7,0.0,0.00,2017
+3,0,41,8.50,0,0,45,34,0.0,0.0,houston-texans,4,David AndersonD. Anderson,34,2017
+0,0,1,58,92,"5,690",0,58.0,0,0,houston-texans,18,Houston,0,2017
+1,0,62,72,77,"4,923",2,61.8,0,2,houston-texans,"1,595",Opponents,28,2017
+2,0,44,74,0,0,0,63.9,0,2,houston-texans,953,Mister AlexanderM. Alexander,31,2017
+3,4,1,0,0,0.00,0.0,0.00,Alan BallA. Ball,0.0,houston-texans,5,0,0,2017
+0,0,1,68,68,"4,449",0,68.0,0,0,houston-texans,22,Houston,0,2017
+1,0,39,73,93,"6,101",0,65.4,0,0,houston-texans,"1,004",Opponents,29,2017
+2,2,51,76,0,0,0,65.6,0,0,houston-texans,"1,257",A.J. BouyeA. Bouye,40,2017
+3,2,0,0,0,0.00,0.0,0.00,Bryan BramanB. Braman,0.0,houston-texans,2,0,0,2017
+0,0,1,67,87,"5,680",0,67.0,0,0,houston-texans,25,Houston,0,2017
+1,0,45,74,71,"4,437",0,65.3,0,2,houston-texans,"1,169",Opponents,40,2017
+2,0,20,73,0,0,0,62.5,1,4,houston-texans,422,Jason AnkrahJ. Ankrah,47,2017
+3,1,0,0,0,0.00,0.0,0.00,Alfred BlueA. Blue,0.0,houston-texans,1,0,0,2017
+0,0,2,40,73,53,Opponents,0,"4,650",72,houston-texans,0,64.6,977,2017
+1,0,1,18,0,0,Lonnie BallentineL. Ballentine,1,0,0,houston-texans,0,0.00,430,2017
+2,0.0,0.0,0,0,3,0,3,0.00,0,houston-texans,Alfred BlueA. Blue,0,3,2017
+3,0.0,A.J. BouyeA. Bouye,4,15,1,9,1,9,4.50,houston-texans,2,0,0.0,2017
+0,1,4,48,77,44,Opponents,1,"4,783",77,houston-texans,1,62.1,"1,135",2017
+1,0,2,30,0,0,Oday AboushiO. Aboushi,1,0,0,houston-texans,0,0.00,557,2017
+2,0.0,0.0,0,0,2,0,1,0.00,0,houston-texans,Stephen AndersonS. Anderson,0,1,2017
+3,0.0,Alfred BlueA. Blue,3,6,0,0,1,0,0.00,houston-texans,0,0,0.0,2017
+0,9,0.0,8,0,0,Alfred BlueA. Blue,0,0,0,houston-texans,0.0,0.00,1,2017
+1,0.0,0.0,1,0,1,0,4,0.00,0,houston-texans,Marcus BurleyM. Burley,0,5,2017
+2,0.0,Ibraheim CampbellI. Campbell,1,1,1,0,0,0,0.00,houston-texans,0,0,0.0,2017
+3,Chris ClarkC. Clark,0,0.0,0,1,0.00,2,0,0,houston-texans,0,1,0.0,2017
+0,8,77,1,0.00,0,19.0,27t,0,Larry ChesterL. Chester,indianapolis-colts,3.0,0,69,2017
+1,16,2.5,10,3,0,Chad CotaC. Cota,0,3,2,indianapolis-colts,7.5,1.50,6,2017
+0,0,0,0,Rick DeMullingR. DeMulling,0,4,0,0.0,23,indianapolis-colts,19,0.0,0.00,2017
+1,0,1,0.00,0,0,1,0,0.0,0.0,indianapolis-colts,0,Ryan DiemR. Diem,0,2017
+0,0,0,0.0,1,0.0,0,0.0,1,0,indianapolis-colts,0.00,0,Ryan DiemR. Diem,2017
+1,0,0.00,Jason DoeringJ. Doering,0.0,0.0,0,0.0,14,27,indianapolis-colts,0,41,0,2017
+0,0.00,0,0,0.0,Mike DossM. Doss,17,Jason DoeringJ. Doering,24,7,indianapolis-colts,0,0.0,0,2017
+1,15,0,15,Anthony FloydA. Floyd,0,30,1,0.0,105,indianapolis-colts,75,0.0,15.00,2017
+0,0.0,0.0,0,0,3,0,1,0.00,0,indianapolis-colts,Dallas ClarkD. Clark,0,1,2017
+1,0.0,Jason DavidJ. David,3,48,4,36,0,34t,9.00,indianapolis-colts,4,1,0.0,2017
+0,Dwight FreeneyD. Freeney,0,0.0,5,35,0.00,4,0,0,indianapolis-colts,0,30,0.0,2017
+1,1,16,71.5,27,1.0,16,11.0,19,0,indianapolis-colts,16.00,8,Gilbert GardnerG. Gardner,2017
+0,Gary BrackettG. Brackett,0,0.0,35,122,0.00,22,0,0,indianapolis-colts,0,87,0.0,2017
+1,0,0,0.0,48,3.0,0,0.0,34,0,indianapolis-colts,0.00,14,Raheem BrockR. Brock,2017
+0,0,0.00,Raheem BrockR. Brock,2.5,14.5,0,0.0,7,24,indianapolis-colts,0,31,0,2017
+1,0.00,0,1,0.0,Jeff CharlestonJ. Charleston,17,Melvin BullittM. Bullitt,20,3,indianapolis-colts,0,0.0,0,2017
+0,0,24,0.00,0,0,28,0,78.5,10.5,indianapolis-colts,4,Pierre GarconP. Garcon,0,2017
+1,7,2,0,0,0.00,0.0,0.00,Matt GiordanoM. Giordano,0.0,indianapolis-colts,9,0,0,2017
+0,Joseph AddaiJ. Addai,0,3,0,1,0.00,1,0,0,indianapolis-colts,0,1,2,2017
+1,0,0,0.0,13,0.0,0,0.0,7,0,indianapolis-colts,0.00,6,Ervin BaldwinE. Baldwin,2017
+2,0,0.00,Hank BaskettH. Baskett,0.0,0.0,0,0.0,1,0,indianapolis-colts,0,1,0,2017
+3,4.75,19,4,0.0,Gary BrackettG. Brackett,70,Antoine BetheaA. Bethea,95,25,indianapolis-colts,0,0.0,19,2017
+0,0,0.00,Joique BellJ. Bell,0.0,0.0,0,8.0,0,1,indianapolis-colts,0,1,0,2017
+1,31.00,31,1,1.0,Gary BrackettG. Brackett,77,Antoine BetheaA. Bethea,106,29,indianapolis-colts,0,0.5,31,2017
+2,0,0,0,Cornelius BrownC. Brown,0,21,0,0.5,74,indianapolis-colts,53,4.0,0.00,2017
+3,0,19,0.00,0,0,24,0,0.0,0.0,indianapolis-colts,5,Donald BrownD. Brown,0,2017
+0,0,0,0.0,5,0.0,0,0.0,1,0,indianapolis-colts,0.00,4,Mario AddisonM. Addison,2017
+1,0,0.00,Jamaal AndersonJ. Anderson,3.0,5.0,0,0.0,12,12,indianapolis-colts,0,24,0,2017
+2,0.00,0,1,0.0,Kevin BentleyK. Bentley,78,Pat AngererP. Angerer,148,70,indianapolis-colts,0,1.0,0,2017
+0,0,0,34,71,48,Opponents,0,"5,851",91,indianapolis-colts,0,64.3,841,2017
+1,1,0,43,0,0,Kris AdamsK. Adams,0,0,0,indianapolis-colts,0,0.00,957,2017
+2,0.0,0.0,0,0,2,0,1,0.00,0,indianapolis-colts,Mario AddisonM. Addison,0,1,2017
+3,0.0,Dwayne AllenD. Allen,2,1,0,0,0,0,0.00,indianapolis-colts,0,0,0.0,2017
+0,0,80,24.00,0,0,110,48,12.0,1.0,indianapolis-colts,30,LaVon BrazillL. Brazill,46,2017
+1,4,0,0,0,0.00,0.0,0.00,Donald BrownD. Brown,0.0,indianapolis-colts,4,0,0,2017
+2,0,3,0,0.00,0,0.0,0,0,Jalil BrownJ. Brown,indianapolis-colts,0.0,0,3,2017
+0,0,26,74,75,"4,959",0,64.0,3,3,indianapolis-colts,587,Opponents,70,2017
+1,0,38,74,5,24,0,66.1,0,1,indianapolis-colts,"1,065",Mike AdamsM. Adams,36,2017
+2,67,20,10,0,0.00,0.0,4.80,Dwayne AllenD. Allen,0.0,indianapolis-colts,87,0,0,2017
+0,0,0,8.0,2,0.0,0,1.0,2,0,indianapolis-colts,0.00,0,Dwayne AllenD. Allen,2017
+1,0,0.00,Colt AndersonC. Anderson,0.0,0.0,0,0.0,6,11,indianapolis-colts,0,17,0,2017
+2,0.00,0,0,1.0,Jalil BrownJ. Brown,19,Henry AndersonH. Anderson,31,12,indianapolis-colts,0,1.0,0,2017
+0,0,14,25.00,3,19,21,25,15.0,2.0,indianapolis-colts,7,Darius ButlerD. Butler,25,2017
+1,27,6,19,0,0.00,0.0,6.33,Chris CarterC. Carter,0.0,indianapolis-colts,33,0,0,2017
+2,3,6,0,0.00,0,0.0,0,0,Anthony CastonzoA. Castonzo,indianapolis-colts,0.0,0,3,2017
+0,0,2,28,0,0,Henry AndersonH. Anderson,0,0,0,indianapolis-colts,0,0.00,590,2017
+1,2.0,8.0,7,0,5,0,15,0.00,0,indianapolis-colts,Tarell BashamT. Basham,0,22,2017
+2,22.0,Jonathan BosticJ. Bostic,7,57,40,0,2,0,0.00,indianapolis-colts,0,0,2.0,2017
+0,0,0,39.5,3,0.0,0,7.5,3,0,jacksonville-jaguars,0.00,0,Kyle BradyK. Brady,2017
+1,0,0.00,Mark BrunellM. Brunell,0.0,0.0,0,0.0,0,2,jacksonville-jaguars,0,2,0,2017
+0,6,3,0,0,0.00,0.0,0.00,Tony BrackensT. Brackens,0.0,jacksonville-jaguars,9,0,0,2017
+1,3,43,0,0.00,0,74.0,0,0,Kyle BradyK. Brady,jacksonville-jaguars,11.0,0,40,2017
+0,0,5,0,0.00,0,0.0,0,0,Tony BrackensT. Brackens,jacksonville-jaguars,0.0,0,5,2017
+1,11,1.0,9,0,0,Kyle BradyK. Brady,0,0,0,jacksonville-jaguars,4.0,0.00,2,2017
+0,0.0,Danny ClarkD. Clark,70,30,11,0,9,0,0.00,jacksonville-jaguars,0,0,0.0,2017
+1,Deke CooperD. Cooper,1,0.0,18,60,12.00,41,0,12,jacksonville-jaguars,12,42,0.0,2017
+0,0,5,0,0.00,0,0.0,0,0,Jason GildonJ. Gildon,jacksonville-jaguars,0.0,0,5,2017
+1,12,3.0,11,4,0,Deon GrantD. Grant,0,4,2,jacksonville-jaguars,29.0,2.00,1,2017
+0,2,0.0,1,0,0,Greg FavorsG. Favors,0,0,0,jacksonville-jaguars,0.0,0.00,1,2017
+1,0.0,0.0,5,0,10,0,1,0.00,0,jacksonville-jaguars,Tony GilbertT. Gilbert,0,6,2017
+0,0.0,Nick GreisenN. Greisen,60,31,3,6,7,6,6.00,jacksonville-jaguars,1,0,0.0,2017
+1,Cortez HanktonC. Hankton,0,0.0,0,1,0.00,34,0,0,jacksonville-jaguars,0,1,0.0,2017
+0,24.0,Reggie HaywardR. Hayward,14,15,3,0,2,0,0.00,jacksonville-jaguars,0,0,3.5,2017
+1,John HendersonJ. Henderson,0,3.5,10,38,0.00,18,0,0,jacksonville-jaguars,0,28,27.5,2017
+0,0,0,34.5,44,2.0,0,4.5,34,0,jacksonville-jaguars,0.00,10,John HendersonJ. Henderson,2017
+1,0,0.00,Clint IngramC. Ingram,2.0,5.0,0,10.0,5,32,jacksonville-jaguars,0,37,0,2017
+0,0,0.00,Jeremy CainJ. Cain,0.0,0.0,0,0.0,0,3,jacksonville-jaguars,0,3,0,2017
+1,0.00,0,0,0.0,Sean ConsidineS. Considine,1,Michael CoeM. Coe,1,0,jacksonville-jaguars,0,0.0,0,2017
+2,25,0,25,Derek CoxD. Cox,4,7,1,0.0,35,jacksonville-jaguars,28,0.0,25.00,2017
+3,0,58,1.50,0,0,72,6,0.0,0.0,jacksonville-jaguars,14,Kennard CoxK. Cox,6,2017
+0,0,29,0.00,0,0,38,0,24.5,3.5,jacksonville-jaguars,9,Jordan BlackJ. Black,0,2017
+1,2,0,0,0,0.00,0.0,0.00,Alvin BowenA. Bowen,0.0,jacksonville-jaguars,2,0,0,2017
+2,1,1,0,0.00,0,0.0,0,0,Tyron BrackenridgeT. Brackenridge,jacksonville-jaguars,0.0,0,0,2017
+0,26,632,39,"4,660",63.8,0,74,Opponents,0,jacksonville-jaguars,0,73,0,2017
+1,47,"1,055",24,3,3.00,1,73,Russell AllenR. Allen,0,jacksonville-jaguars,0,1,0,2017
+2,17,48,0,0.00,0,3.5,3,0,Tyson AlualuT. Alualu,jacksonville-jaguars,0.5,0,31,2017
+3,40,2.5,21,0,0,Kevin BentleyK. Bentley,0,0,0,jacksonville-jaguars,8.5,0.00,19,2017
+4,0.0,0.0,0,0,4,0,1,0.00,0,jacksonville-jaguars,Brock BolenB. Bolen,0,1,2017
+0,1.5,12.5,4,0,2,0,7,0.00,0,jacksonville-jaguars,Justin BlackmonJ. Blackmon,0,11,2017
+1,0.0,Valentino BlakeV. Blake,2,10,2,0,0,0,0.00,jacksonville-jaguars,0,0,0.0,2017
+2,Kyle BosworthK. Bosworth,1,0.0,8,37,10.00,12,0,10,jacksonville-jaguars,10,29,0.0,2017
+0,1,25,74,96,"6,169",0,64.1,0,1,jacksonville-jaguars,509,Opponents,36,2017
+1,2,41,77,0,0,0,64.3,0,1,jacksonville-jaguars,"1,060",Russell AllenR. Allen,52,2017
+2,46,18,0,0,0.00,1.0,0.00,Tyson AlualuT. Alualu,4.0,jacksonville-jaguars,64,0,0,2017
+0,0,2,71,65,"3,955",0,68.0,0,0,jacksonville-jaguars,41,Jacksonville,0,2017
+1,1,22,74,93,"6,034",0,60.8,1,4,jacksonville-jaguars,516,Opponents,37,2017
+2,0,43,72,0,0,0,64.9,0,0,jacksonville-jaguars,"1,033",Tyson AlualuT. Alualu,49,2017
+3,13,17,0,0,0.00,2.0,0.00,Alan BallA. Ball,3.0,jacksonville-jaguars,30,1,0,2017
+0,0,0,31,0,0,Tyson AlualuT. Alualu,0,0,0,jacksonville-jaguars,0,0.00,721,2017
+1,2.0,17.0,8,0,2,0,18,0.00,0,jacksonville-jaguars,Bryan AngerB. Anger,0,26,2017
+2,0.0,Thurston ArmbristerT. Armbrister,2,15,8,0,0,0,0.00,jacksonville-jaguars,0,0,0.0,2017
+0,0,4,13,71,55,Opponents,2,"5,874",93,jacksonville-jaguars,0,63.2,273,2017
+1,1,0,37,0,0,Tyson AlualuT. Alualu,1,0,0,jacksonville-jaguars,0,0.00,881,2017
+2,2.5,14.0,8,0,46,0,29,0.00,0,jacksonville-jaguars,Prince AmukamaraP. Amukamara,0,37,2017
+3,0.0,Richard AshR. Ash,49,1,3,0,3,0,0.00,jacksonville-jaguars,0,0,0.0,2017
+0,0.0,0.0,0,0,1,0,3,0.00,0,jacksonville-jaguars,Michael BennettM. Bennett,0,3,2017
+1,0.0,Tommy BohanonT. Bohanon,1,2,0,0,0,0,0.00,jacksonville-jaguars,0,0,0.0,2017
+2,Blake BortlesB. Bortles,0,0.0,0,1,0.00,2,0,0,jacksonville-jaguars,0,1,0.0,2017
+3,6,70,0.0,56,0.0,51,0.0,53,0,jacksonville-jaguars,11.67,3,A.J. BouyeA. Bouye,2017
+0,0.00,0,0,22.5,Greg FavorsG. Favors,7,Keith EmbrayK. Embray,10,3,tennessee-titans,0,3.5,0,2017
+1,0,0,0,Jason FiskJ. Fisk,0,9,0,5.5,39,tennessee-titans,30,50.5,0.00,2017
+0,11.0,Frank ChamberlinF. Chamberlin,36,13,5,0,8,0,0.00,tennessee-titans,0,0,2.0,2017
+1,Chris ColemanC. Coleman,0,1.0,0,5,0.00,18,0,0,tennessee-titans,0,5,4.0,2017
+0,101,26,5,0,0.00,1.0,5.00,Rocky CalmusR. Calmus,6.0,tennessee-titans,127,0,0,2017
+1,7,18,0,0.00,0,0.0,0,0,Kevin CarterK. Carter,tennessee-titans,0.0,0,11,2017
+0,0,0,0,Eddie BerlinE. Berlin,0,3,1,0.0,23,tennessee-titans,20,0.0,0.00,2017
+1,0,5,0.00,2,70,7,0,0.0,0.0,tennessee-titans,2,Rocky BoimanR. Boiman,0,2017
+0,8,2,0,0,0.00,0.0,0.00,Rocky BoimanR. Boiman,0.0,tennessee-titans,10,0,0,2017
+1,11,19,0,0.00,0,0.0,0,0,Chris BrownC. Brown,tennessee-titans,0.0,0,8,2017
+0,0,0.00,Rich GardnerR. Gardner,0.0,0.0,0,0.0,4,7,tennessee-titans,0,11,0,2017
+1,0.00,0,0,0.0,Albert HaynesworthA. Haynesworth,1,Justin HartwigJ. Hartwig,1,0,tennessee-titans,0,0.0,0,2017
+0,144,2.5,100,0,0,Sean ConoverS. Conover,0,0,0,tennessee-titans,10.0,0.00,44,2017
+1,0.0,0.0,4,0,9,0,5,0.00,0,tennessee-titans,Casey CramerC. Cramer,0,9,2017
+0,0.0,Jorge CordovaJ. Cordova,1,1,0,0,0,0,0.00,tennessee-titans,0,0,0.0,2017
+1,Casey CramerC. Cramer,0,0.0,0,3,0.00,1,0,0,tennessee-titans,0,3,0.0,2017
+0,0,0.00,Keith BulluckK. Bulluck,0.5,3.5,0,23.0,23,75,tennessee-titans,0,98,0,2017
+1,0.00,0,1,0.0,Kerry CollinsK. Collins,29,Chris CarrC. Carr,32,3,tennessee-titans,0,0.0,0,2017
+0,Rob BironasR. Bironas,0,0.0,0,1,0.00,19,0,0,tennessee-titans,0,1,0.0,2017
+1,0,0,0.0,38,5.0,0,0.0,28,0,tennessee-titans,0.00,10,Tony BrownT. Brown,2017
+2,45,15.00,Keith BulluckK. Bulluck,0.0,0.0,0,33.0,27,81,tennessee-titans,23,108,3,2017
+0,64.8,72,86,1,0,0,Opponents,"1,556",64,tennessee-titans,22,1,"5,569",2017
+1,0.00,0,0,0.0,Eugene AmanoE. Amano,3,Collin AllredC. Allred,5,2,tennessee-titans,0,0.0,0,2017
+2,0,0,0,Ken AmatoK. Amato,0,1,0,0.0,1,tennessee-titans,0,0.0,0.00,2017
+0,2,30,73,75,"4,787",0,62.1,1,2,tennessee-titans,680,Opponents,44,2017
+1,1,32,73,0,0,1,63.8,0,2,tennessee-titans,832,Eugene AmanoE. Amano,40,2017
+2,1,0,0,0,0.00,0.0,0.00,Ken AmatoK. Amato,0.0,tennessee-titans,1,0,0,2017
+0,2,33,73,99,"6,264",1,61.9,0,3,tennessee-titans,860,Opponents,37,2017
+1,2,63,73,0,0,1,63.3,1,2,tennessee-titans,"1,489",Xavier AdibiX. Adibi,33,2017
+2,2,0,0,0,0.00,0.0,0.00,Al AfalavaA. Afalava,0.0,tennessee-titans,2,1,0,2017
+0,0,0,0,Jackie BattleJ. Battle,0,1,0,0.0,9,tennessee-titans,8,0.0,0.00,2017
+1,0,5,0.00,0,0,7,0,0.0,0.0,tennessee-titans,2,Rob BironasR. Bironas,0,2017
+2,4,0,0,0,0.00,0.0,0.00,Beau BrinkleyB. Brinkley,0.0,tennessee-titans,4,0,0,2017
+3,2,4,0,0.00,0,0.0,0,0,Kenny BrittK. Britt,tennessee-titans,0.0,0,2,2017
+0,1,3,31,72,47,Opponents,0,"6,126",97,tennessee-titans,0,63.2,855,2017
+1,0,1,48,0,0,James AndersonJ. Anderson,0,0,0,tennessee-titans,1,0.00,"1,121",2017
+2,0.0,0.0,1,0,1,0,5,0.00,0,tennessee-titans,Antonio AndrewsA. Andrews,0,6,2017
+3,0.0,Akeem AyersA. Ayers,1,1,2,0,0,0,0.00,tennessee-titans,0,0,0.0,2017
+0,0,0,599,58,0,91,22,65.4,"5,952",tennessee-titans,Opponents,72,0,2017
+1,0,0,682,0,1,0,33,0.00,0,tennessee-titans,Antonio AndrewsA. Andrews,0,0,2017
+2,0.0,David BassD. Bass,1,23,13,8,0,8,8.00,tennessee-titans,1,0,0.0,2017
+0,0,1,59,83,"5,145",0,59.0,0,0,tennessee-titans,10,Tennessee,0,2017
+1,2,21,77,86,"5,034",0,62.0,0,3,tennessee-titans,462,Opponents,58,2017
+2,3,33,79,0,0,0,58.5,3,7,tennessee-titans,629,Mehdi AbdesmadM. Abdesmad,45,2017
+3,1,0,0,0,0.00,0.0,0.00,Antonio AndrewsA. Andrews,0.0,tennessee-titans,1,0,0,2017
+0,0,32,76,87,"5,382",0,64.0,0,1,tennessee-titans,750,Opponents,47,2017
+1,0,28,72,0,0,0,61.9,0,3,tennessee-titans,618,Daren BatesD. Bates,56,2017
+2,7,1,0,0,0.00,0.0,0.00,Beau BrinkleyB. Brinkley,0.0,tennessee-titans,8,0,0,2017
+0,0.0,0.0,3,0,8,0,21,0.00,0,denver-broncos,Glenn CadrezG. Cadrez,0,24,2017
+1,0.0,Cooper CarlisleC. Carlisle,8,1,0,0,0,0,0.00,denver-broncos,0,0,0.0,2017
+0,1,0,0,0,0.00,0.0,0.00,Darius ClarkD. Clark,0.0,denver-broncos,1,0,0,2017
+1,1,3,0,0.00,0,0.0,0,0,Desmond ClarkD. Clark,denver-broncos,0.0,0,2,2017
+0,5,29,0,0.00,0,13.0,0,0,Reuben DroughnsR. Droughns,denver-broncos,1.0,0,24,2017
+1,13,0.0,11,0,0,Jason ElamJ. Elam,0,0,0,denver-broncos,0.0,0.00,2,2017
+0,0,2,0,0.00,0,0.0,0,0,Chris ColeC. Cole,denver-broncos,0.0,0,2,2017
+1,3,0.0,3,0,0,Dorsett DavisD. Davis,0,0,0,denver-broncos,0.0,0.00,0,2017
+0,6,3,0,0,0.00,1.0,0.00,Marco ColemanM. Coleman,12.0,denver-broncos,9,0,0,2017
+1,7,28,0,0.00,0,14.5,0,0,Reuben DroughnsR. Droughns,denver-broncos,2.5,0,21,2017
+0,0,0,0,Champ BaileyC. Bailey,8,1,0,0.0,1,denver-broncos,0,0.0,0.00,2017
+1,2,60,17.38,0,0,66,139,0.0,0.0,denver-broncos,6,Sam BrandonS. Brandon,65t,2017
+0,4,0,0,0,0.00,0.0,0.00,Cooper CarlisleC. Carlisle,0.0,denver-broncos,4,0,0,2017
+1,0,1,0,0.00,0,0.0,0,0,Patrick ChukwurahP. Chukwurah,denver-broncos,0.0,0,1,2017
+0,0,0.00,Antwon BurtonA. Burton,0.0,0.0,0,11.0,0,4,denver-broncos,0,4,0,2017
+1,0.00,0,0,0.0,Brian ClarkB. Clark,7,Steve CargileS. Cargile,7,0,denver-broncos,0,0.0,0,2017
+0,0.0,Ryan CladyR. Clady,62,1,0,0,8,0,0.00,denver-broncos,0,0,0.0,2017
+1,Nic ClemonsN. Clemons,0,0.0,6,13,0.00,1,0,0,denver-broncos,0,7,0.0,2017
+0,0,1,0.00,0,0,1,0,0.0,0.0,denver-broncos,0,Tony CarterT. Carter,0,2017
+1,3,0,0,0,0.00,0.0,0.00,Andra DavisA. Davis,0.0,denver-broncos,3,0,0,2017
+2,23,90,0,0.00,0,27.0,0,2,Brian DawkinsB. Dawkins,denver-broncos,3.5,0,67,2017
+0,98,"6,364",2,"1,435",1,76,5,2,36,denver-broncos,64.9,59,Opponents,2017
+1,0,0,0,4,0.0,0,2,3,0,denver-broncos,0.00,1,Kevin AlexanderK. Alexander,2017
+2,0,0.00,Robert AyersR. Ayers,1.5,6.5,0,0.0,7,32,denver-broncos,0,39,0,2017
+3,0.00,0,2,9.0,Lance BallL. Ball,41,Champ BaileyC. Bailey,45,4,denver-broncos,0,1.0,0,2017
+4,0,0,0,Justin BannanJ. Bannan,0,0,0,0.0,2,denver-broncos,2,0.0,0.00,2017
+0,0,0,0,Lance BallL. Ball,0,4,2,0.0,39,denver-broncos,35,0.0,0.00,2017
+1,0,7,0.00,0,0,7,0,0.0,0.0,denver-broncos,0,David BrutonD. Bruton,0,2017
+2,19,2,0,0,0.00,0.0,0.00,Brodrick BunkleyB. Bunkley,0.0,denver-broncos,21,0,0,2017
+3,10,43,0,0.00,0,0.0,0,0,Rafael BushR. Bush,denver-broncos,0.0,0,33,2017
+0,0,0,34,72,36,Opponents,0,"4,254",72,denver-broncos,0,59.1,751,2017
+1,1,8,28,0,0,Mike AdamsM. Adams,0,0,0,denver-broncos,1,0.00,646,2017
+2,1.0,2.0,20,0,8,0,60,0.00,0,denver-broncos,Robert AyersR. Ayers,0,80,2017
+3,18.0,Champ BaileyC. Bailey,16,61,5,18,8,18,9.00,denver-broncos,2,0,2.0,2017
+0,Mike AdamsM. Adams,1,4,16,64,3.00,1,0,3,denver-broncos,3,48,0,2017
+1,0,0,0.0,29,5.5,0,0.0,23,0,denver-broncos,0.00,6,Robert AyersR. Ayers,2017
+2,0,0.00,Champ BaileyC. Bailey,0.0,0.0,0,34.5,2,12,denver-broncos,0,14,0,2017
+3,0.00,0,0,0.0,Zane BeadlesZ. Beadles,6,Montee BallM. Ball,6,0,denver-broncos,0,0.0,0,2017
+0,0,Denver,0,0,35,"6,437",199,73,65.0,denver-broncos,99,64,0,2017
+1,0,Opponents,0,0,32,"4,905",905,79,61.3,denver-broncos,80,44,0,2017
+2,1,C.J. AndersonC. Anderson,0,1,0,0,802,0,0.00,denver-broncos,0,0,4,2017
+3,Marvin AustinM. Austin,0,0.0,4,12,0.00,1,0,0,denver-broncos,0,8,0.0,2017
+0,27,561,45,0,0.00,2,74,C.J. AndersonC. Anderson,0,denver-broncos,0,0,0,2017
+1,0,5,0,0.00,0,0.0,0,0,Kenny AnunikeK. Anunike,denver-broncos,0.0,0,5,2017
+2,1,0.0,0,0,0,Shaquil BarrettS. Barrett,0,0,0,denver-broncos,0.0,0.00,1,2017
+3,5.5,39.0,15,0,1,0,35,0.00,0,denver-broncos,Kapri BibbsK. Bibbs,0,50,2017
+0,0,0,0,Kapri BibbsK. Bibbs,0,13,0,1.5,36,denver-broncos,23,14.5,0.00,2017
+1,0,2,0.00,0,0,2,0,0.0,0.0,denver-broncos,0,Devontae BookerD. Booker,0,2017
+2,1,0,0,0,0.00,0.0,0.00,Jared CrickJ. Crick,0.0,denver-broncos,1,0,0,2017
+3,21,53,0,0.00,0,17.5,0,0,Todd DavisT. Davis,denver-broncos,3.0,0,32,2017
+0,0.00,0,0,0.0,Devontae BookerD. Booker,3,Garett BollesG. Bolles,3,0,denver-broncos,0,0.0,0,2017
+1,0,0,0,Jamal CarterJ. Carter,0,0,0,0.0,2,denver-broncos,2,0.0,0.00,2017
+2,0,9,0.00,0,0,11,0,0.0,0.0,denver-broncos,2,Jamaal CharlesJ. Charles,0,2017
+3,1,0,0,0,0.00,0.0,0.00,Todd DavisT. Davis,0.0,denver-broncos,1,0,0,2017
+0,33.00,33,1,6.0,Duane ClemonsD. Clemons,29,Lewis BushL. Bush,33,4,kansas-city-chiefs,0,1.0,33,2017
+1,0,0,0,Mike CloudM. Cloud,0,9,0,7.5,56,kansas-city-chiefs,47,37.5,0.00,2017
+0,0,0.00,John BrowningJ. Browning,1.5,18.5,0,0.0,5,15,kansas-city-chiefs,0,20,0,2017
+1,0.00,0,0,0.0,Glenn CadrezG. Cadrez,26,Lewis BushL. Bush,32,6,kansas-city-chiefs,0,0.0,0,2017
+0,0.0,Jason BelserJ. Belser,12,48,14,45,2,45,45.00,kansas-city-chiefs,1,0,0.0,2017
+1,Derrick BlaylockD. Blaylock,0,0.0,0,4,0.00,62,0,0,kansas-city-chiefs,0,4,0.0,2017
+0,0,0,0,John BrowningJ. Browning,0,1,0,0.0,5,kansas-city-chiefs,4,0.0,0.00,2017
+1,0,37,0.00,0,0,42,0,1.0,0.5,kansas-city-chiefs,5,Quinton CaverQ. Caver,0,2017
+0,0,44,-1.00,0,0,55,-1,17.5,2.5,kansas-city-chiefs,11,Derrick BlaylockD. Blaylock,-1,2017
+1,6,0,0,0,0.00,0.0,0.00,Chris BoberC. Bober,0.0,kansas-city-chiefs,6,0,0,2017
+0,0,0.00,Dee BrownD. Brown,0.0,0.0,0,0.0,0,2,kansas-city-chiefs,0,2,0,2017
+1,0.00,0,0,14.0,Dustin ColquittD. Colquitt,31,John BrowningJ. Browning,35,4,kansas-city-chiefs,0,2.0,0,2017
+0,20,2.5,15,0,0,Keyaron FoxK. Fox,0,0,0,kansas-city-chiefs,11.5,0.00,5,2017
+1,1.0,5.0,8,0,2,0,44,0.00,0,kansas-city-chiefs,Kendall GammonK. Gammon,0,52,2017
+0,8,0.0,6,0,0,Michael BennettM. Bennett,0,0,0,kansas-city-chiefs,0.0,0.00,2,2017
+1,0.0,0.0,0,0,19,0,1,0.00,0,kansas-city-chiefs,Alfonso BooneA. Boone,0,1,2017
+0,1.0,8.0,1,0,2,0,17,0.00,0,kansas-city-chiefs,Dwayne BoweD. Bowe,0,18,2017
+1,0.0,Tyron BrackenridgeT. Brackenridge,2,5,1,0,0,0,0.00,kansas-city-chiefs,0,0,0.0,2017
+0,0,79,4.33,1,31,103,13,24.0,2.0,kansas-city-chiefs,24,Brandon CarrB. Carr,10,2017
+1,56,6,31,0,0.00,0.0,31.00,Matt CasselM. Cassel,0.0,kansas-city-chiefs,62,0,0,2017
+2,0,4,0,0.00,0,0.0,0,0,Tim CastilleT. Castille,kansas-city-chiefs,0.0,0,4,2017
+3,5,0.0,5,0,0,Chris ChambersC. Chambers,0,0,0,kansas-city-chiefs,0.0,0.00,0,2017
+0,36,7,0,0,0.00,3.0,0.00,Jackie BatesJ. Bates,29.0,kansas-city-chiefs,43,0,0,2017
+1,0,1,0,0.00,0,0.0,0,0,Jackie BattleJ. Battle,kansas-city-chiefs,0.0,0,1,2017
+2,11,0.0,8,0,0,Jovan BelcherJ. Belcher,0,0,0,kansas-city-chiefs,0.0,0.00,3,2017
+0,Branden AlbertB. Albert,0,2,0,2,0.00,0,0,0,kansas-city-chiefs,0,2,0,2017
+1,2,5,0.0,33,1.0,5,0.0,26,0,kansas-city-chiefs,2.50,7,Javier ArenasJ. Arenas,2017
+2,0,0.00,Jon AsamoahJ. Asamoah,0.0,0.0,0,6.0,0,2,kansas-city-chiefs,0,2,0,2017
+3,0.00,0,0,9.0,Jonathan BaldwinJ. Baldwin,8,Allen BaileyA. Bailey,10,2,kansas-city-chiefs,0,1.0,0,2017
+0,0,54,0.00,0,0,61,0,0.0,0.0,kansas-city-chiefs,7,Jon AsamoahJ. Asamoah,0,2017
+1,2,0,0,0,0.00,0.0,0.00,Allen BaileyA. Bailey,0.0,kansas-city-chiefs,2,0,0,2017
+2,2,5,0,0.00,0,0.0,0,0,Jonathan BaldwinJ. Baldwin,kansas-city-chiefs,0.0,0,3,2017
+0,1,77,0,23,0,77,0,0,0,kansas-city-chiefs,77.0,1,Dustin ColquittD. Colquitt,2017
+1,92,"5,937",0,"1,048",0,77,0,2,47,kansas-city-chiefs,64.5,43,Kansas City,2017
+2,71,"4,595",0,"1,316",2,74,0,0,27,kansas-city-chiefs,64.7,44,Opponents,2017
+3,1,44,0,27,0.5,44t,0,22,1,kansas-city-chiefs,44.00,5,Husain AbdullahH. Abdullah,2017
+0,0,1,54,74,18,Opponents,0,"4,523",70,kansas-city-chiefs,0,64.6,"1,293",2017
+1,1,1,51,39t,1,Husain AbdullahH. Abdullah,0,39,1,kansas-city-chiefs,0,39.00,"1,430",2017
+2,0.0,0.0,13,0,1,0,58,0.00,0,kansas-city-chiefs,Jason AvantJ. Avant,0,71,2017
+3,0.0,Donnie AveryD. Avery,1,2,0,0,0,0,0.00,kansas-city-chiefs,0,0,0.0,2017
+0,0,6,35,0,0,Husain AbdullahH. Abdullah,1,0,0,kansas-city-chiefs,0,0.00,791,2017
+1,0.0,0.0,5,0,12,0,24,0.00,0,kansas-city-chiefs,D.J. AlexanderD. Alexander,0,29,2017
+2,0.0,Allen BaileyA. Bailey,13,26,12,0,1,0,0.00,kansas-city-chiefs,0,0,0.0,2017
+0,1,35,69,74,"4,566",0,62.3,0,2,kansas-city-chiefs,843,Opponents,48,2017
+1,2,40,73,0,0,1,61.7,0,3,kansas-city-chiefs,943,Kenneth AckerK. Acker,30,2017
+2,16,1,0,0,0.00,0.0,0.00,D.J. AlexanderD. Alexander,0.0,kansas-city-chiefs,17,0,0,2017
+0,"6,232",64.2,Kansas City,0,0,71,0,25,0,kansas-city-chiefs,74,486,97,2017
+1,"4,537",61.3,Opponents,0,4,24,0,47,0,kansas-city-chiefs,73,"1,051",74,2017
+2,9,9.00,Kenneth AckerK. Acker,0.0,0.0,0,2,2,21,kansas-city-chiefs,9,23,1,2017
+3,0.00,0,0,8.0,Eric BerryE. Berry,21,Allen BaileyA. Bailey,38,17,kansas-city-chiefs,0,2.0,0,2017
+4,0,0,0,Orson CharlesO. Charles,0,3,0,0.0,7,kansas-city-chiefs,4,0.0,0.00,2017
+0,0,1,0/0,6/8,2/8,37/42,0/0,0/0,20/30,los-angeles-chargers,LA Chargers,11/11,0/0,2017
+1,Opponents,23/26,50,4/6,54,0/0,1/3,8/8,5/5,los-angeles-chargers,23/27,6/8,97,2017
+2,"2,023",63.2,Nick NovakN. Novak,0,0,9,92,23,0,los-angeles-chargers,69,564,32,2017
+3,943,62.9,Travis CoonsT. Coons,0,0,4,0,11,0,los-angeles-chargers,65,254,15,2017
+4,922,65.9,Younghoe KooY. Koo,0,0,8,0,6,0,los-angeles-chargers,78,173,14,2017
+5,589,65.4,Nick RoseN. Rose,0,0,8,0,1,0,los-angeles-chargers,69,29,9,2017
+6,449,64.1,Drew KaserD. Kaser,0,0,2,0,5,0,los-angeles-chargers,73,130,7,2017
+0,100,34,0,0,0.00,2.0,0.00,Calvin BranchC. Branch,7.0,oakland-raiders,134,0,0,2017
+1,2,13,0,0.00,0,0.0,0,0,Jeremy BrighamJ. Brigham,oakland-raiders,0.0,0,11,2017
+0,Tim BrownT. Brown,0,0.0,0,1,0.00,16,0,0,oakland-raiders,0,1,0.0,2017
+1,0,0,0.0,41,5.0,0,0.0,28,0,oakland-raiders,0.00,13,Tony BryantT. Bryant,2017
+0,0,0,0,Chris CooperC. Cooper,0,0,0,0.0,3,oakland-raiders,3,0.0,0.00,2017
+1,0,14,0.00,0,0,19,0,4.0,1.0,oakland-raiders,5,Zack CrockettZ. Crockett,0,2017
+0,0.0,Roderick ColemanR. Coleman,44,44,8,0,2,0,0.00,oakland-raiders,0,0,0.0,2017
+1,Mo CollinsM. Collins,0,5.5,0,2,0.00,52,0,0,oakland-raiders,0,2,46.0,2017
+0,0,0,0.0,130,2.0,0,0.0,99,0,oakland-raiders,0.00,31,Danny ClarkD. Clark,2017
+1,0,0.00,Kerry CollinsK. Collins,0.0,0.0,0,16.0,0,1,oakland-raiders,0,1,0,2017
+0,16.0,104.0,6,0,7,0,52,0.00,0,oakland-raiders,Chris CarrC. Carr,0,58,2017
+1,0.0,Danny ClarkD. Clark,9,82,31,0,2,0,0.00,oakland-raiders,0,0,0.0,2017
+0,0,0.00,Aaron BrooksA. Brooks,0.0,0.0,0,0.0,0,2,oakland-raiders,0,2,0,2017
+1,0.00,0,0,0.0,Derrick BurgessD. Burgess,7,Ricky BrownR. Brown,8,1,oakland-raiders,0,0.0,0,2017
+0,0.0,Chris ClemonsC. Clemons,28,15,5,0,4,0,0.00,oakland-raiders,0,0,0.0,2017
+1,Jon CondoJ. Condo,0,8.0,2,8,0.00,20,0,0,oakland-raiders,0,6,54.0,2017
+0,2,10,0,0.00,0,0.0,36,0,Ricky BrownR. Brown,oakland-raiders,0.0,0,8,2017
+1,37,0.0,28,0,0,Derrick BurgessD. Burgess,0,0,0,oakland-raiders,0.0,0.00,9,2017
+0,0.00,0,0,0.0,John BowieJ. Bowie,1,Khalif BarnesK. Barnes,1,0,oakland-raiders,0,0.0,0,2017
+1,0,0,0,Jerome BoydJ. Boyd,0,0,0,0.0,1,oakland-raiders,1,0.0,0.00,2017
+2,0,2,0.00,0,0,2,0,0.0,0.0,oakland-raiders,0,Tyvon BranchT. Branch,0,2017
+3,98,26,0,0,0.00,1.0,0.00,Ricky BrownR. Brown,12.0,oakland-raiders,124,0,0,2017
+0,5,13,0,0.00,0,0.0,0,0,Stevie BrownS. Brown,oakland-raiders,0.0,0,8,2017
+1,30,0.0,25,0,0,Desmond BryantD. Bryant,0,0,0,oakland-raiders,0.0,0.00,5,2017
+2,2.5,18.0,6,0,15,0,15,0.00,0,oakland-raiders,Rock CartwrightR. Cartwright,0,21,2017
+0,0,0,0,Kevin BossK. Boss,0,5,0,0.0,20,oakland-raiders,15,0.0,0.00,2017
+1,0,2,0.00,0,0,2,0,0.0,0.0,oakland-raiders,0,Jerome BoydJ. Boyd,0,2017
+2,20,5,0,0,0.00,0.0,0.00,Tyvon BranchT. Branch,0.0,oakland-raiders,25,1,0,2017
+3,29,109,0,0.00,0,10.0,0,0,Desmond BryantD. Bryant,oakland-raiders,1.0,0,80,2017
+0,2,0,1,15,0.0,0,2,13,0,oakland-raiders,0.00,2,Phillip AdamsP. Adams,2017
+1,0,0.00,David AusberryD. Ausberry,0.0,0.0,0,0.0,3,3,oakland-raiders,0,6,0,2017
+2,0.00,0,0,0.0,Ronald BartellR. Bartell,2,Khalif BarnesK. Barnes,2,0,oakland-raiders,0,0.0,0,2017
+0,1.0,2.0,1,0,6,0,4,0.00,0,oakland-raiders,Kaelin BurnettK. Burnett,0,5,2017
+1,0.0,Kevin BurnettK. Burnett,10,83,22,0,4,0,0.00,oakland-raiders,1,0,0.0,2017
+2,Miles BurrisM. Burris,0,2.5,1,4,0.00,105,0,0,oakland-raiders,0,3,20.5,2017
+0,6,0,683,48,0,97,21,64.7,"6,275",oakland-raiders,Opponents,80,0,2017
+1,2,0,"1,027",0,14,0,47,0.00,0,oakland-raiders,Ray-Ray ArmstrongR. Armstrong,0,0,2017
+2,0.0,Larry AsanteL. Asante,18,21,4,0,4,0,0.00,oakland-raiders,0,0,0.0,2017
+0,5,0,5,David AmersonD. Amerson,4,4,1,0.0,11,oakland-raiders,7,0.0,5.00,2017
+1,1,53,7.00,0,0,58,28,0.0,0.0,oakland-raiders,5,Ray-Ray ArmstrongR. Armstrong,24t,2017
+2,18,3,0,0,0.00,1.0,0.00,Larry AsanteL. Asante,3.0,oakland-raiders,21,0,0,2017
+3,7,30,0,0.00,0,0.0,0,0,Denico AutryD. Autry,oakland-raiders,0.0,0,23,2017
+0,0,45,75,84,"5,233",0,64.0,0,0,oakland-raiders,896,Opponents,43,2017
+1,3,26,72,2,5,0,62.3,0,1,oakland-raiders,534,Nate AllenN. Allen,55,2017
+2,24,9,4,0,0.00,0.0,2.50,David AmersonD. Amerson,0.0,oakland-raiders,33,2,0,2017
+0,0,6,34,0,0,Tyrell AdamsT. Adams,0,0,0,oakland-raiders,1,0.00,738,2017
+1,0.0,0.0,7,0,14,0,11,0.00,0,oakland-raiders,David AmersonD. Amerson,0,18,2017
+2,0.0,Denico AutryD. Autry,18,23,13,0,4,0,0.00,oakland-raiders,0,0,0.0,2017
+0,0,0,0,Randall CunninghamR. Cunningham,0,12,0,0.0,90,dallas-cowboys,78,0.0,0.00,2017
+1,0,2,0.00,0,0,2,0,0.0,0.0,dallas-cowboys,0,Mario EdwardsM. Edwards,0,2017
+0,1,1,0,0,0.00,0.0,0.00,Greg EllisG. Ellis,0.0,dallas-cowboys,2,0,0,2017
+1,16,61,0,0.00,0,9.0,0,0,Demetric EvansD. Evans,dallas-cowboys,6.0,0,45,2017
+0,29,0,29,Ebenezer EkubanE. Ekuban,0,4,2,0.0,57,dallas-cowboys,53,0.0,14.50,2017
+1,0,26,0.00,1,0,31,0,0.0,1.0,dallas-cowboys,5,Greg EllisG. Ellis,0,2017
+0,0,0.00,Dan CampbellD. Campbell,0.0,0.0,0,0.0,0,1,dallas-cowboys,0,1,0,2017
+1,0.00,0,0,8.0,Quincy CarterQ. Carter,13,Leonardo CarsonL. Carson,18,5,dallas-cowboys,0,1.5,0,2017
+0,0,2,0.00,0,0,2,0,0.0,0.0,dallas-cowboys,0,Keith DavisK. Davis,0,2017
+1,15,4,0,0,0.00,0.0,0.00,Tony DixonT. Dixon,0.0,dallas-cowboys,19,0,0,2017
+0,24,12,0,0,0.00,2.5,0.00,Quinton CaverQ. Caver,17.5,dallas-cowboys,36,0,0,2017
+1,1,3,0,0.00,0,0.0,0,0,Kenyon ColemanK. Coleman,dallas-cowboys,0.0,0,2,2017
+0,24,9,0,0,0.00,1.0,0.00,Bobby CarpenterB. Carpenter,2.0,dallas-cowboys,33,0,0,2017
+1,5,19,0,0.00,0,5.0,0,0,Kenyon ColemanK. Coleman,dallas-cowboys,1.5,0,14,2017
+0,0.0,0.0,0,0,9,0,3,0.00,0,dallas-cowboys,Stephen BowenS. Bowen,0,3,2017
+1,0.0,Courtney BrownC. Brown,14,4,2,0,5,0,0.00,dallas-cowboys,0,0,0.0,2017
+0,0,0.00,Martellus BennettM. Bennett,0.0,0.0,0,0.0,0,2,dallas-cowboys,0,2,0,2017
+1,0.00,0,0,0.0,Courtney BrownC. Brown,6,Stephen BowenS. Bowen,17,11,dallas-cowboys,0,0.0,0,2017
+0,2,0,"1,032",0,4,0,47,0.00,0,dallas-cowboys,Deon AndersonD. Anderson,0,0,2017
+1,0.0,Miles AustinM. Austin,9,3,0,0,5,0,0.00,dallas-cowboys,0,0,0.0,2017
+2,Alan BallA. Ball,0,0.0,5,31,0.00,3,0,0,dallas-cowboys,0,26,0.0,2017
+3,0,0,0.0,18,3.0,0,0.0,12,0,dallas-cowboys,0.00,6,Stephen BowenS. Bowen,2017
+0,0,0.00,Martellus BennettM. Bennett,0.0,0.0,0,6.0,0,1,dallas-cowboys,0,1,0,2017
+1,0.00,0,0,14.0,Keith BrookingK. Brooking,16,Stephen BowenS. Bowen,22,6,dallas-cowboys,0,1.5,0,2017
+2,41,0,41,Dez BryantD. Bryant,0,24,1,1.0,97,dallas-cowboys,73,9.0,41.00,2017
+3,0,1,0.00,0,0,1,0,0.0,0.0,dallas-cowboys,0,David BuehlerD. Buehler,0,2017
+0,11,0.0,8,0,0,Dan BaileyD. Bailey,0,0,0,dallas-cowboys,0.0,0.00,3,2017
+1,0.0,0.0,0,0,30,1,2,15.00,15,dallas-cowboys,Alan BallA. Ball,15,2,2017
+2,0.0,Martellus BennettM. Bennett,37,4,0,0,7,0,0.00,dallas-cowboys,0,0,0.0,2017
+3,Keith BrookingK. Brooking,0,0.0,16,50,0.00,4,0,0,dallas-cowboys,0,34,0.0,2017
+4,0,0,0.0,2,0.0,0,0.0,2,0,dallas-cowboys,0.00,0,Dez BryantD. Bryant,2017
+0,84,"5,089",1,"1,102",1,74,5,1,30,dallas-cowboys,60.6,50,Dallas,2017
+1,88,"5,541",1,741,0,74,5,0,49,dallas-cowboys,63.0,36,Opponents,2017
+2,0,0,0,31,0.0,0,3,25,0,dallas-cowboys,0.00,6,Alex AlbrightA. Albright,2017
+0,0,2,45,13,0,Will AllenW. Allen,1,13,1,dallas-cowboys,0,13.00,"1,147",2017
+1,0.0,0.0,4,0,1,0,5,0.00,0,dallas-cowboys,Marvin AustinM. Austin,0,9,2017
+2,0.0,Miles AustinM. Austin,1,1,0,0,0,0,0.00,dallas-cowboys,0,0,0.0,2017
+0,63.0,74,98,3,1,0,Dan BaileyD. Bailey,905,42,dallas-cowboys,52,0,"6,175",2017
+1,57.0,57,1,0,0,0,Chris JonesC. Jones,16,1,dallas-cowboys,0,0,57,2017
+2,62.9,74,99,3,1,0,Dallas,921,43,dallas-cowboys,52,0,"6,232",2017
+3,63.0,73,75,4,1,0,Opponents,790,33,dallas-cowboys,38,0,"4,726",2017
+0,0,0,0.0,1,0.0,0,0.0,1,0,dallas-cowboys,0.00,0,Mackenzy BernadeauM. Bernadeau,2017
+1,0,0.00,Brandon CarrB. Carr,0.0,0.0,0,0.0,16,60,dallas-cowboys,0,76,0,2017
+2,0.00,0,0,0.0,Morris ClaiborneM. Claiborne,78,Barry ChurchB. Church,117,39,dallas-cowboys,0,0.0,0,2017
+0,0,33,70,75,"4,468",0,64.0,0,1,dallas-cowboys,746,Opponents,57,2017
+1,2,24,70,0,0,0,59.6,0,5,dallas-cowboys,492,Richard AshR. Ash,45,2017
+2,2,0,0,0,0.00,0.0,0.00,Dan BaileyD. Bailey,0.0,dallas-cowboys,2,0,0,2017
+0,50,86,6/7,32,0,56,7/12,64.4,"3,605",dallas-cowboys,Dan BaileyD. Bailey,71,1/1,2017
+1,0,0,519,11,0,19,24,65.6,"1,246",dallas-cowboys,Mike NugentM. Nugent,72,0,2017
+2,0,0,190,2,0,5,8,61.6,308,dallas-cowboys,Jeff HeathJ. Heath,65,0,2017
+3,0,0,50,45,0,80,3,64.5,"5,159",dallas-cowboys,Dallas,72,0,2017
+4,0,0,759,47,0,73,35,64.6,"4,719",dallas-cowboys,Opponents,74,0,2017
+0,0.0,Greg ComellaG. Comella,1,5,0,0,0,0,0.00,new-york-giants,0,0,0.0,2017
+1,Howard CrossH. Cross,0,0.0,0,1,0.00,5,0,0,new-york-giants,0,1,0.0,2017
+0,0,3,0.00,0,0,3,0,0.0,0.0,new-york-giants,0,Ralph BrownR. Brown,0,2017
+1,4,3,0,0,0.00,0.0,0.00,Greg ComellaG. Comella,0.0,new-york-giants,7,0,0,2017
+0,0,0,0,Tim CarterT. Carter,0,0,0,0.0,1,new-york-giants,1,0.0,0.00,2017
+1,0,1,0.00,0,0,2,0,0.0,0.0,new-york-giants,1,Ryan ClarkR. Clark,0,2017
+0,7.0,Matt BryantM. Bryant,34,4,0,0,5,0,0.00,new-york-giants,0,0,1.0,2017
+1,Tim CarterT. Carter,0,0.0,0,2,0.00,4,0,0,new-york-giants,0,2,0.0,2017
+0,Lorenzo BromellL. Bromell,0,0.0,0,3,0.00,17,0,0,new-york-giants,0,3,0.0,2017
+1,1,12,0.0,23,0.0,12,0.0,19,0,new-york-giants,12.00,4,Curry BurnsC. Burns,2017
+0,Plaxico BurressP. Burress,0,0.0,0,3,0.00,31,0,0,new-york-giants,0,3,0.0,2017
+1,2,16,0.0,35,0.0,16,0.0,30,0,new-york-giants,8.00,5,James ButlerJ. Butler,2017
+0,0.0,0.0,2,0,3,0,14,0.00,0,new-york-giants,Plaxico BurressP. Burress,0,16,2017
+1,0.0,James ButlerJ. Butler,3,24,3,0,0,0,0.00,new-york-giants,0,0,0.0,2017
+0,45,16,0,0,0.00,0.0,0.00,Barry CofieldB. Cofield,0.0,new-york-giants,61,0,0,2017
+1,5,34,0,0.00,0,7.0,0,0,Craig DahlC. Dahl,new-york-giants,1.0,0,29,2017
+0,Barry CofieldB. Cofield,0,0.0,12,44,0.00,4,0,0,new-york-giants,0,32,0.0,2017
+1,0,0,14.0,12,0.0,0,3.0,10,0,new-york-giants,0.00,2,Zak DeOssieZ. DeOssie,2017
+0,Kevin BossK. Boss,0,1.0,0,3,0.00,84,0,0,new-york-giants,0,3,5.0,2017
+1,0,0,0.0,3,0.0,0,0.0,3,0,new-york-giants,0.00,0,Ahmad BradshawA. Bradshaw,2017
+2,0,0.00,Ceandris BrownC. Brown,0.0,0.0,0,0.0,10,59,new-york-giants,0,69,0,2017
+0,Opponents,76,0,57,"1,082",61.2,0,15,75,new-york-giants,"4,650",1,0,2017
+1,Shawn AndrewsS. Andrews,0,3,0,1,0.00,0,0,0,new-york-giants,0,1,1,2017
+2,0,0,0.0,5,0.0,0,0.0,4,0,new-york-giants,0.00,1,Travis BeckumT. Beckum,2017
+3,0,0.00,Rocky BernardR. Bernard,2.0,5.0,0,0.0,2,16,new-york-giants,0,18,0,2017
+4,0.00,0,0,0.0,Will BlackmonW. Blackmon,16,Chase BlackburnC. Blackburn,20,4,new-york-giants,0,0.0,0,2017
+0,1,0.0,1,0,0,Travis BeckumT. Beckum,0,0,0,new-york-giants,0.0,0.00,0,2017
+1,0.0,0.0,1,0,15,0,1,0.00,0,new-york-giants,Rocky BernardR. Bernard,0,2,2017
+2,0.0,Chase BlackburnC. Blackburn,30,20,6,9,15,9,9.00,new-york-giants,1,0,0.0,2017
+3,Will BlackmonW. Blackmon,0,0.0,1,6,0.00,26,0,0,new-york-giants,0,5,0.0,2017
+0,0,70,72,79,"4,992",0,63.9,0,1,new-york-giants,"1,662",Opponents,24,2017
+1,0,63,72,1,0,1,63.2,1,2,new-york-giants,"1,648",Prince AmukamaraP. Amukamara,14,2017
+2,45,8,0,0,0.00,0.0,0.00,Marvin AustinM. Austin,0.0,new-york-giants,53,0,0,2017
+0,9,0,9,William BeattyW. Beatty,0,28,1,0.0,93,new-york-giants,65,0.0,9.00,2017
+1,0,5,0.00,0,0,5,0,0.0,0.0,new-york-giants,0,Kevin BootheK. Boothe,0,2017
+2,1,0,0,0,0.00,0.0,0.00,Allen BradfordA. Bradford,0.0,new-york-giants,1,0,0,2017
+3,1,4,0,0.00,0,0.0,0,0,Andre BrownA. Brown,new-york-giants,0.0,0,3,2017
+0,0,2,44,38,0,Prince AmukamaraP. Amukamara,1,66,3,new-york-giants,0,22.00,"1,025",2017
+1,0.0,0.0,9,0,18,0,37,0.00,0,new-york-giants,Robert AyersR. Ayers,0,46,2017
+2,37.0,Jon BeasonJ. Beason,22,6,5,0,4,0,0.00,new-york-giants,0,0,5.0,2017
+0,1,54,75,96,"6,086",1,61.3,0,2,new-york-giants,"1,095",Opponents,37,2017
+1,1,39,72,1,6,1,63.4,0,2,new-york-giants,960,Prince AmukamaraP. Amukamara,56,2017
+2,55,8,6,0,0.00,0.0,6.00,Robert AyersR. Ayers,0.0,new-york-giants,63,0,0,2017
+0,24,"1,452",0,146,0,74,1,1,15,new-york-giants,60.5,8,Josh BrownJ. Brown,2017
+1,4,255,0,21,0,65,0,0,3,new-york-giants,63.8,1,Randy BullockR. Bullock,2017
+2,1,67,0,23,0,67,0,0,0,new-york-giants,67.0,1,Brad WingB. Wing,2017
+3,72,"4,445",0,730,0,74,0,2,37,new-york-giants,61.7,32,NY Giants,2017
+4,74,"4,735",0,739,0,70,1,1,42,new-york-giants,64.0,31,Opponents,2017
+5,1,19,0,46,0.0,19,0,31,0,new-york-giants,19.00,15,Andrew AdamsA. Adams,2017
+0,0,0,0.0,4,0.0,0,0.0,3,0,new-york-giants,0.00,1,Jerell AdamsJ. Adams,2017
+1,0,0.00,Eli AppleE. Apple,0.0,0.0,0,0.0,8,41,new-york-giants,0,49,0,2017
+2,0.00,0,0,0.0,Akeem AyersA. Ayers,5,Ray-Ray ArmstrongR. Armstrong,10,5,new-york-giants,0,0.0,0,2017
+0,0,0,0.0,7,0.0,0,0.0,7,0,philadelphia-eagles,0.00,0,Je'Rod CherryJ. Cherry,2017
+1,0,0.00,Rashard CookR. Cook,0.0,0.0,0,0.0,2,6,philadelphia-eagles,0,8,0,2017
+0,0.0,Rashard CookR. Cook,11,24,4,11,3,11,11.00,philadelphia-eagles,1,0,0.0,2017
+1,Darrel CrutchfieldD. Crutchfield,0,1.0,1,2,0.00,28,0,0,philadelphia-eagles,0,1,11.0,2017
+0,12,41,0,20.50,29,14.0,0,2,Sheldon BrownS. Brown,philadelphia-eagles,2.0,41,29,2017
+1,17,1.0,13,0,0,Derrick BurgessD. Burgess,0,0,0,philadelphia-eagles,9.0,0.00,4,2017
+0,5.5,Kori DickersonK. Dickerson,35,3,0,0,7,0,0.00,philadelphia-eagles,0,0,0.5,2017
+1,Carlos EmmonsC. Emmons,0,0.0,20,85,0.00,3,0,0,philadelphia-eagles,0,65,0.0,2017
+0,0,2,0.00,1,20,2,0,9.0,1.0,philadelphia-eagles,0,Roderick HoodR. Hood,0,2017
+1,36,4,20,0,0.00,0.0,20.00,Dirk JohnsonD. Johnson,0.0,philadelphia-eagles,40,0,0,2017
+0,1.0,11.0,9,0,38,0,48,0.00,0,philadelphia-eagles,Trent ColeT. Cole,0,57,2017
+1,27.0,Sean ConsidineS. Considine,46,2,2,0,8,0,0.00,philadelphia-eagles,0,0,5.0,2017
+0,0,0.00,Correll BuckhalterC. Buckhalter,0.0,0.0,0,0.0,0,2,philadelphia-eagles,0,2,0,2017
+1,0.00,0,0,0.0,Trent ColeT. Cole,6,Brodrick BunkleyB. Bunkley,9,3,philadelphia-eagles,0,0.0,0,2017
+0,0,0,20.0,4,0.0,0,3.0,3,0,philadelphia-eagles,0.00,1,Brent CelekB. Celek,2017
+1,0,0.00,Trent ColeT. Cole,12.5,99.5,0,0.0,21,49,philadelphia-eagles,0,70,0,2017
+0,0.0,Brodrick BunkleyB. Bunkley,1,34,13,0,0,0,0.00,philadelphia-eagles,0,0,0.0,2017
+1,Chris ClemonsC. Clemons,0,2.0,3,15,0.00,47,0,0,philadelphia-eagles,0,12,1.0,2017
+0,0,13,0.00,0,0,16,0,17.5,2.0,philadelphia-eagles,3,David AkersD. Akers,0,2017
+1,2,0,0,0,0.00,0.0,0.00,Jason AvantJ. Avant,0.0,philadelphia-eagles,2,0,0,2017
+2,0,3,0,0.00,0,0.0,0,0,Jason BabinJ. Babin,philadelphia-eagles,0.0,0,3,2017
+0,0,17,0.00,0,0,17,0,0.0,0.0,philadelphia-eagles,0,Jason AvantJ. Avant,0,2017
+1,4,0,0,0,0.00,0.0,0.00,Antwan BarnesA. Barnes,0.0,philadelphia-eagles,4,0,0,2017
+2,0,3,0,0.00,0,0.0,0,1,Stewart BradleyS. Bradley,philadelphia-eagles,0.0,0,3,2017
+0,0.0,0.0,1,0,35,0,4,0.00,0,philadelphia-eagles,Jason BabinJ. Babin,0,5,2017
+1,107.0,Ronnie BrownR. Brown,40,2,0,0,5,0,0.00,philadelphia-eagles,0,0,18.0,2017
+2,Brent CelekB. Celek,0,0.0,0,2,0.00,2,0,0,philadelphia-eagles,0,2,0.0,2017
+0,13,73,0,4.00,4,0.0,0,1,Colt AndersonC. Anderson,philadelphia-eagles,0.0,4,60,2017
+1,34,0.0,31,0,0,Nnamdi AsomughaN. Asomugha,0,0,1,philadelphia-eagles,0.0,0.00,3,2017
+2,0.0,0.0,8,0,3,0,47,0.00,0,philadelphia-eagles,Jason AvantJ. Avant,0,55,2017
+0,0,52,71,87,"5,435",2,62.0,0,2,philadelphia-eagles,"1,229",Opponents,37,2017
+1,0,37,73,0,0,0,62.5,0,2,philadelphia-eagles,790,Emmanuel AchoE. Acho,48,2017
+2,1,1,0,43,43.00,0.0,0.00,Nate AllenN. Allen,0.0,philadelphia-eagles,2,1,0,2017
+0,2,1,33,0,0,Emmanuel AchoE. Acho,0,0,0,philadelphia-eagles,0,0.00,874,2017
+1,0.0,0.0,10,0,7,0,21,0.00,0,philadelphia-eagles,Beau AllenB. Allen,0,31,2017
+2,4.0,Nate AllenN. Allen,10,51,11,45,3,40,11.25,philadelphia-eagles,4,0,0.5,2017
+0,533,0,1,58.0,70,0,39,13,Cody ParkeyC. Parkey,philadelphia-eagles,2,754,26,2017
+1,172,0,1,60.8,70,0,3,81,Philadelphia,philadelphia-eagles,1,"4,925",8,2017
+2,705,0,2,62.2,70,0,42,93,Opponents,philadelphia-eagles,3,"5,781",34,2017
+3,565,0,1,0.00,0,1,63,0,Nelson AgholorN. Agholor,philadelphia-eagles,3,0,27,2017
+0,0,38,78,80,"5,040",0,62.5,0,3,philadelphia-eagles,712,Opponents,46,2017
+1,1,35,72,0,0,2,63.0,0,1,philadelphia-eagles,956,Nelson AgholorN. Agholor,43,2017
+2,3,0,0,0,0.00,0.0,0.00,Beau AllenB. Allen,0.0,philadelphia-eagles,3,0,0,2017
+0,0,Kamu Grugier-HillK. Grugier-Hill,0,0,3,248,77,65,62.0,philadelphia-eagles,4,1,0,2017
+1,0,Philadelphia,0,1,47,"5,834",81,72,62.1,philadelphia-eagles,94,45,0,2017
+2,1,Opponents,0,0,18,"4,317","1,015",74,62.6,philadelphia-eagles,69,49,1,2017
+3,0,Nelson AgholorN. Agholor,0,2,0,0,354,0,0.00,philadelphia-eagles,0,0,1,2017
+4,Jay AjayiJ. Ajayi,0,0.0,0,1,0.00,2,0,0,philadelphia-eagles,0,1,0.0,2017
+0,0.0,Shawn BarberS. Barber,62,58,7,0,5,0,0.00,washington-redskins,0,0,0.0,2017
+1,Mark CarrierM. Carrier,1,2.0,14,69,30.00,65,0,30,washington-redskins,30,55,19.0,2017
+0,1,0.0,1,0,0,Dorian BooseD. Boose,0,0,0,washington-redskins,0.0,0.00,0,2017
+1,0.0,0.0,1,0,1,0,7,0.00,0,washington-redskins,Matthew CampbellM. Campbell,0,8,2017
+0,0.00,0,0,0.0,Rock CartwrightR. Cartwright,1,Wilbert BrownW. Brown,1,0,washington-redskins,0,0.0,0,2017
+1,0,0,0,Delbert CowsetteD. Cowsette,0,1,0,0.0,4,washington-redskins,3,0.0,0.00,2017
+0,3,44,0.0,85,0.0,44,0.0,76,0,washington-redskins,14.67,9,Matt BowenM. Bowen,2017
+1,0,0.00,Trung CanidateT. Canidate,0.0,0.0,0,0.0,0,1,washington-redskins,0,1,0,2017
+0,15.0,Ray BrownR. Brown,23,2,0,0,4,0,0.00,washington-redskins,0,0,2.0,2017
+1,Khary CampbellK. Campbell,0,0.0,1,13,0.00,2,0,0,washington-redskins,0,12,0.0,2017
+0,0,1,0.00,0,0,1,0,0.0,0.0,washington-redskins,0,Khary CampbellK. Campbell,0,2017
+1,11,2,0,0,0.00,0.0,0.00,Rock CartwrightR. Cartwright,0.0,washington-redskins,13,0,0,2017
+0,Ladell BettsL. Betts,0,1.0,0,3,0.00,60,0,0,washington-redskins,0,3,5.0,2017
+1,0,0,0.0,4,0.0,0,0.0,4,0,washington-redskins,0.00,0,Ryan BoschettiR. Boschetti,2017
+0,0,0,0,Reed DoughtyR. Doughty,0,14,0,2.5,39,washington-redskins,25,9.5,0.00,2017
+1,0,32,0.00,0,0,53,0,4.0,0.5,washington-redskins,21,John EubanksJ. Eubanks,0,2017
+0,0,0.00,Jason CampbellJ. Campbell,0.0,0.0,0,0.0,0,1,washington-redskins,0,1,0,2017
+1,0.00,0,0,0.0,Andre CarterA. Carter,10,Khary CampbellK. Campbell,13,3,washington-redskins,0,0.0,0,2017
+0,0,0,0.0,23,2.0,0,0.0,18,0,washington-redskins,0.00,5,Lorenzo AlexanderL. Alexander,2017
+1,0,0.00,Kevin BarnesK. Barnes,0.0,0.0,0,21.0,0,2,washington-redskins,0,2,0,2017
+2,0.00,0,0,0.0,H.B. BladesH. Blades,1,Ladell BettsL. Betts,1,0,washington-redskins,0,0.0,0,2017
+3,0,0,0,Andre CarterA. Carter,0,9,0,0.0,41,washington-redskins,32,0.0,0.00,2017
+4,0,48,0.00,0,0,62,0,62.5,11.0,washington-redskins,14,Rock CartwrightR. Cartwright,0,2017
+0,"5,469",64.3,Opponents,1,0,11,0,73,1,washington-redskins,75,"1,680",85,2017
+1,0,0.00,Lorenzo AlexanderL. Alexander,1.5,10.5,0,0,25,32,washington-redskins,0,57,0,2017
+2,0.00,0,0,0.0,Terrence AustinT. Austin,7,Anthony ArmstrongA. Armstrong,9,2,washington-redskins,0,0.0,0,2017
+3,0,0,0,Kevin BarnesK. Barnes,1,1,0,0.0,2,washington-redskins,1,0.0,0.00,2017
+0,3,36,73,86,"5,462",0,60.6,0,3,washington-redskins,749,Opponents,32,2017
+1,1,56,73,0,0,0,63.5,0,1,washington-redskins,"1,239",Lorenzo AlexanderL. Alexander,28,2017
+2,10,6,0,0,0.00,0.0,0.00,David AndersonD. Anderson,0.0,washington-redskins,16,0,0,2017
+0,"5,572",64.8,Opponents,0,1,48,0,38,0,washington-redskins,75,892,86,2017
+1,0,0.00,Mario AddisonM. Addison,0.0,0.0,0,0,2,1,washington-redskins,0,3,0,2017
+2,0.00,0,0,16.5,Chris BakerC. Baker,34,Lorenzo AlexanderL. Alexander,46,12,washington-redskins,0,2.5,0,2017
+3,0,0,0,Stephen BowenS. Bowen,0,7,0,0.0,15,washington-redskins,8,0.0,0.00,2017
+0,45,1,63.6,David AmersonD. Amerson,2,"1,018","6,171",0,0,washington-redskins,51,0,71,2017
+1,1,40,22.50,0,0,48,45,0.0,0.0,washington-redskins,8,Chris BakerC. Baker,45t,2017
+2,16,11,0,0,0.00,1.0,0.00,Nick BarnettN. Barnett,6.0,washington-redskins,27,0,0,2017
+3,5,12,0,0.00,0,0.0,0,0,Josh BellamyJ. Bellamy,washington-redskins,0.0,0,7,2017
+4,2,0.0,1,15,0,Edjuan BiggersE. Biggers,0,15,1,washington-redskins,0.0,15.00,1,2017
+0,0,9,71,72,"4,483",1,65.2,0,0,washington-redskins,324,Washington,9,2017
+1,0,44,74,90,"5,594",1,62.3,0,1,washington-redskins,"1,111",Opponents,27,2017
+2,1,36,72,0,0,0,62.2,2,3,washington-redskins,783,David AmersonD. Amerson,50,2017
+3,52,9,0,0,0.00,0.0,0.00,Chris BakerC. Baker,0.0,washington-redskins,61,0,0,2017
+0,492,0,1,67.0,73,1,52,3,Kai ForbathK. Forbath,washington-redskins,4,201,25,2017
+1,54,0,0,60.0,70,0,1,2,Tress WayT. Way,washington-redskins,0,120,2,2017
+2,36,0,0,62.2,73,0,0,85,Washington,washington-redskins,0,"5,288",2,2017
+3,582,0,1,63.0,74,1,53,83,Opponents,washington-redskins,4,"5,226",29,2017
+4,999,2,0,0.00,0,1,39,0,David AmersonD. Amerson,washington-redskins,4,0,40,2017
+0,0,2,27,0,0,Chris BakerC. Baker,1,0,0,washington-redskins,0,0.00,570,2017
+1,3.5,35.5,18,0,5,0,29,0.00,0,washington-redskins,Houston BatesH. Bates,0,47,2017
+2,0.0,Will BlackmonW. Blackmon,7,25,16,79,2,79,79.00,washington-redskins,1,0,0.0,2017
+0,0,Tress WayT. Way,0,0,1,61,245,61,61.0,washington-redskins,1,0,2,2017
+1,0,Washington,0,1,24,"4,987",12,73,63.1,washington-redskins,79,53,0,2017
+2,0,Opponents,0,0,34,"5,386",448,67,62.6,washington-redskins,86,50,2,2017
+3,0,Jonathan AllenJ. Allen,0,3,7,0,673,0,0.00,washington-redskins,0,0,2,2017
+4,Ryan AndersonR. Anderson,0,1.0,3,15,0.00,10,0,0,washington-redskins,0,12,7.0,2017
+0,8,0.0,5,35t,1,Mike BrownM. Brown,0,35,1,chicago-bears,0.0,35.00,3,2017
+1,0.0,0.0,18,0,29,0,84,0.00,0,chicago-bears,Rosevelt ColvinR. Colvin,0,102,2017
+0,0.00,0,0,0.0,Scott DragosS. Dragos,9,Autry DensonA. Denson,9,0,chicago-bears,0,0.0,0,2017
+1,0,0,0,Paul EdingerP. Edinger,0,0,0,0.0,1,chicago-bears,1,0.0,0.00,2017
+0,0,0,0,Mike BrownM. Brown,3,9,0,2.5,40,chicago-bears,31,19.0,0.00,2017
+1,0,78,5.33,0,0,93,16,0.0,0.0,chicago-bears,15,Mike CaldwellM. Caldwell,16,2017
+0,0,0,0,Mike BrownM. Brown,2,10,1,5.5,58,chicago-bears,48,32.5,0.00,2017
+1,0,62,0.00,0,0,76,0,0.0,0.0,chicago-bears,14,Desmond ClarkD. Clark,0,2017
+0,3,0,0,0,0.00,0.0,0.00,Marc ColomboM. Colombo,0.0,chicago-bears,3,0,0,2017
+1,0,1,0,0.00,0,0.0,0,0,Paul EdingerP. Edinger,chicago-bears,0.0,0,1,2017
+0,2.0,12.0,24,0,39,0,85,0.00,0,chicago-bears,Alex BrownA. Brown,0,109,2017
+1,55.0,Mike BrownM. Brown,46,63,9,116,7,72,38.67,chicago-bears,3,1,6.0,2017
+0,41,6,18,0,0.00,7.0,11.00,Mike BrownM. Brown,67.0,chicago-bears,47,0,0,2017
+1,5,24,0,0.00,0,0.0,0,0,Ruben BrownR. Brown,chicago-bears,0.0,0,19,2017
+0,0,0.00,Lance BriggsL. Briggs,2.0,7.0,0,0.0,19,84,chicago-bears,0,103,0,2017
+1,7.00,7,1,22.5,Mike BrownM. Brown,31,Alex BrownA. Brown,41,10,chicago-bears,0,4.5,7,2017
+0,12,4.00,Lance BriggsL. Briggs,0.5,6.5,0,0.0,20,90,chicago-bears,9,110,3,2017
+1,-2.00,0,1,43.0,Mike BrownM. Brown,42,Alex BrownA. Brown,44,2,chicago-bears,0,6.0,-2,2017
+0,0.0,Al AfalavaA. Afalava,7,43,10,0,3,0,0.00,chicago-bears,0,0,0.0,2017
+1,Mark AndersonM. Anderson,0,2.0,6,28,0.00,53,0,0,chicago-bears,0,22,23.0,2017
+2,0,0,19.5,1,0.0,0,3.5,1,0,chicago-bears,0.00,0,Devin AromashoduD. Aromashodu,2017
+0,"4,943",63.4,Chicago,0,1,16,0,59,2,chicago-bears,76,"1,404",78,2017
+1,"4,112",60.5,Opponents,0,2,5,0,59,1,chicago-bears,76,"1,495",68,2017
+2,0,0.00,Anthony AdamsA. Adams,2.0,17.0,0,0,4,33,chicago-bears,0,37,0,2017
+3,0.00,0,0,0.0,Earl BennettE. Bennett,8,Mark AndersonM. Anderson,8,0,chicago-bears,0,0.0,0,2017
+0,0,2,35,74,20,Opponents,3,"4,916",81,chicago-bears,0,60.7,855,2017
+1,1,2,57,0,0,Anthony AdamsA. Adams,2,0,0,chicago-bears,0,0.00,"1,238",2017
+2,0.0,0.0,3,0,2,0,13,0.00,0,chicago-bears,Marion BarberM. Barber,0,16,2017
+3,0.0,Kahlil BellK. Bell,2,4,0,0,0,0,0.00,chicago-bears,0,0,0.0,2017
+0,13,0,57.0,Kyle AdamsK. Adams,0,929,"3,704",5,0,chicago-bears,47,0,73,2017
+1,0,1,0.00,0,0,1,0,0.0,0.0,chicago-bears,0,Armando AllenA. Allen,0,2017
+2,3,2,0,0,0.00,0.0,0.00,Joseph AndersonJ. Anderson,0.0,chicago-bears,5,0,0,2017
+3,1,3,0,0.00,0,0.0,0,0,Earl BennettE. Bennett,chicago-bears,0.0,0,2,2017
+4,3,0.0,3,0,0,Zack BowmanZ. Bowman,0,0,0,chicago-bears,0.0,0.00,0,2017
+0,0,1,43,90,"5,271",0,43.0,0,0,chicago-bears,-4,Chicago,0,2017
+1,1,47,72,100,"6,135",1,58.6,0,4,chicago-bears,883,Opponents,38,2017
+2,0,70,74,0,0,0,61.4,1,4,chicago-bears,"1,621",Kyle AdamsK. Adams,27,2017
+3,1,0,0,0,0.00,0.0,0.00,James AndersonJ. Anderson,0.0,chicago-bears,1,0,0,2017
+0,43,0,64.7,Jared AllenJ. Allen,0,"1,286","6,339",0,1,chicago-bears,55,0,74,2017
+1,0,38,0.00,0,0,57,0,28.0,5.5,chicago-bears,19,David BassD. Bass,0,2017
+2,6,4,0,0,0.00,3.0,0.00,Martellus BennettM. Bennett,34.0,chicago-bears,10,0,0,2017
+3,0,1,0,0.00,0,0.0,0,0,Jonathan BosticJ. Bostic,chicago-bears,0.0,0,1,2017
+4,84,0.0,58,2,0,Lance BriggsL. Briggs,0,2,1,chicago-bears,0.0,2.00,26,2017
+0,73,46,"5,190",0,Sam AchoS. Acho,33,80,0,892,chicago-bears,0,1,64.9,2017
+1,0,0,0,Jared AllenJ. Allen,1,9,0,0.0,39,chicago-bears,30,0.0,0.00,2017
+2,0,4,2.00,0,0,5,2,0.0,0.0,chicago-bears,1,Adrian AmosA. Amos,2,2017
+0,Sam AchoS. Acho,0,1,9,27,0.00,0,0,0,chicago-bears,0,18,0,2017
+1,0,0,3.0,65,0.0,0,1.0,57,0,chicago-bears,0.00,8,Adrian AmosA. Amos,2017
+2,0,0.00,Jonathan AndersonJ. Anderson,0.0,0.0,0,0.0,3,4,chicago-bears,0,7,0,2017
+3,0.00,0,0,0.0,Matt BarkleyM. Barkley,2,Johnthan BanksJ. Banks,4,2,chicago-bears,0,0.0,0,2017
+0,17,"1,016",0,157,0,68,0,0,7,chicago-bears,59.8,10,Mike NugentM. Nugent,2017
+1,4,260,0,54,0,70,0,0,2,chicago-bears,65.0,2,Pat O'DonnellP. O'Donnell,2017
+2,2,130,0,0,0,65,0,0,2,chicago-bears,65.0,0,Cairo SantosC. Santos,2017
+3,60,"3,780",0,699,1,70,0,0,28,chicago-bears,63.0,32,Chicago,2017
+4,80,"4,984",0,969,0,70,0,1,33,chicago-bears,62.3,46,Opponents,2017
+5,0,0,0,45,3.0,0,0,29,0,chicago-bears,0.00,16,Sam AchoS. Acho,2017
+0,0,0,0,Corwin BrownC. Brown,2,0,0,0.0,1,detroit-lions,1,0.0,0.00,2017
+1,0,24,6.00,0,0,34,12,0.0,0.5,detroit-lions,10,J.B. BrownJ. Brown,12,2017
+0,12.0,Marty CarterM. Carter,50,6,2,0,15,0,0.00,detroit-lions,1,0,1.0,2017
+1,Aveion CasonA. Cason,0,0.0,1,1,0.00,8,0,0,detroit-lions,0,0,0.0,2017
+0,3.0,26.0,17,0,31,1,51,14.00,14,detroit-lions,Eric DavisE. Davis,14,68,2017
+1,0.0,Jared DeVriesJ. DeVries,37,5,5,0,6,0,0.00,detroit-lions,0,0,0.0,2017
+0,0.00,0,0,0.0,Avon CobourneA. Cobourne,3,Shawn BrysonS. Bryson,3,0,detroit-lions,0,0.0,0,2017
+1,0,0,0,Donte' CurryD. Curry,0,1,0,0.0,5,detroit-lions,4,0.0,0.00,2017
+0,0,0.00,Fernando BryantF. Bryant,0.0,0.0,0,0.0,9,42,detroit-lions,0,51,0,2017
+1,0.00,0,0,0.0,Chris CashC. Cash,4,Shawn BrysonS. Bryson,4,0,detroit-lions,0,0.0,0,2017
+0,1,7,0,0.00,0,0.0,0,0,Kelly ButlerK. Butler,detroit-lions,0.0,0,6,2017
+1,2,0.0,2,0,0,Shaun CodyS. Cody,0,0,0,detroit-lions,0.0,0.00,0,2017
+0,1.0,9.0,20,0,1,0,55,0.00,0,detroit-lions,Brian CalhounB. Calhoun,0,75,2017
+1,0.0,Dan CampbellD. Campbell,1,2,0,0,0,0,0.00,detroit-lions,0,0,0.0,2017
+0,0.0,Tatum BellT. Bell,5,2,0,0,2,0,0.00,detroit-lions,0,0,0.0,2017
+1,Greg BlueG. Blue,0,0.0,3,9,0.00,2,0,0,detroit-lions,0,6,0.0,2017
+0,0.0,0.0,11,0,2,0,26,0.00,0,detroit-lions,Landon CohenL. Cohen,0,37,2017
+1,0.0,Damion CookD. Cook,4,1,0,0,2,0,0.00,detroit-lions,0,0,0.0,2017
+0,0,0,37.5,4,0.0,0,5.5,3,0,detroit-lions,0.00,1,Jeff BackusJ. Backus,2017
+1,0,0.00,Darnell BingD. Bing,0.0,0.0,0,0.0,0,4,detroit-lions,0,4,0,2017
+2,0.00,0,0,0.0,Copeland BryanC. Bryan,0,Aaron BrownA. Brown,1,1,detroit-lions,0,0.0,0,2017
+3,0,0,0,Phillip BuchanonP. Buchanon,0,1,0,1.0,5,detroit-lions,4,6.0,0.00,2017
+0,812,1,0,62.8,73,1,1,34,Dave RaynerD. Rayner,detroit-lions,1,"2,136",38,2017
+1,620,0,0,56.0,62,0,2,3,Nick HarrisN. Harris,detroit-lions,1,168,31,2017
+2,55,0,0,61.8,73,0,0,77,Detroit,detroit-lions,0,"4,762",3,2017
+3,"1,487",1,0,64.2,76,1,3,78,Opponents,detroit-lions,2,"5,006",72,2017
+4,"1,519",1,1,0.00,0,0,15,0,Cliff AvrilC. Avril,detroit-lions,2,0,61,2017
+0,"1,224",1,1,59.0,59,0,45,1,Ryan DonahueR. Donahue,detroit-lions,2,59,48,2017
+1,31,0,0,64.1,74,0,0,97,Detroit,detroit-lions,0,"6,215",1,2017
+2,"1,255",1,1,63.7,80,0,45,85,Opponents,detroit-lions,2,"5,417",49,2017
+3,887,0,0,4.00,4t,1,46,1,Cliff AvrilC. Avril,detroit-lions,2,4,37,2017
+0,1,Opponents,2,0,34,"6,012","1,213",76,63.3,detroit-lions,95,60,2,2017
+1,0,Cliff AvrilC. Avril,0,28,7,0,681,0,0.00,detroit-lions,0,0,1,2017
+2,Jeff BackusJ. Backus,0,9.5,0,1,0.00,35,0,0,detroit-lions,0,1,61.0,2017
+0,0,1,35,73,51,Opponents,3,"5,545",89,detroit-lions,0,62.3,924,2017
+1,1,4,34,0,0,Ezekiel AnsahE. Ansah,0,0,0,detroit-lions,0,0.00,816,2017
+2,8.0,72.0,13,0,0,0,19,0.00,0,detroit-lions,Justin BannanJ. Bannan,0,32,2017
+3,0.0,Joique BellJ. Bell,1,6,0,0,1,0,0.00,detroit-lions,0,0,0.0,2017
+0,0/0,10/10,32/32,Opponents,30/30,6/14,Detroit,52,4/8,detroit-lions,5/6,107,25/38,2017
+1,4/4,4/4,0/0,"4,803",64.0,58,18/23,Sam MartinS. Martin,84,detroit-lions,4/8,75,6/7,2017
+2,20,544,53,"4,803",64.0,1,76,Detroit,0,detroit-lions,0,75,1,2017
+0,Isa Abdul-QuddusI. Abdul-Quddus,0,2,15,57,0.00,0,0,0,detroit-lions,0,42,1,2017
+1,0,0,1.0,4,0.0,0,1.0,4,0,detroit-lions,0.00,0,Ameer AbdullahA. Abdullah,2017
+2,0,0.00,Ezekiel AnsahE. Ansah,14.5,99.0,0,0.0,8,39,detroit-lions,0,47,0,2017
+3,0.00,0,0,0.0,Dwight BentleyD. Bentley,1,Joique BellJ. Bell,1,0,detroit-lions,0,0.0,0,2017
+0,61.8,69,78,3,0,1,Sam MartinS. Martin,462,22,detroit-lions,52,0,"4,819",2017
+1,58.0,66,2,0,0,0,Matt PraterM. Prater,32,1,detroit-lions,1,0,116,2017
+2,61.7,69,80,3,0,1,Detroit,494,23,detroit-lions,53,0,"4,935",2017
+3,64.2,72,78,0,0,1,Opponents,793,35,detroit-lions,42,0,"5,006",2017
+0,0,7,70,17,977,0,64.6,0,0,detroit-lions,180,Matt PraterM. Prater,16,2017
+1,0,10,68,1,65,0,57.5,0,1,detroit-lions,149,Kasey RedfernK. Redfern,6,2017
+2,0,1,65,91,"5,769",0,65.0,0,0,detroit-lions,23,Detroit,0,2017
+3,0,43,71,79,"4,808",0,63.4,0,1,detroit-lions,878,Opponents,47,2017
+4,3,32,73,0,0,0,60.9,1,2,detroit-lions,583,Jared AbbrederisJ. Abbrederis,43,2017
+5,2,1,0,0,0.00,0.0,0.00,Ameer AbdullahA. Abdullah,0.0,detroit-lions,3,0,0,2017
+0,0,0.00,Santana DotsonS. Dotson,6.0,36.0,0,0.0,15,23,green-bay-packers,0,38,0,2017
+1,0.00,0,0,0.0,Antuan EdwardsA. Edwards,3,Donald DriverD. Driver,3,0,green-bay-packers,0,0.0,0,2017
+0,0.00,0,0,19.0,Donald DriverD. Driver,22,Santana DotsonS. Dotson,34,12,green-bay-packers,0,3.5,0,2017
+1,0,0,0,Antuan EdwardsA. Edwards,0,3,0,0.0,6,green-bay-packers,3,0.0,0.00,2017
+0,Antuan EdwardsA. Edwards,0,0.0,16,45,0.00,4,0,0,green-bay-packers,0,29,0.0,2017
+1,0,0,4.0,3,0.0,0,1.0,2,0,green-bay-packers,0.00,1,Brett FavreB. Favre,2017
+0,0,0.00,Najeh DavenportN. Davenport,0.0,0.0,0,0.0,3,10,green-bay-packers,0,13,0,2017
+1,0.00,0,0,0.0,Na'il DiggsN. Diggs,2,Robert DavisR. Davis,5,3,green-bay-packers,0,0.0,0,2017
+0,0,0.00,Najeh DavenportN. Davenport,0.0,0.0,0,0.0,0,2,green-bay-packers,0,2,0,2017
+1,0.00,0,0,0.0,Na'il DiggsN. Diggs,3,Robert DavisR. Davis,5,2,green-bay-packers,0,0.0,0,2017
+0,24,15,0,0,0.00,2.0,0.00,Nick CollinsN. Collins,8.0,green-bay-packers,39,1,0,2017
+1,20,86,0,0.00,0,0.0,0,0,Robert DavisR. Davis,green-bay-packers,0.0,0,66,2017
+0,0,28,0.00,3,68,38,0,4.0,1.0,green-bay-packers,10,Nick CollinsN. Collins,0,2017
+1,67,15,55t,0,0.00,0.0,22.67,Tyrone CulverT. Culver,0.0,green-bay-packers,82,0,1,2017
+0,0.00,0,0,0.0,Darryn ColledgeD. Colledge,7,Colin ColeC. Cole,12,5,green-bay-packers,0,0.0,0,2017
+1,0,0,0,Nick CollinsN. Collins,0,0,0,0.0,1,green-bay-packers,1,0.0,0.00,2017
+0,0,0.00,Brandon ChillarB. Chillar,1.0,5.0,0,0.0,10,59,green-bay-packers,0,69,0,2017
+1,0.00,0,0,0.0,Colin ColeC. Cole,1,Chad CliftonC. Clifton,1,0,green-bay-packers,0,0.0,0,2017
+0,0,37,3.50,0,0,49,14,0.0,0.0,green-bay-packers,12,Desmond BishopD. Bishop,14,2017
+1,19,11,0,0,0.00,0.0,0.00,Will BlackmonW. Blackmon,0.0,green-bay-packers,30,0,0,2017
+2,0,1,0,3.00,3,0.0,0,1,Jarrett BushJ. Bush,green-bay-packers,0.0,3,1,2017
+3,28,0.0,25,0,0,Brandon ChillarB. Chillar,0,0,0,green-bay-packers,0.0,0.00,3,2017
+0,24,0.0,18,0,0,Atari BigbyA. Bigby,0,0,0,green-bay-packers,0.0,0.00,6,2017
+1,0.0,0.0,0,1,75,1,6,32.00,32,green-bay-packers,Desmond BishopD. Bishop,32t,6,2017
+2,23.0,Diyral BriggsD. Briggs,103,4,0,0,28,0,0.00,green-bay-packers,0,0,3.0,2017
+0,0,2,59,74,31,Opponents,1,"4,729",79,green-bay-packers,1,59.9,"1,378",2017
+1,1,6,41,0,0,Desmond BishopD. Bishop,3,0,0,green-bay-packers,1,0.00,"1,005",2017
+2,5.0,49.0,25,0,78,3,90,0.00,0,green-bay-packers,Morgan BurnettM. Burnett,0,115,2017
+3,3.0,Jarrett BushJ. Bush,106,26,4,39,28,35,19.50,green-bay-packers,2,0,1.0,2017
+0,0,2,43,0,0,Don BarclayD. Barclay,3,0,0,green-bay-packers,0,0.00,"1,074",2017
+1,0.0,0.0,0,0,3,0,1,0.00,0,green-bay-packers,Cedric BensonC. Benson,0,1,2017
+2,0.0,Jarrett BoykinJ. Boykin,3,2,1,0,0,0,0.00,green-bay-packers,0,0,0.0,2017
+0,Victor AiyewaV. Aiyewa,0,4,0,4,0.00,0,0,0,green-bay-packers,0,4,0,2017
+1,0,0,0.0,19,0.0,0,0.0,17,0,green-bay-packers,0.00,2,Chris BanjoC. Banjo,2017
+2,0,0.00,Sam BarringtonS. Barrington,0.0,0.0,0,0.0,0,2,green-bay-packers,0,2,0,2017
+3,0.00,0,0,0.0,Josh BoydJ. Boyd,7,Brandon BostickB. Bostick,9,2,green-bay-packers,0,0.0,0,2017
+0,1,4,58,76,40,Opponents,2,"4,481",74,green-bay-packers,0,60.6,"1,421",2017
+1,0,3,29,0,0,Davante AdamsD. Adams,2,0,0,green-bay-packers,0,0.00,555,2017
+2,0.0,0.0,0,0,1,0,1,0.00,0,green-bay-packers,David BakhtiariD. Bakhtiari,0,1,2017
+3,0.0,Chris BanjoC. Banjo,1,1,0,0,0,0,0.00,green-bay-packers,0,0,0.0,2017
+0,0,2,37,74,37,Opponents,1,"4,704",75,green-bay-packers,1,62.7,988,2017
+1,0,2,36,0,0,Davante AdamsD. Adams,0,0,0,green-bay-packers,0,0.00,881,2017
+2,0.0,0.0,0,0,15,0,1,0.00,0,green-bay-packers,Chris BanjoC. Banjo,0,1,2017
+3,0.0,Sam BarringtonS. Barrington,16,1,0,0,1,0,0.00,green-bay-packers,0,0,0.0,2017
+0,0,0,0.00,0,0,1,0,0.0,0.0,green-bay-packers,1,Kentrell BriceK. Brice,0,2017
+1,23,4,0,0,0.00,0.0,0.00,Bryan BulagaB. Bulaga,0.0,green-bay-packers,27,0,0,2017
+2,0,2,0,9.50,19,0.0,0,2,Morgan BurnettM. Burnett,green-bay-packers,0.0,19,2,2017
+0,0,0,0.0,2,0.0,0,0.0,2,0,green-bay-packers,0.00,0,Geronimo AllisonG. Allison,2017
+1,0,0.00,Vince BiegelV. Biegel,0.0,0.0,0,0.0,5,11,green-bay-packers,0,16,0,2017
+2,11.00,11,1,0.0,Ahmad BrooksA. Brooks,19,Kentrell BriceK. Brice,23,4,green-bay-packers,0,0.0,11,2017
+0,3,0,0,0,0.00,0.0,0.00,John DavisJ. Davis,0.0,minnesota-vikings,3,0,0,2017
+1,0,2,0,0.00,0,0.0,0,1,Cris DishmanC. Dishman,minnesota-vikings,0.0,0,2,2017
+0,2,0,0,0,0.00,0.0,0.00,Patrick ChukwurahP. Chukwurah,0.0,minnesota-vikings,2,0,0,2017
+1,5,15,0,0.00,0,25.0,0,0,Stalin ColinetS. Colinet,minnesota-vikings,2.5,0,10,2017
+0,0.0,Ronnie BradfordR. Bradford,1,50,17,20,1,20,20.00,minnesota-vikings,1,0,0.0,2017
+1,Jack BrewerJ. Brewer,2,0.0,7,33,12.00,67,0,23,minnesota-vikings,24,26,0.0,2017
+0,Kelly CampbellK. Campbell,0,0.0,0,1,0.00,1,0,0,minnesota-vikings,0,1,0.0,2017
+1,8,143,0.0,86,0.0,39,0.0,75,1,minnesota-vikings,17.88,11,Corey ChavousC. Chavous,2017
+0,0,0,0.0,1,0.0,0,0.0,1,0,minnesota-vikings,0.00,0,David DixonD. Dixon,2017
+1,0,0.00,Jeff DuganJ. Dugan,0.0,0.0,0,0.0,0,2,minnesota-vikings,0,2,0,2017
+0,17,0.0,16,0,0,Heath FarwellH. Farwell,1,0,0,minnesota-vikings,0.0,0.00,1,2017
+1,0.0,0.0,1,0,1,0,7,0.00,0,minnesota-vikings,Ciatrick FasonC. Fason,0,8,2017
+0,10,3.0,7,0,0,Heath FarwellH. Farwell,0,0,0,minnesota-vikings,24.0,0.00,3,2017
+1,0.0,0.0,6,0,3,0,21,0.00,0,minnesota-vikings,Ciatrick FasonC. Fason,0,27,2017
+0,0,0,0,Ray EdwardsR. Edwards,0,2,0,0.0,4,minnesota-vikings,2,0.0,0.00,2017
+1,0,26,0.00,0,0,30,0,34.5,5.0,minnesota-vikings,4,Fred EvansF. Evans,0,2017
+0,0.0,Ray EdwardsR. Edwards,1,34,19,0,0,0,0.00,minnesota-vikings,0,0,0.0,2017
+1,Fred EvansF. Evans,0,5.0,10,16,0.00,53,0,0,minnesota-vikings,0,6,26.0,2017
+0,0.00,0,0,0.0,Jeff DuganJ. Dugan,30,Jasper BrinkleyJ. Brinkley,31,1,minnesota-vikings,0,0.0,0,2017
+1,0,0,0,Ray EdwardsR. Edwards,0,0,0,0.0,1,minnesota-vikings,1,0.0,0.00,2017
+2,0,43,0.00,0,0,51,0,53.0,8.5,minnesota-vikings,8,Fred EvansF. Evans,0,2017
+0,75,0.0,54,27,0,Asher AllenA. Allen,0,27,2,minnesota-vikings,0.0,13.50,21,2017
+1,0.0,0.0,15,1,45,2,43,20.00,40,minnesota-vikings,Jared AllenJ. Allen,36t,58,2017
+2,41.5,Hank BaskettH. Baskett,60,3,0,0,15,0,0.00,minnesota-vikings,0,0,11.0,2017
+0,63.4,72,77,1,0,1,Ryan LongwellR. Longwell,"1,403",56,minnesota-vikings,19,1,"4,878",2017
+1,36.0,36,1,0,0,0,Chris KluweC. Kluwe,0,1,minnesota-vikings,0,0,36,2017
+2,63.0,72,78,1,0,1,Minnesota,"1,403",57,minnesota-vikings,19,1,"4,914",2017
+3,63.1,72,95,2,1,1,Opponents,"1,428",53,minnesota-vikings,39,1,"5,990",2017
+0,65.5,73,86,0,0,0,Blair WalshB. Walsh,795,33,minnesota-vikings,53,0,"5,633",2017
+1,65.5,73,86,0,0,0,Minnesota,795,33,minnesota-vikings,53,0,"5,633",2017
+2,61.9,74,80,3,0,2,Opponents,"1,171",44,minnesota-vikings,32,1,"4,955",2017
+0,0,3,67,88,"5,494",0,63.2,0,0,minnesota-vikings,42,Minnesota,1,2017
+1,1,41,73,98,"5,850",1,62.4,0,2,minnesota-vikings,"1,113",Opponents,44,2017
+2,1,66,74,0,0,2,59.7,0,1,minnesota-vikings,"1,646",Jared AllenJ. Allen,30,2017
+3,33,19,0,0,0.00,11.5,0.00,Matt AsiataM. Asiata,74.0,minnesota-vikings,52,0,0,2017
+0,63.1,74,76,1,0,1,Blair WalshB. Walsh,574,27,minnesota-vikings,48,0,"4,792",2017
+1,50.0,50,1,0,0,0,Jeff LockeJ. Locke,5,1,minnesota-vikings,0,0,50,2017
+2,62.9,74,77,1,0,1,Minnesota,579,28,minnesota-vikings,48,0,"4,842",2017
+3,60.6,74,78,1,0,1,Opponents,"1,160",54,minnesota-vikings,23,0,"4,729",2017
+0,65.7,80,86,0,0,0,Blair WalshB. Walsh,"1,037",39,minnesota-vikings,47,0,"5,651",2017
+1,44.0,44,1,0,0,0,Jeff LockeJ. Locke,6,1,minnesota-vikings,0,0,44,2017
+2,65.5,80,87,0,0,0,Minnesota,"1,043",40,minnesota-vikings,47,0,"5,695",2017
+3,59.5,73,74,6,1,1,Opponents,"1,190",42,minnesota-vikings,26,2,"4,404",2017
+0,"4,523",62.8,Opponents,1,2,37,1,33,0,minnesota-vikings,73,902,72,2017
+1,0,0.00,Mackensie AlexanderM. Alexander,0.0,0.0,0,0,2,3,minnesota-vikings,0,5,0,2017
+2,0.00,0,0,0.0,Anthony BarrA. Barr,1,Matt AsiataM. Asiata,1,0,minnesota-vikings,0,0.0,0,2017
+3,0,0,0,Joe BergerJ. Berger,0,33,0,2.0,70,minnesota-vikings,37,15.0,0.00,2017
+0,0,1,51,89,"5,638",0,51.0,0,0,minnesota-vikings,14,Minnesota,0,2017
+1,0,45,72,67,"4,299",0,63.3,0,0,minnesota-vikings,"1,023",Opponents,44,2017
+2,2,25,74,1,10,0,64.2,0,2,minnesota-vikings,619,Mackensie AlexanderM. Alexander,40,2017
+3,13,4,10,0,0.00,0.0,10.00,Anthony BarrA. Barr,0.0,minnesota-vikings,17,0,0,2017
+0,1.0,8.0,8,0,69,6,28,19.00,114,atlanta-falcons,Ray BuchananR. Buchanan,60,36,2017
+1,0.0,Marty CarterM. Carter,80,75,20,0,11,0,0.00,atlanta-falcons,0,0,0.0,2017
+0,4,0.0,4,0,0,Travis ClaridgeT. Claridge,0,0,0,atlanta-falcons,0.0,0.00,0,2017
+1,0.0,0.0,1,0,46,1,0,7.00,7,atlanta-falcons,Henri CrockettH. Crockett,7,1,2017
+0,0,0,0.0,2,0.0,0,0.0,2,0,atlanta-falcons,0.00,0,Alge CrumplerA. Crumpler,2017
+1,12,6.00,Chris DraftC. Draft,3.5,28.5,0,0.0,16,53,atlanta-falcons,9,69,2,2017
+0,0.0,Jimmy FarrisJ. Farris,1,8,1,0,0,0,0.00,atlanta-falcons,0,0,0.0,2017
+1,Jay FeelyJ. Feely,0,0.0,0,4,0.00,9,0,0,atlanta-falcons,0,4,0.0,2017
+0,0,0.00,Jamie DuncanJ. Duncan,0.0,0.0,0,0.0,0,8,atlanta-falcons,0,8,0,2017
+1,0.00,0,0,0.0,Jimmy FarrisJ. Farris,5,Warrick DunnW. Dunn,5,0,atlanta-falcons,0,0.0,0,2017
+0,21,7,0,0,0.00,1.0,0.00,Antuan EdwardsA. Edwards,12.0,atlanta-falcons,28,0,0,2017
+1,0,11,0,0.00,0,0.0,0,0,Brian FinneranB. Finneran,atlanta-falcons,0.0,0,11,2017
+0,13,0.0,11,40,0,Michael BoleyM. Boley,0,44,2,atlanta-falcons,0.0,22.00,2,2017
+1,3.0,8.0,19,0,97,0,69,0.00,0,atlanta-falcons,Keith BrookingK. Brooking,0,88,2017
+0,3,0,0,12,6.00,0.0,0.00,Michael BoleyM. Boley,0.0,atlanta-falcons,3,2,0,2017
+1,17,110,0,0.00,0,20.0,12,0,Keith BrookingK. Brooking,atlanta-falcons,3.0,0,93,2017
+0,63,10,16,0,0.00,0.0,16.00,Keith BrookingK. Brooking,0.0,atlanta-falcons,73,0,0,2017
+1,31,102,0,16.00,32,0.0,0,3,Erik ColemanE. Coleman,atlanta-falcons,0.0,48,71,2017
+0,0,0,59.7,Atlanta,76,43,179,0,0,atlanta-falcons,3,0,67,2017
+1,28,0,66.5,Opponents,73,945,"5,053",2,0,atlanta-falcons,46,1,75,2017
+2,17,1,65.7,John AbrahamJ. Abraham,0,"1,336","4,798",1,0,atlanta-falcons,55,0,75,2017
+3,0,30,0.00,0,0,35,0,23.0,5.5,atlanta-falcons,5,Spencer AdkinsS. Adkins,0,2017
+0,41,13.0,36,0,0,Spencer AdkinsS. Adkins,0,0,0,atlanta-falcons,80.0,0.00,5,2017
+1,0.0,0.0,1,0,16,0,5,0.00,0,atlanta-falcons,Jamaal AndersonJ. Anderson,0,6,2017
+2,14.0,Jonathan BabineauxJ. Babineaux,21,19,8,0,5,0,0.00,atlanta-falcons,1,0,2.0,2017
+0,1,60,73,79,"5,152",0,64.4,0,1,atlanta-falcons,"1,487",Opponents,25,2017
+1,0,24,79,0,0,0,65.2,0,1,atlanta-falcons,563,John AbrahamJ. Abraham,54,2017
+2,25,10,0,0,0.00,9.5,0.00,Spencer AdkinsS. Adkins,70.5,atlanta-falcons,35,0,0,2017
+0,0,0,0,94,"6,094",0,0.0,0,0,atlanta-falcons,0,Atlanta,0,2017
+1,0,48,76,73,"4,724",0,64.8,0,1,atlanta-falcons,"1,065",Opponents,45,2017
+2,0,27,72,0,0,0,64.7,0,0,atlanta-falcons,640,John AbrahamJ. Abraham,46,2017
+3,32,3,0,-2,-2.00,10.0,0.00,Jonathan BabineauxJ. Babineaux,75.0,atlanta-falcons,35,1,0,2017
+0,0,2,27,0,0,Robert AlfordR. Alford,0,0,2,atlanta-falcons,0,0.00,659,2017
+1,0.0,0.0,12,0,28,0,28,0.00,0,atlanta-falcons,Jonathan BabineauxJ. Babineaux,0,40,2017
+2,7.0,Joplo BartuJ. Bartu,42,47,38,0,14,0,0.00,atlanta-falcons,0,0,1.0,2017
+0,0,36,73,90,"5,821",0,62.3,0,2,atlanta-falcons,820,Opponents,46,2017
+1,0,50,78,3,21,0,64.7,0,1,atlanta-falcons,"1,174",Robert AlfordR. Alford,39,2017
+2,24,7,21,0,0.00,0.0,7.00,Javier ArenasJ. Arenas,0.0,atlanta-falcons,31,0,0,2017
+0,599,0,0,64.1,73,0,52,76,Atlanta,atlanta-falcons,2,"4,875",22,2017
+1,599,0,0,65.1,73,0,52,75,Opponents,atlanta-falcons,2,"4,885",22,2017
+2,667,0,0,2.00,2,0,48,1,Phillip AdamsP. Adams,atlanta-falcons,0,2,26,2017
+0,1/1,4/5,35/38,Matt BosherM. Bosher,105,10/11,Opponents,57,3/5,atlanta-falcons,5/5,104,23/27,2017
+1,65,0,64.6,Matt WileM. Wile,7,905,"6,781",0,0,atlanta-falcons,40,0,70,2017
+2,7,0,65.0,Atlanta,112,0,455,0,0,atlanta-falcons,0,0,65,2017
+3,72,0,64.6,Opponents,84,905,"7,236",0,0,atlanta-falcons,40,0,70,2017
+0,63.5,71,84,2,0,0,Matt BosherM. Bosher,863,33,atlanta-falcons,49,0,"5,332",2017
+1,63.5,71,84,2,0,0,Atlanta,863,33,atlanta-falcons,49,0,"5,332",2017
+2,64.2,72,77,0,0,0,Opponents,871,39,atlanta-falcons,38,0,"4,940",2017
+0,1,0.0,1,0,0,Sean GilbertS. Gilbert,0,0,1,carolina-panthers,0.0,0.00,0,2017
+1,4.0,29.0,15,0,8,0,38,0.00,0,carolina-panthers,Ray GreenR. Green,0,53,2017
+0,0,0,0,Jarrod CooperJ. Cooper,0,10,0,0.5,37,carolina-panthers,27,7.0,0.00,2017
+1,0,25,0.00,0,0,27,0,0.0,0.0,carolina-panthers,2,Casey CrawfordC. Crawford,0,2017
+0,Shane BurtonS. Burton,0,5.0,6,22,0.00,32,0,0,carolina-panthers,0,16,33.0,2017
+1,0,0,6.0,3,0.0,0,1.0,3,0,carolina-panthers,0.00,0,Isaac ByrdI. Byrd,2017
+0,Jarrod CooperJ. Cooper,0,0.0,0,7,0.00,4,0,0,carolina-panthers,0,7,0.0,2017
+1,0,0,0.0,49,2.0,0,0.0,45,0,carolina-panthers,0.00,4,Terry CousinT. Cousin,2017
+0,0.00,0,0,0.0,Jarrod CooperJ. Cooper,2,Keary ColbertK. Colbert,2,0,carolina-panthers,0,0.0,0,2017
+1,0,0,0,Casey CramerC. Cramer,0,1,0,0.0,2,carolina-panthers,1,0.0,0.00,2017
+0,3,16,0,0.00,0,0.0,0,0,Keary ColbertK. Colbert,carolina-panthers,0.0,0,13,2017
+1,2,0.0,2,0,0,Stephen DavisS. Davis,0,0,0,carolina-panthers,0.0,0.00,0,2017
+0,0.0,Vinny CiurciuV. Ciurciu,2,11,7,0,0,0,0.00,carolina-panthers,0,0,0.0,2017
+1,Keary ColbertK. Colbert,0,0.0,0,1,0.00,18,0,0,carolina-panthers,0,1,0.0,2017
+0,0.0,0.0,0,0,3,0,1,0.00,0,carolina-panthers,Keary ColbertK. Colbert,0,1,2017
+1,0.0,Deke CooperD. Cooper,3,46,13,19,0,19,6.33,carolina-panthers,3,0,0.0,2017
+0,11,2,0,0,0.00,0.0,0.00,Thomas DavisT. Davis,0.0,carolina-panthers,13,0,0,2017
+1,21,114,0,0.00,0,24.5,0,1,Na'il DiggsN. Diggs,carolina-panthers,3.5,0,93,2017
+0,Gary BarnidgeG. Barnidge,0,0.0,3,12,0.00,3,0,0,carolina-panthers,0,9,0.0,2017
+1,3,46,0.0,141,3.0,18,0.0,111,0,carolina-panthers,15.33,30,Jon BeasonJ. Beason,2017
+2,0,0.00,Tyler BraytonT. Brayton,5.0,25.5,0,20.0,9,37,carolina-panthers,0,46,0,2017
+0,0.00,0,0,0.0,Gary BarnidgeG. Barnidge,3,Jason BakerJ. Baker,3,0,carolina-panthers,0,0.0,0,2017
+1,0,0,0,Jon BeasonJ. Beason,1,0,0,0.0,11,carolina-panthers,11,0.0,0.00,2017
+2,0,90,7.00,0,0,121,7,7.0,1.0,carolina-panthers,31,Mackenzy BernadeauM. Bernadeau,7,2017
+3,3,0,0,0,0.00,0.0,0.00,Tyler BraytonT. Brayton,0.0,carolina-panthers,3,0,0,2017
+4,6,22,0,0.00,0,0.0,0,1,Everette BrownE. Brown,carolina-panthers,0.0,0,16,2017
+0,63.9,74,84,2,0,0,Olindo MareO. Mare,811,30,carolina-panthers,53,0,"5,366",2017
+1,63.9,74,84,2,0,0,Carolina,811,30,carolina-panthers,53,0,"5,366",2017
+2,64.2,73,93,1,0,1,Opponents,926,39,carolina-panthers,51,1,"5,975",2017
+0,0,Brad NortmanB. Nortman,0,0,1,68,360,68,68.0,carolina-panthers,1,0,0,2017
+1,0,Carolina,0,0,39,"4,776",17,73,62.0,carolina-panthers,77,37,0,2017
+2,0,Opponents,0,2,39,"5,271",739,74,62.0,carolina-panthers,85,40,1,2017
+3,0,Mario AddisonM. Addison,0,5,0,0,867,0,0.00,carolina-panthers,0,0,4,2017
+4,Frank AlexanderF. Alexander,0,1.0,8,18,0.00,5,0,0,carolina-panthers,0,10,5.0,2017
+0,0,0,0,Jon BeasonJ. Beason,0,6,0,1.0,15,carolina-panthers,9,2.0,0.00,2017
+1,0,7,0.00,0,0,11,0,0.0,0.0,carolina-panthers,4,Chase BlackburnC. Blackburn,0,2017
+2,18,9,0,0,0.00,0.0,0.00,Richie BrockelR. Brockel,0.0,carolina-panthers,27,0,0,2017
+3,1,5,0,0.00,0,0.0,0,0,Colin ColeC. Cole,carolina-panthers,0.0,0,4,2017
+0,0,18,78,81,"5,120",0,65.8,0,0,carolina-panthers,584,Opponents,61,2017
+1,0,37,73,0,0,0,63.2,0,1,carolina-panthers,805,Mario AddisonM. Addison,43,2017
+2,10,13,0,0,0.00,6.5,0.00,Frank AlexanderF. Alexander,59.5,carolina-panthers,23,0,0,2017
+0,Mario AddisonM. Addison,0,2,8,23,0.00,0,0,0,carolina-panthers,0,15,0,2017
+1,0,0,35.0,27,2.0,0,6.0,15,0,carolina-panthers,0.00,12,Jared AllenJ. Allen,2017
+2,0,0.00,Bene BenwikereB. Benwikere,1.0,9.0,0,13.0,15,44,carolina-panthers,0,59,0,2017
+3,0.00,0,0,0.0,Tre BostonT. Boston,1,Brenton BersinB. Bersin,1,0,carolina-panthers,0,0.0,0,2017
+0,0/0,11/11,35/37,Graham GanoG. Gano,86,3/6,Opponents,53,4/7,carolina-panthers,15/18,134,33/42,2017
+1,63,0,63.9,Andy LeeA. Lee,1,399,"5,497",1,0,carolina-panthers,22,0,82,2017
+2,0,0,71.0,Carolina,87,18,71,0,0,carolina-panthers,1,0,71,2017
+3,63,0,64.0,Opponents,91,417,"5,568",1,0,carolina-panthers,23,0,82,2017
+0,1,1,34,40,0,Mike AdamsM. Adams,0,42,2,carolina-panthers,1,21.00,760,2017
+1,0.0,0.0,21,0,27,0,48,0.00,0,carolina-panthers,Mario AddisonM. Addison,0,69,2017
+2,70.5,Alex ArmahA. Armah,44,0,2,0,17,0,0.00,carolina-panthers,0,0,11.0,2017
+0,0.0,Steve GleasonS. Gleason,2,2,1,0,0,0,0.00,new-orleans-saints,0,0,0.0,2017
+1,La'Roi GloverL. Glover,0,0.0,13,66,0.00,3,0,0,new-orleans-saints,0,53,0.0,2017
+0,0,0,0,Jerry FontenotJ. Fontenot,0,0,0,0.0,2,new-orleans-saints,2,0.0,0.00,2017
+1,0,3,0.00,0,0,3,0,0.0,0.0,new-orleans-saints,0,Steve GleasonS. Gleason,0,2017
+0,0,21,0,0.00,0,0.0,0,0,John CarneyJ. Carney,new-orleans-saints,0.0,0,21,2017
+1,1,0.0,1,0,0,Travis CarrollT. Carroll,0,0,0,new-orleans-saints,0.0,0.00,0,2017
+0,0,2,0.00,0,0,2,0,0.0,0.0,new-orleans-saints,0,Ernie ConwellE. Conwell,0,2017
+1,2,0,0,0,0.00,0.0,0.00,Keyuo CraverK. Craver,0.0,new-orleans-saints,2,0,0,2017
+0,Aaron BrooksA. Brooks,0,1.0,0,3,0.00,46,0,0,new-orleans-saints,0,3,0.0,2017
+1,2,0,0.0,56,0.0,0,0.0,55,0,new-orleans-saints,0.00,1,Fakhir BrownF. Brown,2017
+0,0.0,Jammal BrownJ. Brown,34,1,0,0,1,0,0.00,new-orleans-saints,0,0,0.0,2017
+1,Tony BryantT. Bryant,0,0.0,8,26,0.00,1,0,0,new-orleans-saints,0,18,0.0,2017
+0,10,1.0,8,0,0,Terrance CopperT. Copper,0,0,0,new-orleans-saints,1.0,0.00,2,2017
+1,0.0,0.0,0,0,43,1,4,0.00,0,new-orleans-saints,Jason CraftJ. Craft,0,4,2017
+0,0,0.00,Terrance CopperT. Copper,0.0,0.0,0,2.0,0,9,new-orleans-saints,0,9,0,2017
+1,10.50,21,2,0.0,Jason DavidJ. David,51,Jason CraftJ. Craft,56,5,new-orleans-saints,0,0.0,21,2017
+0,0,0,0.0,1,0.0,0,0.0,1,0,new-orleans-saints,0.00,0,Mark CampbellM. Campbell,2017
+1,0,0.00,Jeff CharlestonJ. Charleston,3.0,25.0,0,0.0,3,15,new-orleans-saints,0,18,0,2017
+0,0,2,0,0.00,0,0.0,0,0,Reggie BushR. Bush,new-orleans-saints,0.0,0,2,2017
+1,1,0.0,1,0,0,Jermon BushrodJ. Bushrod,0,0,0,new-orleans-saints,0.0,0.00,0,2017
+2,0.0,0.0,0,0,11,0,1,0.00,0,new-orleans-saints,Jonathan CasillasJ. Casillas,0,1,2017
+3,0.0,Jeff CharlestonJ. Charleston,20,8,2,0,9,0,0.00,new-orleans-saints,0,0,0.0,2017
+0,64.5,74,74,3,0,1,Opponents,"1,181",52,new-orleans-saints,19,0,"4,772",2017
+1,0.00,0,0,0.0,K.C. AsioduK. Asiodu,3,Stanley ArnouxS. Arnoux,5,2,new-orleans-saints,0,0.0,0,2017
+2,0,0,0,Remi AyodeleR. Ayodele,0,0,0,0.0,1,new-orleans-saints,1,0.0,0.00,2017
+3,0,21,0.00,0,0,37,0,0.0,1.0,new-orleans-saints,16,Ladell BettsL. Betts,0,2017
+4,2,0,0,0,0.00,0.0,0.00,Drew BreesD. Brees,0.0,new-orleans-saints,2,0,0,2017
+0,64.8,79,105,1,0,0,Thomas MorsteadT. Morstead,927,36,new-orleans-saints,68,1,"6,807",2017
+1,9.0,10,2,2,0,0,John KasayJ. Kasay,0,0,new-orleans-saints,0,0,18,2017
+2,63.8,79,107,3,0,0,New Orleans,927,36,new-orleans-saints,68,1,"6,825",2017
+3,64.3,74,78,3,0,0,Opponents,"1,111",42,new-orleans-saints,33,0,"5,017",2017
+0,Isa Abdul-QuddusI. Abdul-Quddus,2,1,12,45,6.00,0,0,12,new-orleans-saints,12,33,0,2017
+1,0,0,0.0,1,0.0,0,0.0,1,0,new-orleans-saints,0.00,0,Drew BreesD. Brees,2017
+2,0,0.00,Brodrick BunkleyB. Bunkley,2.5,8.5,0,0.0,13,10,new-orleans-saints,0,23,0,2017
+3,40.00,40,1,0.0,Jermon BushrodJ. Bushrod,15,Rafael BushR. Bush,19,4,new-orleans-saints,0,0.0,40,2017
+0,1,New Orleans,0,0,33,"5,572",0,73,64.0,new-orleans-saints,87,52,1,2017
+1,2,Opponents,0,0,22,"4,541",830,73,62.2,new-orleans-saints,73,47,2,2017
+2,2,Isa Abdul-QuddusI. Abdul-Quddus,0,12,1,0,506,0,0.00,new-orleans-saints,0,0,4,2017
+3,Brodrick BunkleyB. Bunkley,0,0.0,5,13,0.00,13,0,0,new-orleans-saints,0,8,0.0,2017
+0,Marcus BallM. Ball,0,5,4,16,0.00,0,0,0,new-orleans-saints,0,12,0,2017
+1,0,0,0.0,18,0.0,0,0.0,8,0,new-orleans-saints,0.00,10,Brodrick BunkleyB. Bunkley,2017
+2,0,0.00,Rafael BushR. Bush,0.0,0.0,0,0.0,12,44,new-orleans-saints,0,56,0,2017
+3,0.00,0,0,0.0,Travaris CadetT. Cadet,17,Jairus ByrdJ. Byrd,22,5,new-orleans-saints,0,0.0,0,2017
+0,73,7,647,0,New Orleans,3,10,0,82,new-orleans-saints,0,0,64.7,2017
+1,73,44,"5,311",0,Opponents,37,82,0,981,new-orleans-saints,0,1,64.8,2017
+2,72,65,"6,037",0,James AndersonJ. Anderson,28,96,0,605,new-orleans-saints,1,3,62.9,2017
+3,0,0,0,Stephone AnthonyS. Anthony,1,5,0,0.0,16,new-orleans-saints,11,0.0,0.00,2017
+4,0,70,5.00,0,0,112,5,8.0,1.0,new-orleans-saints,42,Terron ArmsteadT. Armstead,5,2017
+0,0,1,0.00,0,0,2,0,0.0,0.0,new-orleans-saints,1,Vonn BellV. Bell,0,2017
+1,61,26,0,0,0.00,1.0,0.00,Delvin BreauxD. Breaux,8.0,new-orleans-saints,87,0,0,2017
+2,3,21,0,0.00,0,0.0,0,0,Drew BreesD. Brees,new-orleans-saints,0.0,0,18,2017
+0,0,3,32,72,36,Opponents,2,"4,658",77,new-orleans-saints,0,60.5,788,2017
+1,1,5,36,0,0,Alex AnzaloneA. Anzalone,2,0,0,new-orleans-saints,0,0.00,825,2017
+2,1.0,4.0,5,0,1,0,11,0.00,0,new-orleans-saints,Terron ArmsteadT. Armstead,0,16,2017
+3,0.0,Chris BanjoC. Banjo,1,10,2,0,0,0,0.00,new-orleans-saints,1,0,0.0,2017
+0,0.0,Jamie DuncanJ. Duncan,21,49,17,55,8,31t,13.75,tampa-bay-buccaneers,4,1,0.0,2017
+1,Warrick DunnW. Dunn,0,0.0,0,1,0.00,66,0,0,tampa-bay-buccaneers,0,1,0.0,2017
+0,10,19,0,0.00,0,0.0,0,0,Marq CerquaM. Cerqua,tampa-bay-buccaneers,0.0,0,9,2017
+1,1,0.0,0,0,0,Chartric DarbyC. Darby,0,0,0,tampa-bay-buccaneers,0.0,0.00,1,2017
+0,Cosey ColemanC. Coleman,0,0.0,0,3,0.00,5,0,0,tampa-bay-buccaneers,0,3,0.0,2017
+1,0,0,0.0,1,0.0,0,0.0,1,0,tampa-bay-buccaneers,0.00,0,Jameel CookJ. Cook,2017
+0,Chartric DarbyC. Darby,0,0.0,4,13,0.00,2,0,0,tampa-bay-buccaneers,0,9,0.0,2017
+1,0,0,10.0,2,0.0,0,2.0,2,0,tampa-bay-buccaneers,0.00,0,Ken DilgerK. Dilger,2017
+0,0,3,0.00,0,0,3,0,0.0,0.0,tampa-bay-buccaneers,0,Cosey ColemanC. Coleman,0,2017
+1,2,0,0,0,0.00,0.0,0.00,Greg ComellaG. Comella,0.0,tampa-bay-buccaneers,2,0,0,2017
+0,99,2.0,83,28,0,Juran BoldenJ. Bolden,0,46,2,tampa-bay-buccaneers,13.0,23.00,16,2017
+1,0.0,0.0,7,0,1,0,35,0.00,0,tampa-bay-buccaneers,Jon BradleyJ. Bradley,0,42,2017
+0,0.0,0.0,1,0,20,2,1,0.00,0,tampa-bay-buccaneers,Phillip BuchanonP. Buchanon,0,2,2017
+1,0.0,Antoine CashA. Cash,24,9,1,0,4,0,0.00,tampa-bay-buccaneers,0,0,0.0,2017
+0,1,12,0,0.00,0,7.0,0,0,Brian ClarkB. Clark,tampa-bay-buccaneers,1.0,0,11,2017
+1,3,0.0,3,0,0,Torrie CoxT. Cox,0,0,0,tampa-bay-buccaneers,0.0,0.00,0,2017
+0,1,48,16.50,0,0,52,33,0.0,0.0,tampa-bay-buccaneers,4,Kevin CarterK. Carter,26t,2017
+1,28,21,0,0,0.00,4.0,0.00,Brian ClarkB. Clark,17.0,tampa-bay-buccaneers,49,0,0,2017
+0,74,9,"3,558",2,Opponents,46,58,0,878,tampa-bay-buccaneers,0,3,61.3,2017
+1,77,24,"5,922",0,Gaines AdamsG. Adams,62,88,1,"1,630",tampa-bay-buccaneers,0,0,67.3,2017
+2,0,0,0,Will AllenW. Allen,0,2,0,1.0,10,tampa-bay-buccaneers,8,4.0,0.00,2017
+3,0,16,0.00,0,0,20,0,0.0,0.0,tampa-bay-buccaneers,4,Ronde BarberR. Barber,0,2017
+4,69,8,0,0,0.00,2.0,0.00,Connor BarthC. Barth,15.0,tampa-bay-buccaneers,77,0,0,2017
+5,0,1,0,0.00,0,0.0,0,0,Michael BennettM. Bennett,tampa-bay-buccaneers,0.0,0,1,2017
+0,3,98,0.0,82,1.0,64,0.0,66,0,tampa-bay-buccaneers,32.67,16,Ronde BarberR. Barber,2017
+1,0,0.00,Arrelious BennA. Benn,0.0,0.0,0,1.0,1,9,tampa-bay-buccaneers,0,10,0,2017
+2,0.00,0,0,2.0,Edjuan BiggersE. Biggers,13,Michael BennettM. Bennett,15,2,tampa-bay-buccaneers,0,1.0,0,2017
+0,1,25,80,99,"6,316",1,60.5,1,6,tampa-bay-buccaneers,570,Opponents,37,2017
+1,0,46,72,0,0,0,63.8,0,0,tampa-bay-buccaneers,"1,024",Larry AsanteL. Asante,53,2017
+2,12,2,0,12,4.00,0.0,0.00,Ronde BarberR. Barber,0.0,tampa-bay-buccaneers,14,3,0,2017
+0,0,2,31,78t,1,Ronde BarberR. Barber,1,160,4,tampa-bay-buccaneers,0,40.00,630,2017
+1,1.0,2.0,21,0,71,1,71,12.00,12,tampa-bay-buccaneers,Mark BarronM. Barron,12,92,2017
+2,0.0,Arrelious BennA. Benn,88,7,0,0,17,0,0.00,tampa-bay-buccaneers,0,0,0.0,2017
+0,1,24,73,88,"5,630",0,62.2,1,3,tampa-bay-buccaneers,452,Opponents,41,2017
+1,0,34,74,0,0,0,64.0,0,2,tampa-bay-buccaneers,811,Michael AdamsM. Adams,51,2017
+2,11,1,0,33,11.00,1.0,0.00,Johnthan BanksJ. Banks,7.0,tampa-bay-buccaneers,12,3,0,2017
+0,0,0,0.0,49,0.0,0,0.0,35,0,tampa-bay-buccaneers,0.00,14,Mark BarronM. Barron,2017
+1,0,0.00,Da'Quan BowersD. Bowers,1.5,7.5,0,0.0,10,11,tampa-bay-buccaneers,0,21,0,2017
+2,0.00,0,0,0.0,Jonathan CasillasJ. Casillas,14,Crezdon ButlerC. Butler,14,0,tampa-bay-buccaneers,0,0.0,0,2017
+0,29/40,0/0,Tampa Bay,118,Opponents,10/11,24,5/9,4/9,tampa-bay-buccaneers,10/11,58,31/34,2017
+1,12/12,6/6,31/34,64,"4,062",4/4,42/45,135,53,tampa-bay-buccaneers,7/10,Connor BarthC. Barth,2/2,2017
+2,0,30,72,18,"1,131",0,63.5,0,2,tampa-bay-buccaneers,770,Kyle BrindzaK. Brindza,32,2017
+3,0,5,71,82,"5,193",0,62.8,0,1,tampa-bay-buccaneers,112,Tampa Bay,12,2017
+0,1,1,67,81,"5,090",0,48.5,0,0,tampa-bay-buccaneers,15,Tampa Bay,0,2017
+1,1,25,72,81,"5,145",0,62.8,0,3,tampa-bay-buccaneers,583,Opponents,52,2017
+2,0,21,71,0,0,0,63.5,0,1,tampa-bay-buccaneers,307,Jude Adjei-BarimahJ. Adjei-Barimah,59,2017
+3,22,0,0,0,0.00,2.0,0.00,Roberto AguayoR. Aguayo,16.0,tampa-bay-buccaneers,22,0,0,2017
+0,"1,074",2,0,61.9,70,0,14,18,Nick FolkN. Folk,tampa-bay-buccaneers,2,"1,114",43,2017
+1,86,0,0,61.1,71,0,13,77,Tampa Bay,tampa-bay-buccaneers,1,"4,704",4,2017
+2,"1,160",2,0,63.8,67,0,27,83,Opponents,tampa-bay-buccaneers,3,"5,294",47,2017
+3,432,0,0,23.33,28,0,62,3,Kwon AlexanderK. Alexander,tampa-bay-buccaneers,1,70,20,2017
+0,0,0.00,Corey ChavousC. Chavous,0.0,0.0,0,0.0,6,42,arizona-cardinals,0,48,1,2017
+1,0.00,0,0,0.0,Russell DavisR. Davis,1,Mac CodyM. Cody,1,0,arizona-cardinals,0,0.0,0,2017
+0,0,1,0,0,0.00,0.0,0.00,Tom BurkeT. Burke,0.0,arizona-cardinals,1,0,0,2017
+1,7,23,0,0.00,0,23.0,0,0,Steve BushS. Bush,arizona-cardinals,2.0,0,16,2017
+0,0.00,0,0,0.0,Leonard DavisL. Davis,3,Steve BushS. Bush,3,0,arizona-cardinals,0,0.0,0,2017
+1,0,0,0,Russell DavisR. Davis,0,0,0,0.0,3,arizona-cardinals,3,0.0,0.00,2017
+0,0.0,Anquan BoldinA. Boldin,3,3,0,0,0,0,0.00,arizona-cardinals,0,0,0.0,2017
+1,Wendell BryantW. Bryant,0,0.0,3,19,0.00,3,0,0,arizona-cardinals,0,16,0.0,2017
+0,0.0,Karlos DansbyK. Dansby,2,44,17,2,0,2,2.00,arizona-cardinals,1,0,0.0,2017
+1,James DarlingJ. Darling,1,5.0,18,95,65.00,61,0,65,arizona-cardinals,65,77,26.0,2017
+0,Anquan BoldinA. Boldin,0,1.0,0,4,0.00,12,0,0,arizona-cardinals,0,4,9.0,2017
+1,0,0,0.0,2,0.0,0,0.0,1,0,arizona-cardinals,0.00,1,John BronsonJ. Bronson,2017
+0,0,0.00,Darryl BlackstockD. Blackstock,0.0,0.0,0,43.0,0,11,arizona-cardinals,0,11,0,2017
+1,0.00,0,0,0.0,Kendrick ClancyK. Clancy,5,Anquan BoldinA. Boldin,5,0,arizona-cardinals,0,0.0,0,2017
+0,1,4,0,0.00,0,0.0,0,0,Monty BeiselM. Beisel,arizona-cardinals,0.0,0,3,2017
+1,42,0.0,32,0,0,Mitch BergerM. Berger,0,0,0,arizona-cardinals,0.0,0.00,10,2017
+0,0,0.00,Alan BranchA. Branch,0.0,0.0,0,0.0,1,5,arizona-cardinals,0,6,0,2017
+1,0.00,0,0,0.0,Levi BrownL. Brown,2,Steve BreastonS. Breaston,2,0,arizona-cardinals,0,0.0,0,2017
+0,72,"4,866",0,"1,284",1,76,0,1,17,arizona-cardinals,67.6,54,Opponents,2017
+1,0,0,0,9,0.0,0,0,8,0,arizona-cardinals,0.00,1,Hamza AbdullahH. Abdullah,2017
+2,17,17.00,Michael AdamsM. Adams,0.0,0.0,0,0.0,3,37,arizona-cardinals,17,40,1,2017
+3,0.00,0,0,6.0,Anthony BechtA. Becht,1,Jason BanksJ. Banks,2,1,arizona-cardinals,0,1.0,0,2017
+4,0,0,0,Monty BeiselM. Beisel,0,0,0,0.0,3,arizona-cardinals,3,0.0,0.00,2017
+0,0,2,0.00,0,0,2,0,0.0,0.0,arizona-cardinals,0,Levi BrownL. Brown,0,2017
+1,3,0,0,0,0.00,0.0,0.00,Calais CampbellC. Campbell,0.0,arizona-cardinals,3,0,0,2017
+2,14,60,0,0.00,0,49.0,0,0,William DavisW. Davis,arizona-cardinals,6.0,0,46,2017
+0,"4,779",67.3,Jay FeelyJ. Feely,0,0,22,138,49,0,arizona-cardinals,73,"1,245",71,2017
+1,178,59.3,Dave ZastudilD. Zastudil,0,0,0,0,3,0,arizona-cardinals,64,55,3,2017
+2,"4,957",67.0,Arizona,0,0,22,0,52,0,arizona-cardinals,73,"1,300",74,2017
+3,"5,332",65.8,Opponents,0,0,28,0,52,1,arizona-cardinals,73,"1,246",81,2017
+0,31,813,29,62,62.0,3,72,Dave ZastudilD. Zastudil,0,arizona-cardinals,0,1,0,2017
+1,1,33,0,"3,990",62.3,0,62,Arizona,0,arizona-cardinals,0,64,0,2017
+2,32,846,29,"5,236",65.5,3,72,Opponents,0,arizona-cardinals,0,80,0,2017
+3,40,930,40,2,1.00,0,76,Sam AchoS. Acho,0,arizona-cardinals,0,2,0,2017
+0,0,0,54,73,45,Opponents,0,"4,703",76,arizona-cardinals,0,61.9,"1,298",2017
+1,0,4,27,0,0,John AbrahamJ. Abraham,0,0,0,arizona-cardinals,2,0.00,540,2017
+2,11.5,99.5,6,0,4,0,31,0.00,0,arizona-cardinals,Sam AchoS. Acho,0,37,2017
+3,9.0,Lorenzo AlexanderL. Alexander,5,4,0,0,1,0,0.00,arizona-cardinals,0,0,1.0,2017
+0,54,107,5/8,38,0,76,3/4,66.5,"5,054",arizona-cardinals,Chandler CatanzaroC. Catanzaro,74,6/9,2017
+1,1,0,967,38,0,76,37,66.5,"5,054",arizona-cardinals,Arizona,74,0,2017
+2,1,0,967,48,0,72,37,64.0,"4,607",arizona-cardinals,Opponents,76,0,2017
+0,1,2,32,21t,1,Justin BethelJ. Bethel,0,21,2,arizona-cardinals,0,10.50,770,2017
+1,0.0,0.0,2,0,1,0,44,0.00,0,arizona-cardinals,Cariel BrooksC. Brooks,0,46,2017
+2,0.0,Jaron BrownJ. Brown,1,6,0,0,0,0,0.00,arizona-cardinals,0,0,0.0,2017
+0,0,0,0.0,28,0.0,0,0.0,25,0,arizona-cardinals,0.00,3,Tyvon BranchT. Branch,2017
+1,0,0.00,Aaron BrewerA. Brewer,0.0,0.0,0,0.0,0,2,arizona-cardinals,0,2,0,2017
+2,0.00,0,0,0.0,John BrownJ. Brown,1,Jaron BrownJ. Brown,1,0,arizona-cardinals,0,0.0,0,2017
+0,1,2,40,70,49,Opponents,1,"4,996",80,arizona-cardinals,0,62.5,880,2017
+1,0,2,29,0,0,Budda BakerB. Baker,0,0,0,arizona-cardinals,0,0.00,592,2017
+2,1.0,7.0,16,0,47,5,58,10.20,51,arizona-cardinals,Antoine BetheaA. Bethea,21,74,2017
+3,8.0,Justin BethelJ. Bethel,57,29,12,82,10,82t,82.00,arizona-cardinals,1,1,1.0,2017
+0,0,22,73,80,"5,205",0,64.3,0,1,los-angeles-rams,430,Opponents,36,2017
+1,0,47,71,2,19,0,65.1,0,0,los-angeles-rams,"1,122",Maurice AlexanderM. Alexander,33,2017
+2,38,12,19,0,0.00,1.0,9.50,Tavon AustinT. Austin,9.0,los-angeles-rams,50,0,0,2017
+0,"4,760",61.8,Opponents,1,2,34,0,40,1,los-angeles-rams,74,"1,001",77,2017
+1,0,0.00,Maurice AlexanderM. Alexander,0.0,0.0,0,1,7,13,los-angeles-rams,0,20,0,2017
+2,0.00,0,0,0.0,Mark BarronM. Barron,1,Tavon AustinT. Austin,1,0,los-angeles-rams,0,0.0,0,2017
+3,15,0,29,Connor BarwinC. Barwin,0,13,3,1.0,86,los-angeles-rams,73,2.0,9.67,2017
+0,0.00,0,0,0.0,Derrick DeeseD. Deese,1,Greg ClarkG. Clark,1,0,san-francisco-49ers,0,0.0,0,2017
+1,0,0,0,John EngelbergerJ. Engelberger,0,0,0,0.0,1,san-francisco-49ers,1,0.0,0.00,2017
+0,7,47,0,0.00,0,57.5,0,0,Jose CortezJ. Cortez,san-francisco-49ers,6.5,0,40,2017
+1,6,0.0,5,0,0,Tyronne DrakefordT. Drakeford,0,0,0,san-francisco-49ers,0.0,0.00,1,2017
+0,45,9,0,0,0.00,12.5,0.00,Jeff ChandlerJ. Chandler,84.0,san-francisco-49ers,54,0,0,2017
+1,0,1,0,0.00,0,0.0,0,0,Jose CortezJ. Cortez,san-francisco-49ers,0.0,0,1,2017
+0,0,0.00,Arnaz BattleA. Battle,0.0,0.0,0,0.0,0,5,san-francisco-49ers,0,5,0,2017
+1,22.00,22,1,0.0,Dwaine CarpenterD. Carpenter,37,Zack BronsonZ. Bronson,42,5,san-francisco-49ers,0,0.0,22,2017
+0,0.00,0,0,10.0,Curtis ConwayC. Conway,8,Andre CarterA. Carter,10,2,san-francisco-49ers,0,2.0,0,2017
+1,0,0,0,Chris CooperC. Cooper,0,0,0,0.0,1,san-francisco-49ers,1,0.0,0.00,2017
+0,0,1,0,0.00,0,0.0,0,0,Arnaz BattleA. Battle,san-francisco-49ers,0.0,0,1,2017
+1,1,0.0,1,0,0,Fred BeasleyF. Beasley,0,0,0,san-francisco-49ers,0.0,0.00,0,2017
+0,Antonio BryantA. Bryant,0,0.0,0,6,0.00,3,0,0,san-francisco-49ers,0,6,0.0,2017
+1,0,0,0.0,1,0.0,0,0.0,1,0,san-francisco-49ers,0.00,0,Deke CooperD. Cooper,2017
+0,62,0,74,Vernon DavisV. Davis,0,15,4,1.0,92,san-francisco-49ers,77,11.0,18.50,2017
+1,0,2,0.00,0,0,2,0,0.0,0.0,san-francisco-49ers,0,Trent DilferT. Dilfer,0,2017
+0,0.00,0,0,0.0,Ronald FieldsR. Fields,4,Vernon DavisV. Davis,4,0,san-francisco-49ers,0,0.0,0,2017
+1,0,0,0,DeShaun FosterD. Foster,0,6,0,0.0,19,san-francisco-49ers,13,0.0,0.00,2017
+0,7,12,0,0.00,0,0.0,0,0,Arnaz BattleA. Battle,san-francisco-49ers,0.0,0,5,2017
+1,9,0.0,9,31,0,Dre' BlyD. Bly,0,66,3,san-francisco-49ers,0.0,22.00,0,2017
+2,1.0,10.0,3,0,0,0,26,0.00,0,san-francisco-49ers,Diyral BriggsD. Briggs,0,29,2017
+3,0.0,Ahmad BrooksA. Brooks,2,20,1,0,2,0,0.00,san-francisco-49ers,0,0,0.0,2017
+4,Tarell BrownT. Brown,2,6.0,6,40,26.00,21,0,51,san-francisco-49ers,52,34,33.0,2017
+0,73,5,"4,482",0,Opponents,67,72,1,"1,485",san-francisco-49ers,0,0,62.2,2017
+1,75,14,"4,913",0,Phillip AdamsP. Adams,61,77,0,"1,187",san-francisco-49ers,2,0,63.8,2017
+2,0,0,0,David BaasD. Baas,0,4,0,0.0,13,san-francisco-49ers,9,0.0,0.00,2017
+3,0,4,0.00,0,0,4,0,0.0,0.0,san-francisco-49ers,0,NaVorro BowmanN. Bowman,0,2017
+4,38,8,0,0,0.00,0.0,0.00,Tramaine BrockT. Brock,0.0,san-francisco-49ers,46,0,0,2017
+5,1,4,0,32.00,32,0.0,0,1,Ahmad BrooksA. Brooks,san-francisco-49ers,0.0,32,3,2017
+0,0,1,46,74,18,Opponents,0,"3,802",59,san-francisco-49ers,1,64.4,"1,061",2017
+1,1,2,39,0,0,David AkersD. Akers,0,0,0,san-francisco-49ers,1,0.00,"1,060",2017
+2,0.0,0.0,0,0,111,0,2,0.00,0,san-francisco-49ers,NaVorro BowmanN. Bowman,0,2,2017
+3,11.0,Tramaine BrockT. Brock,143,5,0,18,32,18,9.00,san-francisco-49ers,2,0,2.0,2017
+0,0,1,63,88,"5,757",0,63.0,0,0,san-francisco-49ers,13,San Francisco,0,2017
+1,0,48,74,65,"4,184",0,65.4,0,0,san-francisco-49ers,"1,289",Opponents,40,2017
+2,0,49,73,0,0,0,64.4,0,2,san-francisco-49ers,"1,216",David AkersD. Akers,15,2017
+3,2,0,0,11,11.00,0.0,0.00,NaVorro BowmanN. Bowman,0.0,san-francisco-49ers,2,1,0,2017
+0,0,1,53,92,"5,949",0,53.0,0,0,san-francisco-49ers,24,San Francisco,0,2017
+1,0,54,75,65,"4,036",0,64.7,0,0,san-francisco-49ers,"1,104",Opponents,38,2017
+2,1,32,72,0,0,0,62.1,1,3,san-francisco-49ers,726,Nnamdi AsomughaN. Asomugha,30,2017
+3,2,0,0,0,0.00,0.0,0.00,Anquan BoldinA. Boldin,0.0,san-francisco-49ers,2,0,0,2017
+0,0,0,5.0,2,0.0,0,1.0,2,0,san-francisco-49ers,0.00,0,Desmond BishopD. Bishop,2017
+1,0,0.00,Anquan BoldinA. Boldin,0.0,0.0,0,0.0,0,2,san-francisco-49ers,0,2,0,2017
+2,6.00,12,2,7.0,Tramaine BrockT. Brock,84,Chris BorlandC. Borland,108,24,san-francisco-49ers,0,1.0,12,2017
+0,42,993,45,45,15.00,0,78,Kenneth AckerK. Acker,0,san-francisco-49ers,0,3,0,2017
+1,10,65,0,0.00,0,0.0,45,0,Arik ArmsteadA. Armstead,san-francisco-49ers,0.0,0,55,2017
+2,19,2.0,14,0,0,Ray-Ray ArmstrongR. Armstrong,0,0,0,san-francisco-49ers,12.0,0.00,5,2017
+3,0.0,0.0,0,0,12,0,3,0.00,0,san-francisco-49ers,Nick BelloreN. Bellore,0,3,2017
+0,Arik ArmsteadA. Armstead,0,0,6,15,0.00,0,0,0,san-francisco-49ers,0,9,0,2017
+1,1,5,4.5,8,0.0,5,2.5,7,0,san-francisco-49ers,5.00,1,Ray-Ray ArmstrongR. Armstrong,2017
+2,0,0.00,Marcus BallM. Ball,0.0,0.0,0,0.0,1,3,san-francisco-49ers,0,4,0,2017
+3,0.00,0,0,0.0,Blake BellB. Bell,2,Zane BeadlesZ. Beadles,2,0,san-francisco-49ers,0,0.0,0,2017
+0,0,2,40,83,"5,166",0,25.2,1,2,san-francisco-49ers,2,San Francisco,0,2017
+1,1,15,70,86,"5,258",0,62.2,1,2,san-francisco-49ers,302,Opponents,64,2017
+2,3,31,70,0,0,0,61.1,1,3,san-francisco-49ers,570,Arik ArmsteadA. Armstead,50,2017
+3,8,8,0,29,14.50,1.5,0.00,Ray-Ray ArmstrongR. Armstrong,8.5,san-francisco-49ers,16,2,0,2017
